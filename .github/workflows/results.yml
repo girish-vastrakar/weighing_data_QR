@@ -1,0 +1,53 @@
+name: Update results.json
+
+# Every 15 minutes from 07:30 to 21:15 IST (02:00-15:45 UTC), when the lab is weighing (copied from weighing-data).
+# Running all day would use about 2,900 Actions minutes a month on a private repo,
+# more than the 2,000 free; this window uses about 1,700. Run it by hand from the
+# Actions tab at any other time.
+# Off-peak minutes (7, 22, 37, 52), because GitHub drops many runs scheduled on the
+# quarter hour. The Name Tags Apps Script also starts this job every 15 minutes.
+on:
+  schedule:
+    - cron: "7,22,37,52 2-15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: results
+  cancel-in-progress: false
+
+jobs:
+  results:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Compute results
+        run: python3 scripts/compute_results.py
+
+      - name: Commit if changed
+        run: |
+          git add results.json results.csv retest.json retest.csv corrections.csv
+          if git diff --cached --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "results-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "results: $(python3 -c "import json;c=json.load(open('results.json'))['counts'];print(f\"{c['complete']} complete, {c['incomplete']} incomplete\")")"
+          # The phones write to main all the time, so rebase and retry if main moved.
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 3))
+            git pull --rebase origin main
+            python3 scripts/compute_results.py
+            git add results.json results.csv retest.json retest.csv corrections.csv
+            if ! git diff --cached --quiet; then git commit --amend --no-edit; fi
+          done
+          echo "Could not push after 5 tries" >&2
+          exit 1
