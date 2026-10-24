@@ -90,15 +90,13 @@
     "T612"
    ],
    "out": [],
-   "c": [
-    true
-   ],
+   "c": [],
    "ready": true,
-   "place": "F2",
-   "loadedAt": 1792853424020,
-   "loadedBy": "GC",
-   "start": 1792853430723,
-   "mins": 7
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
   }
  }
 }
