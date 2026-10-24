@@ -16,7 +16,7 @@
     "VM": [
      15.0741,
      16.0732,
-     null
+     15.856
     ],
     "ASH": [
      12.234,
@@ -30,7 +30,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Ash W3 | 24-Oct-2026 20:38"
+   "last": "GC | Volatile Matter W3 | 24-Oct-2026 20:44"
   }
  },
  "batches": {
