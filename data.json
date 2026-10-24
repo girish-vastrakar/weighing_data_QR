@@ -585,6 +585,26 @@
    "loadedBy": "",
    "start": null,
    "mins": null
+  },
+  "2026-10-24-ALL-VM-1": {
+   "bid": "2026-10-24-ALL-VM-1",
+   "test": "VM",
+   "machine": "ALL",
+   "day": "2026-10-24",
+   "no": "ALL-1",
+   "made": 1792842272366,
+   "madeBy": "Gc",
+   "slots": [
+    "Q05"
+   ],
+   "out": [],
+   "c": [],
+   "ready": false,
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
   }
  }
 }
