@@ -598,7 +598,9 @@
     "Q05"
    ],
    "out": [],
-   "c": [],
+   "c": [
+    true
+   ],
    "ready": true,
    "place": "F2",
    "loadedAt": 1792842300873,
