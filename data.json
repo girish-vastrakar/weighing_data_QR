@@ -607,6 +607,26 @@
    "loadedBy": "Gc",
    "start": 1792842326746,
    "mins": 1
+  },
+  "2026-10-24-ALL-MC-2": {
+   "bid": "2026-10-24-ALL-MC-2",
+   "test": "MC",
+   "machine": "ALL",
+   "day": "2026-10-24",
+   "no": "ALL-2",
+   "made": 1792844176419,
+   "madeBy": "Gc",
+   "slots": [
+    "Q09"
+   ],
+   "out": [],
+   "c": [],
+   "ready": false,
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
   }
  }
 }
