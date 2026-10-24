@@ -623,9 +623,9 @@
    "out": [],
    "c": [],
    "ready": true,
-   "place": "O1",
-   "loadedAt": 1792844603287,
-   "loadedBy": "Gc",
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
    "start": null,
    "mins": null
   }
