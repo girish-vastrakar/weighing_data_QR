@@ -578,15 +578,13 @@
     "Q01"
    ],
    "out": [],
-   "c": [
-    true
-   ],
+   "c": [],
    "ready": true,
-   "place": "O1",
-   "loadedAt": 1792842181490,
-   "loadedBy": "Gc",
-   "start": 1792842236434,
-   "mins": 60
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
   }
  }
 }
