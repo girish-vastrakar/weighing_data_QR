@@ -1,0 +1,128 @@
+{
+ "app": "proximate-weighing",
+ "updated": "2026-10-24T16:00:00+05:30",
+ "source": "test seed",
+ "count": 20,
+ "names": {
+  "Q01": {
+   "name": "TEST-TESTSUPPLIERA-Q01",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W1"
+  },
+  "Q02": {
+   "name": "TEST-TESTSUPPLIERB-Q02",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W2"
+  },
+  "Q03": {
+   "name": "TEST-TESTSUPPLIERA-Q03",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W3"
+  },
+  "Q04": {
+   "name": "TEST-TESTSUPPLIERB-Q04",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W4"
+  },
+  "Q05": {
+   "name": "TEST-TESTSUPPLIERA-Q05",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "ALL"
+  },
+  "Q06": {
+   "name": "TEST-TESTSUPPLIERB-Q06",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W1"
+  },
+  "Q07": {
+   "name": "TEST-TESTSUPPLIERA-Q07",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W2"
+  },
+  "Q08": {
+   "name": "TEST-TESTSUPPLIERB-Q08",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W3"
+  },
+  "Q09": {
+   "name": "TEST-TESTSUPPLIERA-Q09",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W4"
+  },
+  "Q10": {
+   "name": "TEST-TESTSUPPLIERB-Q10",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "ALL"
+  },
+  "Q11": {
+   "name": "TEST-TESTSUPPLIERA-Q11",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W1"
+  },
+  "Q12": {
+   "name": "TEST-TESTSUPPLIERB-Q12",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W2"
+  },
+  "Q13": {
+   "name": "TEST-TESTSUPPLIERA-Q13",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W3"
+  },
+  "Q14": {
+   "name": "TEST-TESTSUPPLIERB-Q14",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W4"
+  },
+  "Q15": {
+   "name": "TEST-TESTSUPPLIERA-Q15",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "ALL"
+  },
+  "Q16": {
+   "name": "TEST-TESTSUPPLIERB-Q16",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W1"
+  },
+  "Q17": {
+   "name": "TEST-TESTSUPPLIERA-Q17",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W2"
+  },
+  "Q18": {
+   "name": "TEST-TESTSUPPLIERB-Q18",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "W3"
+  },
+  "Q19": {
+   "name": "TEST-TESTSUPPLIERA-Q19",
+   "supplier": "TestSupplierA",
+   "date": "2026-10-24",
+   "machine": "W4"
+  },
+  "Q20": {
+   "name": "TEST-TESTSUPPLIERB-Q20",
+   "supplier": "TestSupplierB",
+   "date": "2026-10-24",
+   "machine": "ALL"
+  }
+ }
+}
