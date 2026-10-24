@@ -245,7 +245,7 @@
    "w": {
     "MC": [
      25.65,
-     null,
+     26.36,
      null
     ],
     "VM": [
@@ -265,7 +265,7 @@
     ]
    },
    "pct": {},
-   "last": "Gc | Moisture W1 | 24-Oct-2026 17:46"
+   "last": "Gc | Moisture W2 | 24-Oct-2026 17:46"
   },
   "Q10": {
    "tm": false,
