@@ -163,8 +163,8 @@
    "tm": false,
    "w": {
     "MC": [
-     46.56,
-     47.56,
+     null,
+     null,
      null
     ],
     "VM": [
@@ -184,7 +184,7 @@
     ]
    },
    "pct": {},
-   "last": "Gc | Moisture W2 | 24-Oct-2026 17:46"
+   "last": "Gc | Moisture reset | 24-Oct-2026 17:54"
   },
   "Q07": {
    "tm": false,
@@ -607,26 +607,6 @@
    "loadedBy": "Gc",
    "start": 1792842326746,
    "mins": 1
-  },
-  "2026-10-24-ALL-MC-2": {
-   "bid": "2026-10-24-ALL-MC-2",
-   "test": "MC",
-   "machine": "ALL",
-   "day": "2026-10-24",
-   "no": "ALL-2",
-   "made": 1792844176419,
-   "madeBy": "Gc",
-   "slots": [
-    "Q06"
-   ],
-   "out": [],
-   "c": [],
-   "ready": true,
-   "place": null,
-   "loadedAt": null,
-   "loadedBy": "",
-   "start": null,
-   "mins": null
   }
  }
 }
