@@ -53,6 +53,26 @@
    "loadedBy": "",
    "start": null,
    "mins": null
+  },
+  "2026-10-24-ALL-ASH-1": {
+   "bid": "2026-10-24-ALL-ASH-1",
+   "test": "ASH",
+   "machine": "ALL",
+   "day": "2026-10-24",
+   "no": "ALL-1",
+   "made": 1792849566454,
+   "madeBy": "GC",
+   "slots": [
+    "T612"
+   ],
+   "out": [],
+   "c": [],
+   "ready": false,
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
   }
  }
 }
