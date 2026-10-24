@@ -66,7 +66,9 @@
     "T612"
    ],
    "out": [],
-   "c": [],
+   "c": [
+    true
+   ],
    "ready": true,
    "place": "F1",
    "loadedAt": 1792850030038,
