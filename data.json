@@ -580,9 +580,9 @@
    "out": [],
    "c": [],
    "ready": true,
-   "place": null,
-   "loadedAt": null,
-   "loadedBy": "",
+   "place": "O1",
+   "loadedAt": 1792842181490,
+   "loadedBy": "Gc",
    "start": null,
    "mins": null
   }
