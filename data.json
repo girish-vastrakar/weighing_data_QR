@@ -599,7 +599,7 @@
    ],
    "out": [],
    "c": [],
-   "ready": false,
+   "ready": true,
    "place": null,
    "loadedAt": null,
    "loadedBy": "",
