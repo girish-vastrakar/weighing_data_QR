@@ -1,0 +1,61 @@
+{
+ "app": "proximate-results",
+ "version": 1,
+ "generated": "2026-10-24T21:47:22+05:30",
+ "names_updated": "",
+ "limits": {
+  "MC": 17.5,
+  "VM": 17.5,
+  "ASH": 12,
+  "TM": 60
+ },
+ "lower_limits": {
+  "MC": 1.5,
+  "VM": 5,
+  "ASH": 1.5,
+  "TM": 1.5
+ },
+ "dry_basis_limits": [
+  "VM",
+  "ASH"
+ ],
+ "basis": {
+  "moisture": "as received, (W2-W3)/m*100 on MC test",
+  "total_moisture": "as received, (W2-W3)/m*100 on TM test, only for samples with tm on",
+  "vm_ar": "VM furnace loss minus moisture",
+  "vm_db": "vm_ar / (100 - moisture) * 100",
+  "ash_ar": "(W3-W1)/m*100 on ASH test",
+  "ash_db": "ash_ar / (100 - moisture) * 100",
+  "fc": "100 minus the others, by difference"
+ },
+ "count": 1,
+ "counts": {
+  "complete": 1,
+  "incomplete": 0,
+  "not started": 0,
+  "awaiting approval": 0
+ },
+ "results": [
+  {
+   "code": "T612",
+   "name": "",
+   "supplier": "",
+   "date": "",
+   "status": "complete",
+   "pending": [],
+   "moisture": 9.26,
+   "total_moisture": null,
+   "vm_loss": 21.74,
+   "vm_ar": 12.48,
+   "vm_db": 13.76,
+   "ash_ar": 8.17,
+   "ash_db": 9.0,
+   "fc_ar": 70.09,
+   "fc_db": 77.24,
+   "flags": [],
+   "checks": [],
+   "last_entry": "GC | Volatile Matter W3 | 24-Oct-2026 20:44"
+  }
+ ],
+ "awaiting_approval": []
+}

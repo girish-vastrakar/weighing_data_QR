@@ -1,0 +1,30 @@
+{
+ "app": "proximate-retest",
+ "version": 1,
+ "generated": "2026-10-24T21:47:22+05:30",
+ "limits": {
+  "MC": 17.5,
+  "VM": 17.5,
+  "ASH": 12,
+  "TM": 60
+ },
+ "lower_limits": {
+  "MC": 1.5,
+  "VM": 5,
+  "ASH": 1.5,
+  "TM": 1.5
+ },
+ "dry_basis_limits": [
+  "VM",
+  "ASH"
+ ],
+ "rule": "moisture, VM (db), ash (db) or total moisture above the limit, below the lower limit, or negative, and not approved in the weighing app",
+ "count": 0,
+ "by_test": {
+  "MC": 0,
+  "VM": 0,
+  "ASH": 0,
+  "TM": 0
+ },
+ "samples": []
+}
