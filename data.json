@@ -578,7 +578,9 @@
     "Q01"
    ],
    "out": [],
-   "c": [],
+   "c": [
+    true
+   ],
    "ready": true,
    "place": "O1",
    "loadedAt": 1792842181490,
