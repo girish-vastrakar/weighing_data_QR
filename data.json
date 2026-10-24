@@ -564,5 +564,27 @@
    "pct": {},
    "last": ""
   }
+ },
+ "batches": {
+  "2026-10-24-ALL-MC-1": {
+   "bid": "2026-10-24-ALL-MC-1",
+   "test": "MC",
+   "machine": "ALL",
+   "day": "2026-10-24",
+   "no": "ALL-1",
+   "made": 1792842132824,
+   "madeBy": "Gc",
+   "slots": [
+    "Q01"
+   ],
+   "out": [],
+   "c": [],
+   "ready": false,
+   "place": null,
+   "loadedAt": null,
+   "loadedBy": "",
+   "start": null,
+   "mins": null
+  }
  }
 }
