@@ -244,8 +244,8 @@
    "tm": false,
    "w": {
     "MC": [
-     25.65,
-     26.36,
+     null,
+     null,
      null
     ],
     "VM": [
@@ -265,7 +265,7 @@
     ]
    },
    "pct": {},
-   "last": "Gc | Moisture W2 | 24-Oct-2026 17:46"
+   "last": "Gc | Moisture reset | 24-Oct-2026 17:54"
   },
   "Q10": {
    "tm": false,
