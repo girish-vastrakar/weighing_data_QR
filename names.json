@@ -1,0 +1,3540 @@
+{
+ "app": "proximate-weighing-names",
+ "updated": "2026-10-25T22:09:47+05:30",
+ "source": "sample_code_2 / Name Tags",
+ "count": 664,
+ "names": {
+  "T01": {
+   "name": "SUMRASAR-JB1-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T02": {
+   "name": "SUMRASAR-JB2-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T03": {
+   "name": "SUMRASAR-JB3-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T04": {
+   "name": "SUMRASAR-JB4-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T05": {
+   "name": "SUMRASAR-JB5-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T06": {
+   "name": "SUMRASAR-JB6-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T07": {
+   "name": "SUMRASAR-JB7-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T08": {
+   "name": "SUMRASAR-JB8-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T09": {
+   "name": "SUMRASAR-JB9-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T10": {
+   "name": "SUMRASAR-JB10-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T11": {
+   "name": "SUMRASAR-JB11-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T12": {
+   "name": "SUMRASAR-JB12-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T13": {
+   "name": "SUMRASAR-JB13-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T14": {
+   "name": "SUMRASAR-JB14-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T15": {
+   "name": "SUMRASAR-JB15-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T16": {
+   "name": "SUMRASAR-JB16-20261003",
+   "supplier": "Sumrasar",
+   "date": "2026-10-03"
+  },
+  "T17": {
+   "name": "SUMRASAR-JB17-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T18": {
+   "name": "SUMRASAR-JB18-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T19": {
+   "name": "SUMRASAR-JB19-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T20": {
+   "name": "SUMRASAR-JB20-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T21": {
+   "name": "SUMRASAR-JB21-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T22": {
+   "name": "SUMRASAR-JB22-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T23": {
+   "name": "SUMRASAR-JB23-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T24": {
+   "name": "SUMRASAR-JB24-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T25": {
+   "name": "SUMRASAR-JB25-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T26": {
+   "name": "SUMRASAR-JB26-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T27": {
+   "name": "SUMRASAR-JB27-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T28": {
+   "name": "SUMRASAR-JB28-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T29": {
+   "name": "SUMRASAR-JB29-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T30": {
+   "name": "SUMRASAR-JB30-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T31": {
+   "name": "SUMRASAR-JB31-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T32": {
+   "name": "SUMRASAR-JB32-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T33": {
+   "name": "SUMRASAR-JB33-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T34": {
+   "name": "SUMRASAR-JB34-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T35": {
+   "name": "SUMRASAR-JB35-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T36": {
+   "name": "SUMRASAR-JB36-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T37": {
+   "name": "SUMRASAR-JB37-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T38": {
+   "name": "SUMRASAR-JB38-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T39": {
+   "name": "SUMRASAR-JB39-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T40": {
+   "name": "SUMRASAR-JB40-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T41": {
+   "name": "SUMRASAR-JB41-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T42": {
+   "name": "SUMRASAR-JB42-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T43": {
+   "name": "SUMRASAR-JB43-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T44": {
+   "name": "SUMRASAR-JB44-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T45": {
+   "name": "SUMRASAR-JB45-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T46": {
+   "name": "SUMRASAR-JB46-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T47": {
+   "name": "SUMRASAR-JB47-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T48": {
+   "name": "SUMRASAR-JB48-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T49": {
+   "name": "SUMRASAR-JB49-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T50": {
+   "name": "SUMRASAR-JB50-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T51": {
+   "name": "SUMRASAR-JB51-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T52": {
+   "name": "SUMRASAR-JB52-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T53": {
+   "name": "SUMRASAR-JB53-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T54": {
+   "name": "SUMRASAR-JB54-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T55": {
+   "name": "SUMRASAR-JB55-20261006",
+   "supplier": "Sumrasar",
+   "date": "2026-10-06"
+  },
+  "T56": {
+   "name": "SUM/56 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T57": {
+   "name": "SUM/57 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T58": {
+   "name": "SUM/58 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T59": {
+   "name": "SUM/59 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T60": {
+   "name": "SUM/60 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T61": {
+   "name": "SUM/61 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T62": {
+   "name": "SUM/62 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T63": {
+   "name": "SUM/63 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T64": {
+   "name": "SUM/64 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T65": {
+   "name": "SUM/65 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-07"
+  },
+  "T66": {
+   "name": "SUM/66 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T67": {
+   "name": "SUM/67 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T68": {
+   "name": "SUM/68 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T69": {
+   "name": "SUM/69 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T70": {
+   "name": "SUM/70 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T71": {
+   "name": "SUM/71 Tata 500 PO",
+   "supplier": "Sumrasar",
+   "date": "2026-10-08"
+  },
+  "T72": {
+   "name": "Kiln_07/01",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T73": {
+   "name": "Kiln_07/02",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T74": {
+   "name": "Kiln_07/03",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T75": {
+   "name": "Kiln_07/04",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T76": {
+   "name": "Kiln_07/05",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T77": {
+   "name": "Kiln_07/06",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T78": {
+   "name": "Kiln_07/07",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T79": {
+   "name": "Kiln_07/08",
+   "supplier": "Kiln 7",
+   "date": "2026-10-05"
+  },
+  "T80": {
+   "name": "Kiln_05/01",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T81": {
+   "name": "Kiln_05/02",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T82": {
+   "name": "Kiln_05/03",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T83": {
+   "name": "Kiln_05/04",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T84": {
+   "name": "Kiln_05/05",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T85": {
+   "name": "Kiln_05/06",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T86": {
+   "name": "Kiln_05/07",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T87": {
+   "name": "Kiln_05/08",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T88": {
+   "name": "Kiln_05/09",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T89": {
+   "name": "Kiln_05/10",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T90": {
+   "name": "Kiln_05/11",
+   "supplier": "Kiln 5",
+   "date": "2026-10-06"
+  },
+  "T91": {
+   "name": "ANJ-0610-01",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T92": {
+   "name": "ANJ-0610-02",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T93": {
+   "name": "ANJ-0610-03",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T94": {
+   "name": "ANJ-0610-04",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T95": {
+   "name": "ANJ-0610-05",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T96": {
+   "name": "ANJ-0610-06",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T97": {
+   "name": "ANJ-0610-07",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T98": {
+   "name": "ANJ-0610-08",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T99": {
+   "name": "ANJ-0610-09",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T100": {
+   "name": "ANJ-0610-10",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T101": {
+   "name": "ANJ-0610-11",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T102": {
+   "name": "ANJ-0610-12",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T103": {
+   "name": "ANJ-0610-13",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T104": {
+   "name": "ANJ-0610-14",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T105": {
+   "name": "ANJ-0610-15",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T106": {
+   "name": "ANJ-0610-16",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T107": {
+   "name": "ANJ-0610-17",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T108": {
+   "name": "ANJ-0610-18",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T109": {
+   "name": "ANJ-0610-19",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T110": {
+   "name": "ANJ-0610-20",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T111": {
+   "name": "ANJ-0610-21",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T112": {
+   "name": "ANJ-0610-22",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T113": {
+   "name": "ANJ-0610-23",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T114": {
+   "name": "ANJ-0610-24",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T115": {
+   "name": "ANJ-0610-25",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T116": {
+   "name": "ANJ-0610-26",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T117": {
+   "name": "ANJ-0610-27",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T118": {
+   "name": "ANJ-0610-28",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T119": {
+   "name": "ANJ-0610-29",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T120": {
+   "name": "ANJ-0610-30",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T121": {
+   "name": "ANJ-0610-31",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T122": {
+   "name": "ANJ-0610-32",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T123": {
+   "name": "ANJ-0610-33",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T124": {
+   "name": "ANJ-0610-34",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T125": {
+   "name": "ANJ-0610-35",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T126": {
+   "name": "ANJ-0610-36",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T127": {
+   "name": "ANJ-0610-37",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T128": {
+   "name": "ANJ-0610-38",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T129": {
+   "name": "ANJ-0610-39",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T130": {
+   "name": "ANJ-0610-40",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T131": {
+   "name": "ANJ-0610-41",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T132": {
+   "name": "ANJ-0610-42",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T133": {
+   "name": "ANJ-0610-43",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T134": {
+   "name": "ANJ-0610-44",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T135": {
+   "name": "ANJ-0610-45",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T136": {
+   "name": "ANJ-0610-46",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T137": {
+   "name": "ANJ-0610-47",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T138": {
+   "name": "ANJ-0610-48",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T139": {
+   "name": "ANJ-0610-49",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T140": {
+   "name": "ANJ-0610-50",
+   "supplier": "Patel Bhai",
+   "date": "2026-10-06"
+  },
+  "T141": {
+   "name": "K5/01",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-24"
+  },
+  "T142": {
+   "name": "K5/02",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-24"
+  },
+  "T143": {
+   "name": "K5/03",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-24"
+  },
+  "T144": {
+   "name": "K5/04",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-24"
+  },
+  "T145": {
+   "name": "K4/left",
+   "supplier": "Anjar/Kiln"
+  },
+  "T146": {
+   "name": "K4/right",
+   "supplier": "Anjar/Kiln"
+  },
+  "T147": {
+   "name": "K4/middle",
+   "supplier": "Anjar/Kiln"
+  },
+  "T148": {
+   "name": "K4/front",
+   "supplier": "Anjar/Kiln"
+  },
+  "T149": {
+   "name": "K4/back",
+   "supplier": "Anjar/Kiln"
+  },
+  "T150": {
+   "name": "K6/left",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-29"
+  },
+  "T151": {
+   "name": "K6/right",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-29"
+  },
+  "T152": {
+   "name": "K6/middle",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-29"
+  },
+  "T153": {
+   "name": "K6/front",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-29"
+  },
+  "T154": {
+   "name": "K6/back",
+   "supplier": "Anjar/Kiln",
+   "date": "2026-09-29"
+  },
+  "T155": {
+   "name": "Khyati/01",
+   "supplier": "Sumrasar"
+  },
+  "T156": {
+   "name": "Khyati/02",
+   "supplier": "Sumrasar"
+  },
+  "T157": {
+   "name": "Khyati/03",
+   "supplier": "Sumrasar"
+  },
+  "T158": {
+   "name": "Khyati/04",
+   "supplier": "Sumrasar"
+  },
+  "T159": {
+   "name": "Khyati/05",
+   "supplier": "Sumrasar"
+  },
+  "T160": {
+   "name": "CKM/26-09-26/A1",
+   "supplier": "Tamil Nadu"
+  },
+  "T161": {
+   "name": "KMT/25-09-26/A2",
+   "supplier": "Tamil Nadu"
+  },
+  "T162": {
+   "name": "PRT/30-09-26/A1",
+   "supplier": "Tamil Nadu"
+  },
+  "T163": {
+   "name": "KMT/25-09-26/A2",
+   "supplier": "Tamil Nadu"
+  },
+  "T164": {
+   "name": "Drum Top",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T165": {
+   "name": "K-A2",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T166": {
+   "name": "Drum Bottom-1",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T167": {
+   "name": "K-A1",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T168": {
+   "name": "K-A3",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T169": {
+   "name": "Drum-Bottom-2",
+   "supplier": "Drum_trail",
+   "date": "2026-10-10"
+  },
+  "T170": {
+   "name": "SUM/72 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T171": {
+   "name": "SUM/73 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T172": {
+   "name": "SUM/74 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T173": {
+   "name": "SUM/75 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T174": {
+   "name": "SUM/76 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T175": {
+   "name": "SUM/77 [JUMBO] (2)",
+   "supplier": "Sumrasar",
+   "date": "2026-10-10"
+  },
+  "T176": {
+   "name": "SUM/78 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T177": {
+   "name": "SUM/79 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T178": {
+   "name": "SUM/80 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T179": {
+   "name": "SUM/81 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T180": {
+   "name": "SUM/82 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T181": {
+   "name": "SUM/83 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T182": {
+   "name": "SUM/84 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T183": {
+   "name": "SUM/85 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T184": {
+   "name": "SUM/86 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T185": {
+   "name": "SUM/87 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T186": {
+   "name": "SUM/88 [JUMBO]",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T187": {
+   "name": "SUM/34 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T188": {
+   "name": "SUM/35 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T189": {
+   "name": "SUM/36 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T190": {
+   "name": "SUM/37 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T191": {
+   "name": "SUM/38 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T192": {
+   "name": "SUM/39 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T193": {
+   "name": "SUM/40 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T194": {
+   "name": "SUM/41 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T195": {
+   "name": "SUM/42 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T196": {
+   "name": "SUM/43 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T197": {
+   "name": "SUM/58 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T198": {
+   "name": "SUM/59 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T199": {
+   "name": "SUM/60 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T200": {
+   "name": "SUM/61 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T201": {
+   "name": "SUM/62 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T202": {
+   "name": "SUM/63 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T203": {
+   "name": "SUM/64 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T204": {
+   "name": "SUM/65 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T205": {
+   "name": "SUM/66 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T206": {
+   "name": "SUM/67 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T207": {
+   "name": "SUM/68 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T208": {
+   "name": "SUM/69 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T209": {
+   "name": "SUM/70 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T210": {
+   "name": "SUM/71 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-11"
+  },
+  "T211": {
+   "name": "SUM/01 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T212": {
+   "name": "SUM/17 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T213": {
+   "name": "SUM/18 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T214": {
+   "name": "SUM/19 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T215": {
+   "name": "SUM/20 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T216": {
+   "name": "SUM/21 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T217": {
+   "name": "SUM/22 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T218": {
+   "name": "SUM/23 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T219": {
+   "name": "SUM/24 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T220": {
+   "name": "SUM/25 [JUMBO] R1",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T221": {
+   "name": "CH2-PRE-OM-01",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T222": {
+   "name": "CH2-PRE-OM-02",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T223": {
+   "name": "CH2-PRE-OM-03",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T224": {
+   "name": "CH2-PRE-OM-04",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T225": {
+   "name": "CH2-PRE-OM-05",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T226": {
+   "name": "CH2-PRE-OM-06",
+   "supplier": "Sumrasar",
+   "date": "2026-10-14"
+  },
+  "T227": {
+   "name": "JUR-PRE-White ashy",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T228": {
+   "name": "JUR-PRE-Non ashy",
+   "supplier": "Sumrasar",
+   "date": "2026-10-13"
+  },
+  "T229": {
+   "name": "GOR-sieve-01",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T230": {
+   "name": "GOR-un-sieved-02",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T231": {
+   "name": "GOR-churi",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T232": {
+   "name": "SUM/02 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T233": {
+   "name": "SUM/03 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T234": {
+   "name": "SUM/04 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T235": {
+   "name": "SUM/05 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T236": {
+   "name": "SUM/06 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T237": {
+   "name": "SUM/07 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T238": {
+   "name": "SUM/08 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T239": {
+   "name": "SUM/09 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T240": {
+   "name": "SUM/10 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T241": {
+   "name": "SUM/11 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T242": {
+   "name": "SUM/12 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T243": {
+   "name": "SUM/13 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T244": {
+   "name": "SUM/14 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T245": {
+   "name": "SUM/15 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T246": {
+   "name": "SUM/16 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T247": {
+   "name": "SUM/26 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T248": {
+   "name": "SUM/27 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14",
+   "machine": "W1"
+  },
+  "T249": {
+   "name": "SUM/28 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T250": {
+   "name": "SUM/29 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T251": {
+   "name": "SUM/30 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T252": {
+   "name": "SUM/31 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T253": {
+   "name": "SUM/32 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T254": {
+   "name": "SUM/33 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T255": {
+   "name": "SUM/44 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T256": {
+   "name": "SUM/45 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T257": {
+   "name": "SUM/46 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T258": {
+   "name": "SUM/47 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T259": {
+   "name": "SUM/48 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T260": {
+   "name": "SUM/49 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T261": {
+   "name": "SUM/50 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T262": {
+   "name": "SUM/51 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T263": {
+   "name": "SUM/52 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T264": {
+   "name": "SUM/53 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T265": {
+   "name": "SUM/54 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T266": {
+   "name": "SUM/55 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T267": {
+   "name": "SUM/56 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T268": {
+   "name": "SUM/57 (14/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-14"
+  },
+  "T270": {
+   "name": "SUM-1",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T271": {
+   "name": "SUM-2",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T273": {
+   "name": "SUM-3",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T274": {
+   "name": "SUM-4",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T275": {
+   "name": "SUM-5",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T276": {
+   "name": "SUM-6",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T277": {
+   "name": "SUM-7",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T278": {
+   "name": "SUM-8",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T279": {
+   "name": "SUM-9",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T280": {
+   "name": "SUM-10",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T281": {
+   "name": "SUM-11",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T282": {
+   "name": "SUM-12",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T283": {
+   "name": "SUM-13",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T284": {
+   "name": "SUM-14",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T285": {
+   "name": "SUM-15",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T286": {
+   "name": "SUM-16",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T287": {
+   "name": "SUM-17",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T288": {
+   "name": "SUM-18",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T289": {
+   "name": "SUM-19",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T290": {
+   "name": "SUM-20",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T291": {
+   "name": "SUM-21",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T292": {
+   "name": "SUM-22",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T293": {
+   "name": "SUM-23",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T294": {
+   "name": "SUM-24",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T295": {
+   "name": "SUM-25",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T296": {
+   "name": "SUM-26",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13",
+   "machine": "W1"
+  },
+  "T297": {
+   "name": "SUM-27",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T298": {
+   "name": "SUM-28",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T299": {
+   "name": "SUM-29",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T300": {
+   "name": "SUM-30",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-13"
+  },
+  "T301": {
+   "name": "SUM-31",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T302": {
+   "name": "SUM-32",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T303": {
+   "name": "SUM-33",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T304": {
+   "name": "SUM-34",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T305": {
+   "name": "SUM-35",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T306": {
+   "name": "SUM-36",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T307": {
+   "name": "SUM-37",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T308": {
+   "name": "SUM-38",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T309": {
+   "name": "SUM-39",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T310": {
+   "name": "SUM-40",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T311": {
+   "name": "SUM-41",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T312": {
+   "name": "SUM-42",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T313": {
+   "name": "SUM-43",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T314": {
+   "name": "SUM-44",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T315": {
+   "name": "SUM-45",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T316": {
+   "name": "SUM-46",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T317": {
+   "name": "SUM-47",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T318": {
+   "name": "SUM-48",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T319": {
+   "name": "SUM-49",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T320": {
+   "name": "SUM-50",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T321": {
+   "name": "SUM-51",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14",
+   "machine": "W1"
+  },
+  "T322": {
+   "name": "SUM-52",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T323": {
+   "name": "SUM-53",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T324": {
+   "name": "SUM-54",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T325": {
+   "name": "SUM-55",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T326": {
+   "name": "SUM-56",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T327": {
+   "name": "SUM-57",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T328": {
+   "name": "SUM-58",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T329": {
+   "name": "SUM-59",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T330": {
+   "name": "SUM-60",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T331": {
+   "name": "SUM-61",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T332": {
+   "name": "SUM-62",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T333": {
+   "name": "SUM-63",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T334": {
+   "name": "SUM-64",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T335": {
+   "name": "SUM-65",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T336": {
+   "name": "SUM-66",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T337": {
+   "name": "SUM-67",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T338": {
+   "name": "SUM-68",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T339": {
+   "name": "SUM-69",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14",
+   "machine": "W1"
+  },
+  "T340": {
+   "name": "SUM-70",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T341": {
+   "name": "SUM-71",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T342": {
+   "name": "SUM-72",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14",
+   "machine": "W1"
+  },
+  "T343": {
+   "name": "SUM-73",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T344": {
+   "name": "SUM-74",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T345": {
+   "name": "SUM-75",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T346": {
+   "name": "SUM-76",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T347": {
+   "name": "SUM-77",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T348": {
+   "name": "SUM-78",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T349": {
+   "name": "SUM-79",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T350": {
+   "name": "SUM-80",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14"
+  },
+  "T351": {
+   "name": "SUM-81",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-14",
+   "machine": "W1"
+  },
+  "T352": {
+   "name": "NAL/01",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T353": {
+   "name": "NAL/02",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T354": {
+   "name": "NAL/03",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T355": {
+   "name": "NAL/04",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T356": {
+   "name": "NAL/05",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T357": {
+   "name": "NAL/06",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T358": {
+   "name": "NAL/07",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T359": {
+   "name": "NAL/08",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T360": {
+   "name": "NAL/09",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T361": {
+   "name": "NAL/10",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T362": {
+   "name": "NAL/11",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T363": {
+   "name": "NAL/12",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T364": {
+   "name": "NAL/13",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T365": {
+   "name": "NAL/14",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T366": {
+   "name": "NAL/15",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T367": {
+   "name": "NAL/16",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T368": {
+   "name": "NAL/17",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T369": {
+   "name": "NAL/18",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T370": {
+   "name": "NAL/19",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T371": {
+   "name": "NAL/20",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T372": {
+   "name": "NAL/21",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T373": {
+   "name": "NAL/22",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T374": {
+   "name": "NAL/23",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T375": {
+   "name": "NAL/24",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T376": {
+   "name": "NAL/25",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T377": {
+   "name": "NAL/26",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T378": {
+   "name": "NAL/27",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T379": {
+   "name": "NAL/28",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T380": {
+   "name": "NAL/29",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T381": {
+   "name": "NAL/30",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-14"
+  },
+  "T382": {
+   "name": "NAL/31",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T383": {
+   "name": "NAL/32",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15",
+   "machine": "W1"
+  },
+  "T384": {
+   "name": "NAL/33",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T385": {
+   "name": "NAL/34",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T386": {
+   "name": "NAL/35",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T387": {
+   "name": "NAL/36",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T388": {
+   "name": "NAL/37",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T389": {
+   "name": "NAL/38",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T390": {
+   "name": "NAL/39",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T391": {
+   "name": "NAL/40",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T392": {
+   "name": "NAL/41",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T393": {
+   "name": "NAL/42",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15",
+   "machine": "W1"
+  },
+  "T394": {
+   "name": "NAL/43",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T395": {
+   "name": "NAL/44",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T396": {
+   "name": "NAL/45",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T397": {
+   "name": "NAL/46",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15",
+   "machine": "W1"
+  },
+  "T398": {
+   "name": "NAL/47",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15",
+   "machine": "W1"
+  },
+  "T399": {
+   "name": "NAL/48",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T400": {
+   "name": "NAL/49",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15",
+   "machine": "W1"
+  },
+  "T401": {
+   "name": "NAL/50",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T402": {
+   "name": "NAL/51",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T403": {
+   "name": "NAL/52",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T404": {
+   "name": "NAL/53",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T405": {
+   "name": "NAL/54",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T406": {
+   "name": "NAL/55",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T407": {
+   "name": "NAL/56",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T408": {
+   "name": "NAL/57",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T409": {
+   "name": "NAL/58",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T410": {
+   "name": "NAL/59",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T411": {
+   "name": "NAL/60",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-15"
+  },
+  "T412": {
+   "name": "Abdul Fresh - 9",
+   "supplier": "Tata 500 PO dMRV . Naliya . Batch Sampling",
+   "date": "2026-10-15"
+  },
+  "T413": {
+   "name": "Abdul Fresh - 10",
+   "supplier": "Tata 500 PO dMRV . Naliya . Batch Sampling",
+   "date": "2026-10-15"
+  },
+  "T414": {
+   "name": "Abdul Fresh - 11",
+   "supplier": "Tata 500 PO dMRV . Naliya . Batch Sampling",
+   "date": "2026-10-15"
+  },
+  "T415": {
+   "name": "Abdul Fresh - 12",
+   "supplier": "Tata 500 PO dMRV . Naliya . Batch Sampling",
+   "date": "2026-10-15"
+  },
+  "T416": {
+   "name": "Abdul Fresh - 13",
+   "supplier": "Tata 500 PO dMRV . Naliya . Batch Sampling",
+   "date": "2026-10-15"
+  },
+  "T417": {
+   "name": "JUR-1 bch",
+   "supplier": "Tata 500 PO dMRV · Jura · Pre-bagging sampling",
+   "date": "2026-10-15"
+  },
+  "T418": {
+   "name": "JUR-2 bch",
+   "supplier": "Tata 500 PO dMRV · Jura · Pre-bagging sampling",
+   "date": "2026-10-15"
+  },
+  "T419": {
+   "name": "JUR-3 bch",
+   "supplier": "Tata 500 PO dMRV · Jura · Pre-bagging sampling",
+   "date": "2026-10-15"
+  },
+  "T420": {
+   "name": "JUR-4 ch",
+   "supplier": "Tata 500 PO dMRV · Jura · Pre-bagging sampling",
+   "date": "2026-10-15"
+  },
+  "T421": {
+   "name": "SUM/34 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T422": {
+   "name": "SUM/35 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T423": {
+   "name": "SUM/36 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T424": {
+   "name": "SUM/37 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T425": {
+   "name": "SUM/38 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T426": {
+   "name": "SUM/39 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T427": {
+   "name": "SUM/40 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T428": {
+   "name": "SUM/41 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T429": {
+   "name": "SUM/42 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T430": {
+   "name": "SUM/43 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T431": {
+   "name": "SUM/58 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T432": {
+   "name": "SUM/59 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T433": {
+   "name": "SUM/60 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T434": {
+   "name": "SUM/61 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T435": {
+   "name": "SUM/62 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T436": {
+   "name": "SUM/63 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T437": {
+   "name": "SUM/64 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T438": {
+   "name": "SUM/65 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T439": {
+   "name": "SUM/66 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T440": {
+   "name": "SUM/67 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15",
+   "machine": "W4"
+  },
+  "T441": {
+   "name": "SUM/68 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T442": {
+   "name": "SUM/69 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T443": {
+   "name": "SUM/70 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15"
+  },
+  "T444": {
+   "name": "SUM/71 R2 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-15",
+   "machine": "W4"
+  },
+  "T445": {
+   "name": "SUM/72 R1 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-15"
+  },
+  "T446": {
+   "name": "SUM/73 R1 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-15",
+   "machine": "W4"
+  },
+  "T447": {
+   "name": "SUM/74 R1 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-15"
+  },
+  "T448": {
+   "name": "SUM/75 R1 (15/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-15"
+  },
+  "T449": {
+   "name": "AP-PMD/07-09-26/A",
+   "supplier": "Climitra Lab Portal · Anjanelu",
+   "date": "2026-10-02"
+  },
+  "T450": {
+   "name": "AP-ANY/09-09-26/A",
+   "supplier": "Climitra Lab Portal · Venkat Reddy",
+   "date": "2026-10-02"
+  },
+  "T451": {
+   "name": "AP-PMD/24-09-26/A",
+   "supplier": "Climitra Lab Portal · Suresh",
+   "date": "2026-10-02"
+  },
+  "T452": {
+   "name": "AP-PMD/24-09-26/B",
+   "supplier": "Climitra Lab Portal · Narayana Swami",
+   "date": "2026-10-02"
+  },
+  "T453": {
+   "name": "MDK/PCS/25-09-26/B",
+   "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
+   "date": "2026-10-02"
+  },
+  "T454": {
+   "name": "MDK/PCS/01-10-26/A",
+   "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
+   "date": "2026-10-02"
+  },
+  "T455": {
+   "name": "SUM/76 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T456": {
+   "name": "SUM/77 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T457": {
+   "name": "SUM/78 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T458": {
+   "name": "SUM/79 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T459": {
+   "name": "SUM/80 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T460": {
+   "name": "SUM/81 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T461": {
+   "name": "SUM/82 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T462": {
+   "name": "SUM/83 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T463": {
+   "name": "SUM/84 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T464": {
+   "name": "SUM/85 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W4"
+  },
+  "T465": {
+   "name": "SUM/86 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T466": {
+   "name": "SUM/87 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T467": {
+   "name": "SUM/88 R1 (17/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-17",
+   "machine": "W1"
+  },
+  "T468": {
+   "name": "JUR/01",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T469": {
+   "name": "JUR/02",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T470": {
+   "name": "JUR/03",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T471": {
+   "name": "JUR/04",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T472": {
+   "name": "JUR/05",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T473": {
+   "name": "JUR/06",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T474": {
+   "name": "JUR/07",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T475": {
+   "name": "JUR/08",
+   "supplier": "Tata 500 PO dMRV · Jura · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T476": {
+   "name": "GOR/01",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-19",
+   "machine": "W2"
+  },
+  "T477": {
+   "name": "GOR/02",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-19",
+   "machine": "W2"
+  },
+  "T478": {
+   "name": "GOR/03",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-19",
+   "machine": "W2"
+  },
+  "T479": {
+   "name": "GOR/04",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-19",
+   "machine": "W2"
+  },
+  "T480": {
+   "name": "GOR/05",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-19",
+   "machine": "W2"
+  },
+  "T481": {
+   "name": "CH1-PREBAG 01",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Pre-bagging sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T482": {
+   "name": "CH1-PREBAG 02",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Pre-bagging sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T483": {
+   "name": "CH2-PREBAG 01",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Pre-bagging sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T484": {
+   "name": "CH2-PREBAG 02",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Pre-bagging sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T485": {
+   "name": "NAL/61",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W4"
+  },
+  "T486": {
+   "name": "NAL/62",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W1"
+  },
+  "T487": {
+   "name": "NAL/63",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T488": {
+   "name": "NAL/64",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W1"
+  },
+  "T489": {
+   "name": "NAL/65",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T490": {
+   "name": "NAL/66",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T491": {
+   "name": "NAL/67",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T492": {
+   "name": "NAL/68",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T493": {
+   "name": "NAL/69",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W1"
+  },
+  "T494": {
+   "name": "NAL/70",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T495": {
+   "name": "NAL/71",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W2"
+  },
+  "T496": {
+   "name": "NAL/72",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-16",
+   "machine": "W4"
+  },
+  "T497": {
+   "name": "NAL/73",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T498": {
+   "name": "NAL/74",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T499": {
+   "name": "NAL/75",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T500": {
+   "name": "NAL/76",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T501": {
+   "name": "NAL/77",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T502": {
+   "name": "NAL/78",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T503": {
+   "name": "NAL/79",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T504": {
+   "name": "NAL/80",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T505": {
+   "name": "NAL/81",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T506": {
+   "name": "NAL/82",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T507": {
+   "name": "NAL/83",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T508": {
+   "name": "NAL/84",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T509": {
+   "name": "NAL/85",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W2"
+  },
+  "T510": {
+   "name": "NAL/86",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T511": {
+   "name": "NAL/87",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T512": {
+   "name": "NAL/88",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T513": {
+   "name": "NAL/89",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T514": {
+   "name": "NAL/90",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T515": {
+   "name": "NAL/91",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T516": {
+   "name": "NAL/92",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T517": {
+   "name": "NAL/93",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T518": {
+   "name": "NAL/94",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T519": {
+   "name": "NAL/95",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T520": {
+   "name": "NAL/96",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T521": {
+   "name": "NAL/97",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T522": {
+   "name": "NAL/98",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W1"
+  },
+  "T523": {
+   "name": "NAL/99",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T524": {
+   "name": "NAL/100",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-18",
+   "machine": "W4"
+  },
+  "T525": {
+   "name": "NAL/15 R1 (18/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T526": {
+   "name": "NAL/20 R1 (18/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-18",
+   "machine": "W3"
+  },
+  "T527": {
+   "name": "SUM-82",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T528": {
+   "name": "SUM-83",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T529": {
+   "name": "SUM-84",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T530": {
+   "name": "SUM-85",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T531": {
+   "name": "SUM-86",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T532": {
+   "name": "SUM-87",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T533": {
+   "name": "SUM-88",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T534": {
+   "name": "SUM-89",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T535": {
+   "name": "SUM-90",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T536": {
+   "name": "SUM-91",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T537": {
+   "name": "SUM-92",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T538": {
+   "name": "SUM-93",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T539": {
+   "name": "SUM-94",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T540": {
+   "name": "SUM-95",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W4"
+  },
+  "T541": {
+   "name": "SUM-96",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T542": {
+   "name": "SUM-97",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T543": {
+   "name": "SUM-98",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T544": {
+   "name": "SUM-99",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T545": {
+   "name": "SUM-100",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T546": {
+   "name": "SUM-101",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T547": {
+   "name": "SUM-102",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T548": {
+   "name": "SUM-103",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T549": {
+   "name": "SUM-104",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T550": {
+   "name": "SUM-105",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T551": {
+   "name": "SUM-106",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T552": {
+   "name": "SUM-107",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T553": {
+   "name": "SUM-108",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T554": {
+   "name": "SUM-109",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T555": {
+   "name": "SUM-110",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T556": {
+   "name": "SUM-4 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T557": {
+   "name": "SUM-5 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T558": {
+   "name": "SUM-7 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T559": {
+   "name": "SUM-8 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T560": {
+   "name": "SUM-10 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T561": {
+   "name": "SUM-11 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T562": {
+   "name": "SUM-12 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T563": {
+   "name": "SUM-16 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T564": {
+   "name": "SUM-18 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T565": {
+   "name": "SUM-24 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T566": {
+   "name": "SUM-42 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T567": {
+   "name": "SUM-53 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T568": {
+   "name": "SUM-57 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T569": {
+   "name": "SUM-71 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T570": {
+   "name": "SUM-74 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T571": {
+   "name": "SUM-75 R1 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling · Retest 1",
+   "date": "2026-10-21",
+   "machine": "W3"
+  },
+  "T572": {
+   "name": "GOR-ash-01",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W4"
+  },
+  "T573": {
+   "name": "GOR-ash-02",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W4"
+  },
+  "T574": {
+   "name": "GOR-ash-03",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W4"
+  },
+  "T575": {
+   "name": "GOR-ash-04",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Pre-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W4"
+  },
+  "T576": {
+   "name": "SUM-111",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T577": {
+   "name": "SUM-112",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T578": {
+   "name": "SUM-113",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T579": {
+   "name": "SUM-114",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T580": {
+   "name": "SUM-115",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T581": {
+   "name": "SUM-116",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T582": {
+   "name": "SUM-117",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T583": {
+   "name": "SUM-118",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T584": {
+   "name": "SUM-119",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T585": {
+   "name": "SUM-120",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T586": {
+   "name": "SUM-121",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T587": {
+   "name": "SUM-122",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T588": {
+   "name": "SUM-123",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T589": {
+   "name": "SUM-124",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Post-bagging sampling",
+   "date": "2026-10-21",
+   "machine": "W1"
+  },
+  "T590": {
+   "name": "SUM/04 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T591": {
+   "name": "SUM/15 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T592": {
+   "name": "SUM/16 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T593": {
+   "name": "SUM/46 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T594": {
+   "name": "SUM/49 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T595": {
+   "name": "SUM/54 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T596": {
+   "name": "SUM/59 R3 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T597": {
+   "name": "SUM/67 R3 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T598": {
+   "name": "SUM/72 R2 (21/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-21",
+   "machine": "W2"
+  },
+  "T599": {
+   "name": "SUM/27 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T600": {
+   "name": "SUM/37 R3 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T601": {
+   "name": "SUM/85 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T602": {
+   "name": "SUM/89",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T603": {
+   "name": "SUM/90",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T604": {
+   "name": "SUM/91",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W2"
+  },
+  "T605": {
+   "name": "NAL/09 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T606": {
+   "name": "NAL/32 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T607": {
+   "name": "NAL/33 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T608": {
+   "name": "NAL/38 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T609": {
+   "name": "NAL/42 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T610": {
+   "name": "NAL/46 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T611": {
+   "name": "NAL/47 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T612": {
+   "name": "NAL/49 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T613": {
+   "name": "NAL/50 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T614": {
+   "name": "NAL/55 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T615": {
+   "name": "NAL/56 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T616": {
+   "name": "NAL/57 R2 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 2",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T617": {
+   "name": "NAL/101",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T618": {
+   "name": "NAL/102",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T619": {
+   "name": "NAL/103",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T620": {
+   "name": "NAL/104",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T621": {
+   "name": "NAL/105",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T622": {
+   "name": "NAL/106",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T623": {
+   "name": "NAL/107",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T624": {
+   "name": "NAL/108",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T625": {
+   "name": "NAL/109",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T626": {
+   "name": "NAL/110",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T627": {
+   "name": "NAL/111",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T628": {
+   "name": "NAL/112",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T629": {
+   "name": "NAL/113",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T630": {
+   "name": "NAL/114",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T631": {
+   "name": "NAL/115",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T632": {
+   "name": "NAL/116",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W1"
+  },
+  "T633": {
+   "name": "NAL/117",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T634": {
+   "name": "NAL/118",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T635": {
+   "name": "NAL/119",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T636": {
+   "name": "NAL/120",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T637": {
+   "name": "NAL/121",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T638": {
+   "name": "NAL/122",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T639": {
+   "name": "NAL/123",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T640": {
+   "name": "NAL/124",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T641": {
+   "name": "NAL/125",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T642": {
+   "name": "NAL/126",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T643": {
+   "name": "NAL/127",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T644": {
+   "name": "NAL/128",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W2"
+  },
+  "T645": {
+   "name": "NAL/129",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T646": {
+   "name": "NAL/130",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T647": {
+   "name": "NAL/131",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T648": {
+   "name": "NAL/132",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T649": {
+   "name": "NAL/133",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T650": {
+   "name": "NAL/134",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T651": {
+   "name": "NAL/135",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T652": {
+   "name": "NAL/136",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-20",
+   "machine": "W3"
+  },
+  "T653": {
+   "name": "NAL/137",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T654": {
+   "name": "NAL/138",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T655": {
+   "name": "NAL/139",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T656": {
+   "name": "NAL/140",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T657": {
+   "name": "NAL/141",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T658": {
+   "name": "NAL/142",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T659": {
+   "name": "NAL/143",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T660": {
+   "name": "NAL/144",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T661": {
+   "name": "NAL/145",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T662": {
+   "name": "NAL/146",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T663": {
+   "name": "NAL/147",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T664": {
+   "name": "NAL/148",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T665": {
+   "name": "NAL/149",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  },
+  "T666": {
+   "name": "NAL/150",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-22",
+   "machine": "W4"
+  }
+ }
+}
