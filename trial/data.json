@@ -2,7 +2,8 @@
  "app": "proximate-weighing",
  "version": 1,
  "codes": [
-  "Q06"
+  "Q06",
+  "T695"
  ],
  "samples": {
   "Q06": {
@@ -37,6 +38,33 @@
    "ha": {
     "MC": 1792931077322
    }
+  },
+  "T695": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "runs": {
