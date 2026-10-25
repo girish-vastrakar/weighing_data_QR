@@ -90,23 +90,6 @@
    "mins": 1,
    "by": "GC",
    "outAt": null
-  },
-  "1792941891761-F2": {
-   "rid": "1792941891761-F2",
-   "place": "F2",
-   "test": "ASH",
-   "tray": "ASH A",
-   "items": [
-    {
-     "h": "ASH A-1",
-     "code": "T695",
-     "w2": 13.358
-    }
-   ],
-   "start": 1792941891762,
-   "mins": 60,
-   "by": "GC",
-   "outAt": null
   }
  }
 }
