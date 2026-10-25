@@ -2,7 +2,8 @@
  "app": "proximate-weighing",
  "version": 1,
  "codes": [
-  "T612"
+  "T612",
+  "S15"
  ],
  "samples": {
   "T612": {
@@ -31,6 +32,33 @@
    },
    "pct": {},
    "last": "GC | Volatile Matter W3 | 24-Oct-2026 20:44"
+  },
+  "S15": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
