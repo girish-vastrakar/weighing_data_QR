@@ -11,7 +11,7 @@
     "MC": [
      12.2536,
      13.2548,
-     null
+     13.0865
     ],
     "VM": [
      null,
@@ -30,7 +30,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W2 | 25-Oct-2026 17:55",
+   "last": "GC | Moisture W3 | 25-Oct-2026 18:02",
    "h": {
     "MC": "DISH 26"
    },
