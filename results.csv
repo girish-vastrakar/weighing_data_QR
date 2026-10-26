@@ -9,12 +9,26 @@ T672,GOR/11,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,comple
 T673,GOR/12,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.72,,20.39,16.67,17.32,4.29,4.45,75.32,78.23,,,,,merged from old app | 26-Oct-2026
 T674,GOR/13,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.24,,17.67,14.43,14.91,4.79,4.95,77.55,80.14,,,,,merged from old app | 26-Oct-2026
 T675,GOR/14,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.21,,20.11,16.89,17.45,4.74,4.9,75.16,77.65,,,,,merged from old app | 26-Oct-2026
-T678,,,,complete,,3.37,,20.24,16.87,17.46,2.67,2.76,77.09,79.77,,,,,merged from old app | 26-Oct-2026
-T679,,,,incomplete,Moisture,,,21.46,,,3.53,,,,,,,,merged from old app | 26-Oct-2026
-T680,,,,incomplete,Moisture,,,25.07,,,2.1,,,,,,,,merged from old app | 26-Oct-2026
-T681,,,,incomplete,Moisture,,,18.64,,,2.92,,,,,,,,merged from old app | 26-Oct-2026
-T682,,,,incomplete,Moisture,,,23.64,,,2.62,,,,,,,,merged from old app | 26-Oct-2026
-T683,,,,incomplete,Moisture,,,20.78,,,2.5,,,,,,,,merged from old app | 26-Oct-2026
-T684,,,,incomplete,Moisture,,,19.84,,,3.04,,,,,,,,merged from old app | 26-Oct-2026
-T685,,,,incomplete,Moisture,,,20.24,,,2.42,,,,,,,,merged from old app | 26-Oct-2026
-T686,,,,incomplete,Moisture,,,18.5,,,2.25,,,,,,,,merged from old app | 26-Oct-2026
+T678,SUM-14 R1 (26/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-26,complete,,3.37,,20.24,16.87,17.46,2.67,2.76,77.09,79.77,,,,,merged from old app | 26-Oct-2026
+T681,SUM-83 R1 (26/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-26,complete,,2.04,,18.64,16.6,16.95,2.92,2.98,78.45,80.08,,,,,Girish | Moisture W3 | 26-Oct-2026 20:37
+T684,SUM-94 R1 (26/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-26,complete,,3.17,,19.84,16.67,17.22,3.04,3.14,77.12,79.65,,,,,Girish | Moisture W3 | 26-Oct-2026 20:36
+T686,SUM-104 R1 (26/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-26,complete,,3.51,,18.5,14.99,15.53,2.25,2.33,79.25,82.14,,,,,Girish | Moisture W3 | 26-Oct-2026 20:35
+T687,GOR/15,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T688,GOR/16,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T689,GOR/17,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T690,GOR/18,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T691,GOR/19,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T692,GOR/20,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T693,GOR/21,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T694,SUM/04 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T695,SUM/16 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T696,SUM/54 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T697,SUM-51 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T698,SUM-69 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T699,SUM-72 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T700,SUM-111 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T701,SUM-112 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T702,SUM-113 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T703,SUM-114 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T704,SUM-116 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T705,SUM-118 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
