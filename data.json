@@ -2,7 +2,27 @@
  "app": "proximate-weighing",
  "version": 1,
  "codes": [
-  "T612"
+  "T612",
+  "T667",
+  "T668",
+  "T669",
+  "T670",
+  "T671",
+  "T672",
+  "T673",
+  "T674",
+  "T675",
+  "T676",
+  "T677",
+  "T678",
+  "T679",
+  "T680",
+  "T681",
+  "T682",
+  "T683",
+  "T684",
+  "T685",
+  "T686"
  ],
  "samples": {
   "T612": {
@@ -31,6 +51,546 @@
    },
    "pct": {},
    "last": "GC | Volatile Matter W3 | 24-Oct-2026 20:44"
+  },
+  "T667": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T668": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T669": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T670": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T671": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T672": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T673": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T674": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T675": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T676": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T677": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T678": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T679": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T680": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T681": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T682": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T683": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T684": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T685": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
+  },
+  "T686": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
