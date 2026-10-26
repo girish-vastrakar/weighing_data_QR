@@ -388,6 +388,24 @@
    "mins": 1,
    "by": "GC",
    "outAt": null
+  },
+  "2026-10-26-O1-mvp99i2x": {
+   "rid": "2026-10-26-O1-mvp99i2x",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 31",
+     "code": "T686",
+     "w2": 88.283
+    }
+   ],
+   "bal": 1,
+   "start": 1793019076809,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null
   }
  }
 }
