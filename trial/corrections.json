@@ -98,6 +98,22 @@
      "by": "Girish"
     }
    }
+  },
+  {
+   "id": "1793023127085-l1da7",
+   "at": "2026-10-26T19:28:47+05:30",
+   "by": "Girish",
+   "action": "overwrite",
+   "code": "Q14",
+   "test": "Ash",
+   "key": "ASH",
+   "step": 1,
+   "old": 25.333333,
+   "new": null,
+   "saved": {
+    "at": "2026-10-26T19:28:47+05:30",
+    "by": "Girish"
+   }
   }
  ]
 }
