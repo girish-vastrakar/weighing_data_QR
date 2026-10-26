@@ -1052,6 +1052,24 @@
    "outAt": 1793020251898,
    "outBy": "Supervisor (timer)",
    "early": true
+  },
+  "2026-10-26-O1-mvpao1vb": {
+   "rid": "2026-10-26-O1-mvpao1vb",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 19",
+     "code": "Q08",
+     "w2": 26.5678
+    }
+   ],
+   "bal": 1,
+   "start": 1793021435255,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null
   }
  }
 }
