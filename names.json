@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-26T10:01:42+05:30",
+ "updated": "2026-10-26T23:21:46+05:30",
  "source": "sample_code_2 / Name Tags",
- "count": 683,
+ "count": 703,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -3591,34 +3591,184 @@
    "machine": "W1"
   },
   "T676": {
+   "name": "SUM-2 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T677": {
+   "name": "SUM-3 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T678": {
+   "name": "SUM-14 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T679": {
+   "name": "SUM-61 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T680": {
+   "name": "SUM-63 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T681": {
+   "name": "SUM-83 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T682": {
+   "name": "SUM-84 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T683": {
+   "name": "SUM-90 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T684": {
+   "name": "SUM-94 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
   },
   "T685": {
+   "name": "SUM-103 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
    "machine": "W1"
+  },
+  "T686": {
+   "name": "SUM-104 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "machine": "W1"
+  },
+  "T687": {
+   "name": "GOR/15",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T688": {
+   "name": "GOR/16",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T689": {
+   "name": "GOR/17",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T690": {
+   "name": "GOR/18",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T691": {
+   "name": "GOR/19",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T692": {
+   "name": "GOR/20",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T693": {
+   "name": "GOR/21",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T694": {
+   "name": "SUM/04 R3 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T695": {
+   "name": "SUM/16 R3 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T696": {
+   "name": "SUM/54 R3 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-26",
+   "machine": "W2"
+  },
+  "T697": {
+   "name": "SUM-51 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T698": {
+   "name": "SUM-69 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T699": {
+   "name": "SUM-72 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T700": {
+   "name": "SUM-111 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T701": {
+   "name": "SUM-112 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T702": {
+   "name": "SUM-113 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T703": {
+   "name": "SUM-114 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T704": {
+   "name": "SUM-116 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
+  },
+  "T705": {
+   "name": "SUM-118 R1 (22/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-22",
+   "machine": "W3"
   }
  }
 }
