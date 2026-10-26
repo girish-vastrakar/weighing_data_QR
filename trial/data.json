@@ -405,7 +405,9 @@
    "start": 1793019076809,
    "mins": 60,
    "by": "Girish",
-   "outAt": null
+   "outAt": 1793019457389,
+   "outBy": "Supervisor (timer)",
+   "early": true
   }
  }
 }
