@@ -86,10 +86,11 @@ def r2(v):
     return None if v is None else round(v, 2)
 
 
-# Keep in step with FLAG in the weighing app (girish-vastrakar/weighing-beta index.html)
-LIMITS = {"MC": 17.5, "VM": 17.5, "ASH": 12, "TM": 60}
-DB_LIMITS = ("VM", "ASH")  # these upper limits are on dry basis; the rest, and all of LOWER, as received
-LOWER = {"MC": 1.5, "VM": 5, "ASH": 1.5, "TM": 1.5}
+# [lower, upper] %, None = no limit. The supervisor sets them (weighing app Setup or the results page) in
+# data.json settings.limits; these are the defaults. Keep in step with DEF_LIMITS in weighing-beta index.html / results.html.
+DEF_LIMITS = {"MC": [1.5, 17.5], "VM": [5, 17.5], "ASH": [1.5, 12], "FC": [None, None], "TM": [1.5, 60]}
+DB_LIMITS = ("VM", "ASH", "FC")  # compared on dry basis; MC and TM as received
+FLAG_ORDER = ["MC", "VM", "ASH", "FC", "TM"]
 
 
 def compute(code, s, names, limits):
@@ -130,17 +131,21 @@ def compute(code, s, names, limits):
     app_pct = {"MC": r2(mc), "VM": r2(vml - r2(mc)) if None not in (vml, mc) else None, "ASH": r2(ash_ar), "TM": r2(tm)}
     # Dry basis as the app works it out: rounded as-received value / (100 - rounded moisture)
     app_db = {k: r2(app_pct[k] / (100 - app_pct["MC"]) * 100)
-              if None not in (app_pct[k], app_pct["MC"]) and app_pct["MC"] < 100 else None for k in DB_LIMITS}
+              if None not in (app_pct[k], app_pct["MC"]) and app_pct["MC"] < 100 else None for k in ("VM", "ASH")}
+    cmp = {"MC": app_pct["MC"], "VM": app_db["VM"], "ASH": app_db["ASH"], "TM": app_pct["TM"] if s.get("tm") else None,
+           "FC": r2(100 - app_db["VM"] - app_db["ASH"]) if None not in (app_db["VM"], app_db["ASH"]) else None}
     flags = []
-    for k, lim in limits.items():
-        v = app_pct.get(k)
-        hi = app_db[k] if k in DB_LIMITS else v
-        if v is not None and v < 0:
-            flags.append(f"{k} {v:.2f} % negative")
-        elif hi is not None and hi > lim:
-            flags.append(f"{k} {hi:.2f} % db above {lim:g} % db" if k in DB_LIMITS else f"{k} {v:.2f} % above {lim:g} %")
-        elif v is not None and v < LOWER[k]:
-            flags.append(f"{k} {v:.2f} % below {LOWER[k]:g} %")
+    for k in FLAG_ORDER:
+        lo, hi = (limits.get(k) or [None, None])[:2]
+        v, db = cmp.get(k), " db" if k in DB_LIMITS else ""
+        if k != "FC" and app_pct.get(k) is not None and app_pct[k] < 0:
+            flags.append(f"{k} {app_pct[k]:.2f} % negative")
+        elif v is None:
+            continue
+        elif hi is not None and v > hi:
+            flags.append(f"{k} {v:.2f} %{db} above {hi:g} %{db}")
+        elif lo is not None and v < lo:
+            flags.append(f"{k} {v:.2f} %{db} below {lo:g} %{db}")
 
     info = names.get(norm_code(code)) or {}
     return {
@@ -178,7 +183,7 @@ def main():
     samples = data.get("samples") or {}
     appr_file = load("approvals.json", {})
     approvals = appr_file.get("approvals") or {}
-    limits = LIMITS
+    limits = {**DEF_LIMITS, **((data.get("settings") or {}).get("limits") or {})}
 
     results, awaiting = [], []
     for code, s in sorted(samples.items(), key=lambda kv: code_key(kv[0])):
@@ -191,7 +196,7 @@ def main():
         if r["flags"]:
             if not a:
                 awaiting.append({k: r[k] for k in ("code", "name", "supplier", "date", "status", "flags", "checks")}
-                                | {"retest": sorted({f.split(" ")[0] for f in r["flags"]}, key=TESTS.index),
+                                | {"retest": sorted({f.split(" ")[0] for f in r["flags"]}, key=FLAG_ORDER.index),
                                    "moisture": r["moisture"], "vm_ar": r["vm_ar"], "ash_ar": r["ash_ar"], "total_moisture": r["total_moisture"],
                                    "approval_outdated": stale})
                 continue
@@ -206,7 +211,6 @@ def main():
         "generated": datetime.now(IST).isoformat(timespec="seconds"),
         "names_updated": names_file.get("updated", ""),
         "limits": limits,
-        "lower_limits": LOWER,
         "dry_basis_limits": list(DB_LIMITS),
         "basis": {
             "moisture": "as received, (W2-W3)/m*100 on MC test",
@@ -228,11 +232,10 @@ def main():
         "version": 1,
         "generated": out["generated"],
         "limits": limits,
-        "lower_limits": LOWER,
         "dry_basis_limits": list(DB_LIMITS),
-        "rule": "moisture, VM (db), ash (db) or total moisture above the limit, below the lower limit, or negative, and not approved in the weighing app",
+        "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
         "count": len(awaiting),
-        "by_test": {k: sum(k in x["retest"] for x in awaiting) for k in ("MC", "VM", "ASH", "TM")},
+        "by_test": {k: sum(k in x["retest"] for x in awaiting) for k in FLAG_ORDER},
         "samples": awaiting,
     }
     write_if_changed("results.json", out, f"{len(results)} samples, {counts}")
@@ -242,7 +245,7 @@ def main():
     write_corrections_csv(load("corrections.json", {}).get("entries") or [], names)
 
 
-TEST_NAMES = {"MC": "Moisture", "VM": "VM", "ASH": "Ash", "TM": "Total moisture"}
+TEST_NAMES = {"MC": "Moisture", "VM": "VM", "ASH": "Ash", "TM": "Total moisture", "FC": "Fixed carbon (check VM and Ash)"}
 
 
 def blank(v):
