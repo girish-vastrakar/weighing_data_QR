@@ -989,12 +989,7 @@
   }
  },
  "settings": {
-  "workers": [
-   {
-    "name": "Vinit",
-    "sym": "🍎"
-   }
-  ],
+  "workers": [],
   "range": {
    "MC": [
     0.99,
