@@ -989,7 +989,12 @@
   }
  },
  "settings": {
-  "workers": [],
+  "workers": [
+   {
+    "name": "Deepak",
+    "sym": "🦜"
+   }
+  ],
   "range": {
    "MC": [
     0.99,
