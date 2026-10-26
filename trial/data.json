@@ -1288,10 +1288,12 @@
    "start": 1793023252174,
    "mins": 60,
    "by": "Girish",
-   "outAt": null,
+   "outAt": 1793023368548,
    "reheat": true,
    "go": 1793023309281,
-   "goBy": "Girish"
+   "goBy": "Girish",
+   "outBy": "Supervisor (timer)",
+   "early": true
   }
  },
  "settings": {
