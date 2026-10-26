@@ -477,7 +477,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 1"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign1",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 1",
+     "b": 0
+    }
+   ]
   },
   "T680": {
    "tm": false,
@@ -504,7 +524,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 2"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign2",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 2",
+     "b": 0
+    }
+   ]
   },
   "T681": {
    "tm": false,
@@ -531,7 +571,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 3"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign3",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 3",
+     "b": 0
+    }
+   ]
   },
   "T682": {
    "tm": false,
@@ -558,7 +618,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 4"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign4",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 4",
+     "b": 0
+    }
+   ]
   },
   "T683": {
    "tm": false,
@@ -585,7 +665,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 5"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign5",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 5",
+     "b": 0
+    }
+   ]
   },
   "T684": {
    "tm": false,
@@ -612,7 +712,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 6"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign6",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 6",
+     "b": 0
+    }
+   ]
   },
   "T685": {
    "tm": false,
@@ -639,7 +759,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 7"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign7",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 7",
+     "b": 0
+    }
+   ]
   },
   "T686": {
    "tm": false,
@@ -666,7 +806,27 @@
     ]
    },
    "pct": {},
-   "last": "merged from old app | 26-Oct-2026"
+   "last": "merged from old app | 26-Oct-2026",
+   "h": {
+    "MC": "DISH 8"
+   },
+   "ha": {
+    "MC": 1793026496691
+   },
+   "hb": {
+    "MC": 0
+   },
+   "ev": [
+    {
+     "id": "1793026496691-assign8",
+     "t": 1793026496691,
+     "by": "Girish (assigned)",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 8",
+     "b": 0
+    }
+   ]
   }
  },
  "batches": {
