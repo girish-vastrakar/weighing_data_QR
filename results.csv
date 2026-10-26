@@ -1,23 +1,20 @@
 ﻿Code,Sample name,Supplier,Date,Status,Pending,Moisture %,Total moisture %,VM loss %,VM (ar) %,VM (db) %,Ash (ar) %,Ash (db) %,FC (ar) %,FC (db) %,Flags,Checks,Approved by,Approved at,Last entry
 T612,NAL/49 R1 (22/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-22,complete,,9.26,,21.74,12.48,13.76,8.17,9.0,70.09,77.24,,,,,GC | Volatile Matter W3 | 24-Oct-2026 20:44
-T666,NAL/150,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T667,GOR/06,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.22,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:11
-T668,GOR/07,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.11,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:07
-T669,GOR/08,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.1,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:11
-T670,GOR/09,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.91,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:10
-T671,GOR/10,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"Moisture, VM, Ash",,,,,,,,,,,,,,Ramesh koli | Moisture W2 | 26-Oct-2026 10:47
-T672,GOR/11,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",2.77,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
-T673,GOR/12,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.72,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
-T674,GOR/13,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.24,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:07
-T675,GOR/14,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"Moisture, VM, Ash",,,,,,,,,,,,,,GC | Moisture W2 | 26-Oct-2026 11:08
-T676,,,,incomplete,"VM, Ash",3.46,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
-T677,,,,incomplete,"VM, Ash",4.17,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:06
-T678,,,,incomplete,"VM, Ash",3.37,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:06
-T679,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T680,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T681,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T682,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T683,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T684,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T685,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
-T686,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T667,GOR/06,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.22,,17.03,13.81,14.27,8.02,8.29,74.94,77.44,,,,,merged from old app | 26-Oct-2026
+T668,GOR/07,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.11,,15.62,12.51,12.91,6.82,7.04,77.55,80.05,,,,,merged from old app | 26-Oct-2026
+T669,GOR/08,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.1,,17.57,14.47,14.94,6.09,6.29,76.33,78.77,,,,,merged from old app | 26-Oct-2026
+T670,GOR/09,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.91,,19.36,15.45,16.08,5.11,5.32,75.53,78.6,,,,,merged from old app | 26-Oct-2026
+T671,GOR/10,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,2.87,,19.35,16.48,16.97,4.82,4.96,75.83,78.07,,,,,merged from old app | 26-Oct-2026
+T672,GOR/11,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,2.77,,17.37,14.6,15.02,4.51,4.64,78.12,80.35,,,,,merged from old app | 26-Oct-2026
+T673,GOR/12,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.72,,20.39,16.67,17.32,4.29,4.45,75.32,78.23,,,,,merged from old app | 26-Oct-2026
+T674,GOR/13,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.24,,17.67,14.43,14.91,4.79,4.95,77.55,80.14,,,,,merged from old app | 26-Oct-2026
+T675,GOR/14,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.21,,20.11,16.89,17.45,4.74,4.9,75.16,77.65,,,,,merged from old app | 26-Oct-2026
+T678,,,,complete,,3.37,,20.24,16.87,17.46,2.67,2.76,77.09,79.77,,,,,merged from old app | 26-Oct-2026
+T679,,,,incomplete,Moisture,,,21.46,,,3.53,,,,,,,,merged from old app | 26-Oct-2026
+T680,,,,incomplete,Moisture,,,25.07,,,2.1,,,,,,,,merged from old app | 26-Oct-2026
+T681,,,,incomplete,Moisture,,,18.64,,,2.92,,,,,,,,merged from old app | 26-Oct-2026
+T682,,,,incomplete,Moisture,,,23.64,,,2.62,,,,,,,,merged from old app | 26-Oct-2026
+T683,,,,incomplete,Moisture,,,20.78,,,2.5,,,,,,,,merged from old app | 26-Oct-2026
+T684,,,,incomplete,Moisture,,,19.84,,,3.04,,,,,,,,merged from old app | 26-Oct-2026
+T685,,,,incomplete,Moisture,,,20.24,,,2.42,,,,,,,,merged from old app | 26-Oct-2026
+T686,,,,incomplete,Moisture,,,18.5,,,2.25,,,,,,,,merged from old app | 26-Oct-2026

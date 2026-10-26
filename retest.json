@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-24T21:47:22+05:30",
+ "generated": "2026-10-26T20:05:47+05:30",
  "limits": {
   "MC": 17.5,
   "VM": 17.5,
@@ -19,12 +19,51 @@
   "ASH"
  ],
  "rule": "moisture, VM (db), ash (db) or total moisture above the limit, below the lower limit, or negative, and not approved in the weighing app",
- "count": 0,
+ "count": 2,
  "by_test": {
   "MC": 0,
-  "VM": 0,
+  "VM": 2,
   "ASH": 0,
   "TM": 0
  },
- "samples": []
+ "samples": [
+  {
+   "code": "T676",
+   "name": "",
+   "supplier": "",
+   "date": "",
+   "status": "complete",
+   "flags": [
+    "VM 21.97 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 3.46,
+   "vm_ar": 21.21,
+   "ash_ar": 3.89,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T677",
+   "name": "",
+   "supplier": "",
+   "date": "",
+   "status": "complete",
+   "flags": [
+    "VM 24.97 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 4.17,
+   "vm_ar": 23.93,
+   "ash_ar": 2.09,
+   "total_moisture": null,
+   "approval_outdated": false
+  }
+ ]
 }
