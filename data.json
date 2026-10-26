@@ -62,14 +62,14 @@
      83.8561
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.5042,
+     15.5076,
+     15.3367
     ],
     "ASH": [
-     null,
-     null,
-     null
+     13.7772,
+     14.778,
+     13.8575
     ],
     "TM": [
      null,
@@ -78,7 +78,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:11",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 1"
    },
@@ -95,14 +95,14 @@
      84.0763
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.2245,
+     17.2274,
+     17.0707
     ],
     "ASH": [
-     null,
-     null,
-     null
+     15.0697,
+     16.0752,
+     15.1383
     ],
     "TM": [
      null,
@@ -111,7 +111,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:07",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 2"
    },
@@ -128,14 +128,14 @@
      88.3718
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.9687,
+     16.9691,
+     16.7933
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.4368,
+     15.4377,
+     14.4978
     ],
     "TM": [
      null,
@@ -144,7 +144,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:11",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 3"
    },
@@ -161,14 +161,14 @@
      91.0394
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.1117,
+     15.1164,
+     14.9219
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.7698,
+     15.7698,
+     14.8209
     ],
     "TM": [
      null,
@@ -177,7 +177,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:10",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 4"
    },
@@ -194,14 +194,14 @@
      88.318
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.0217,
+     15.0244,
+     14.8304
     ],
     "ASH": [
-     null,
-     null,
-     null
+     13.7924,
+     14.7971,
+     13.8408
     ],
     "TM": [
      null,
@@ -210,7 +210,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:38",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 5"
    },
@@ -227,14 +227,14 @@
      89.0993
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.4972,
+     16.4998,
+     16.3256
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.6877,
+     15.6883,
+     14.7328
     ],
     "TM": [
      null,
@@ -243,7 +243,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:08",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 6"
    },
@@ -260,14 +260,14 @@
      88.6172
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.0932,
+     16.0965,
+     15.8919
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.5327,
+     15.5359,
+     14.5757
     ],
     "TM": [
      null,
@@ -276,7 +276,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:08",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 7"
    },
@@ -293,14 +293,14 @@
      87.2271
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.5392,
+     17.5405,
+     17.3636
     ],
     "ASH": [
-     null,
-     null,
-     null
+     13.4841,
+     14.4891,
+     13.5322
     ],
     "TM": [
      null,
@@ -309,7 +309,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:07",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 8"
    },
@@ -326,14 +326,14 @@
      90.3147
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.4645,
+     17.4652,
+     17.264
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.648,
+     15.6482,
+     14.6954
     ],
     "TM": [
      null,
@@ -342,7 +342,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:15",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 9"
    },
@@ -359,14 +359,14 @@
      78.1808
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.3545,
+     16.3559,
+     16.1089
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.1073,
+     15.1096,
+     14.1463
     ],
     "TM": [
      null,
@@ -375,7 +375,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:08",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "ASH": "ASH A-1",
     "MC": "DISH 10"
@@ -394,14 +394,14 @@
      91.4762
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.8239,
+     16.8258,
+     16.5443
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.1556,
+     13.1581,
+     12.1766
     ],
     "TM": [
      null,
@@ -410,7 +410,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:06",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "ASH": "ASH A-2",
     "MC": "DISH 11"
@@ -429,14 +429,14 @@
      86.8812
     ],
     "VM": [
-     null,
-     null,
-     null
+     19.8576,
+     20.8595,
+     20.6567
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.2062,
+     13.2063,
+     12.2329
     ],
     "TM": [
      null,
@@ -445,7 +445,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W3 | 26-Oct-2026 13:06",
+   "last": "merged from old app | 26-Oct-2026",
    "h": {
     "MC": "DISH 12"
    },
@@ -457,19 +457,19 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     82.8837,
+     83.885,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.6543,
+     14.6568,
+     14.4417
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.2611,
+     12.2637,
+     11.2965
     ],
     "TM": [
      null,
@@ -478,25 +478,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T680": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     83.1013,
+     84.106,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.5898,
+     15.5926,
+     15.3412
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.6355,
+     13.6375,
+     12.6565
     ],
     "TM": [
      null,
@@ -505,25 +505,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T681": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     87.392,
+     88.3992,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.0433,
+     17.0446,
+     16.858
     ],
     "ASH": [
-     null,
-     null,
-     null
+     13.494,
+     14.4945,
+     13.5232
     ],
     "TM": [
      null,
@@ -532,25 +532,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T682": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     90.0742,
+     91.0799,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.7357,
+     14.7398,
+     14.5024
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.1338,
+     13.1365,
+     12.1601
     ],
     "TM": [
      null,
@@ -559,25 +559,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T683": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     87.3408,
+     88.3441,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.2258,
+     17.2299,
+     17.0212
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.1879,
+     13.1908,
+     12.213
     ],
     "TM": [
      null,
@@ -586,25 +586,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T684": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     88.1196,
+     89.1232,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.442,
+     15.4441,
+     15.2453
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.703,
+     12.7069,
+     11.7335
     ],
     "TM": [
      null,
@@ -613,25 +613,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T685": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     87.6457,
+     88.6491,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     16.2064,
+     17.2096,
+     17.0066
     ],
     "ASH": [
-     null,
-     null,
-     null
+     22.561,
+     23.5656,
+     22.5853
     ],
     "TM": [
      null,
@@ -640,25 +640,25 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T686": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
+     86.256,
+     87.2589,
      null
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.8092,
+     14.8121,
+     14.6266
     ],
     "ASH": [
-     null,
-     null,
-     null
+     23.3057,
+     24.3063,
+     23.3282
     ],
     "TM": [
      null,
@@ -667,7 +667,7 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "merged from old app | 26-Oct-2026"
   },
   "T666": {
    "tm": false,
