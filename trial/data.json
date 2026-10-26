@@ -1271,6 +1271,26 @@
    "mins": 60,
    "by": "Girish",
    "outAt": null
+  },
+  "2026-10-26-F1-mvpbqzta": {
+   "rid": "2026-10-26-F1-mvpbqzta",
+   "place": "F1",
+   "test": "ASH",
+   "tray": "ASH 1B",
+   "items": [
+    {
+     "h": "ASH 1B-1",
+     "code": "Q14",
+     "w2": 13.537
+    }
+   ],
+   "bal": 1,
+   "start": 1793023252174,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  }
 }
