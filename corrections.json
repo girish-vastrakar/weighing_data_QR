@@ -56,6 +56,36 @@
      "by": "Ramesh koli"
     }
    }
+  },
+  {
+   "id": "1792990804877-dy98l",
+   "at": "2026-10-26T10:30:04+05:30",
+   "by": "Ramesh koli",
+   "action": "reset",
+   "code": "T676",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.7789,
+    15.7794,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-26T10:13:28+05:30",
+     "by": "Ramesh koli"
+    },
+    "W2": {
+     "at": "2026-10-26T10:15:03+05:30",
+     "by": "Ramesh koli"
+    }
+   }
   }
  ]
 }
