@@ -451,6 +451,24 @@
    "mins": 7,
    "by": "Girish",
    "outAt": null
+  },
+  "2026-10-26-F2-mvp9yb6y": {
+   "rid": "2026-10-26-F2-mvp9yb6y",
+   "place": "F2",
+   "test": "ASH",
+   "tray": "ASH A",
+   "items": [
+    {
+     "h": "ASH A-1",
+     "code": "T695",
+     "w2": 13.358
+    }
+   ],
+   "bal": 1,
+   "start": 1793020234282,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null
   }
  }
 }
