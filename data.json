@@ -355,7 +355,7 @@
    "w": {
     "MC": [
      77.2126,
-     null,
+     78.2155,
      null
     ],
     "VM": [
@@ -375,7 +375,7 @@
     ]
    },
    "pct": {},
-   "last": "GC | Moisture W1 | 26-Oct-2026 11:10",
+   "last": "GC | Moisture W2 | 26-Oct-2026 11:12",
    "h": {
     "ASH": "ASH A-1",
     "MC": "DISH 10"
