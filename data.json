@@ -986,6 +986,60 @@
    "mins": 1,
    "by": "GC",
    "outAt": null
+  },
+  "2026-10-26-O1-oldapp": {
+   "rid": "2026-10-26-O1-oldapp",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 1",
+     "code": "T679",
+     "w2": 83.885
+    },
+    {
+     "h": "DISH 2",
+     "code": "T680",
+     "w2": 84.106
+    },
+    {
+     "h": "DISH 3",
+     "code": "T681",
+     "w2": 88.3992
+    },
+    {
+     "h": "DISH 4",
+     "code": "T682",
+     "w2": 91.0799
+    },
+    {
+     "h": "DISH 5",
+     "code": "T683",
+     "w2": 88.3441
+    },
+    {
+     "h": "DISH 6",
+     "code": "T684",
+     "w2": 89.1232
+    },
+    {
+     "h": "DISH 7",
+     "code": "T685",
+     "w2": 88.6491
+    },
+    {
+     "h": "DISH 8",
+     "code": "T686",
+     "w2": 87.2589
+    }
+   ],
+   "bal": 0,
+   "start": 1793026496692,
+   "mins": 0,
+   "by": "Girish (heated in the old app)",
+   "outAt": 1793026915261,
+   "outBy": "Girish (heated in the old app)"
   }
  },
  "settings": {
