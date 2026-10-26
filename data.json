@@ -321,7 +321,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     89.3452,
      null,
      null
     ],
@@ -342,7 +342,7 @@
     ]
    },
    "pct": {},
-   "last": "",
+   "last": "GC | Moisture W1 | 26-Oct-2026 11:06",
    "h": {
     "MC": "DISH 9"
    },
