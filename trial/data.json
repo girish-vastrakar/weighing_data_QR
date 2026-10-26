@@ -82,7 +82,7 @@
      null
     ],
     "VM": [
-     null,
+     15.1313,
      null,
      null
     ],
@@ -98,7 +98,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture W2 | 26-Oct-2026 18:10",
+   "last": "Girish | Volatile Matter W1 | 26-Oct-2026 18:15",
    "ev": [
     {
      "id": "1793018293303-acmdu",
@@ -184,6 +184,18 @@
      "by": "Girish",
      "a": "hold",
      "k": "VM",
+     "h": "VM 1A-1",
+     "b": 1
+    },
+    {
+     "id": "1793018720100-wdvcj",
+     "t": 1793018720100,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.1313,
+     "o": null,
      "h": "VM 1A-1",
      "b": 1
     }
