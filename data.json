@@ -855,5 +855,13 @@
    "by": "GC",
    "outAt": null
   }
+ },
+ "settings": {
+  "workers": [
+   {
+    "name": "Mohan",
+    "sym": "🐄"
+   }
+  ]
  }
 }
