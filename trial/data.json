@@ -1292,5 +1292,12 @@
    "reheat": true,
    "go": null
   }
+ },
+ "settings": {
+  "mins": {
+   "MC": 60,
+   "VM": 7,
+   "ASH": 60
+  }
  }
 }
