@@ -1,2 +1,23 @@
 ﻿Code,Sample name,Supplier,Date,Status,Pending,Moisture %,Total moisture %,VM loss %,VM (ar) %,VM (db) %,Ash (ar) %,Ash (db) %,FC (ar) %,FC (db) %,Flags,Checks,Approved by,Approved at,Last entry
 T612,NAL/49 R1 (22/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-22,complete,,9.26,,21.74,12.48,13.76,8.17,9.0,70.09,77.24,,,,,GC | Volatile Matter W3 | 24-Oct-2026 20:44
+T666,NAL/150,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-22,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T667,GOR/06,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.22,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:11
+T668,GOR/07,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.11,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:07
+T669,GOR/08,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.1,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:11
+T670,GOR/09,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.91,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:10
+T671,GOR/10,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"Moisture, VM, Ash",,,,,,,,,,,,,,Ramesh koli | Moisture W2 | 26-Oct-2026 10:47
+T672,GOR/11,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",2.77,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
+T673,GOR/12,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.72,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
+T674,GOR/13,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"VM, Ash",3.24,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:07
+T675,GOR/14,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,incomplete,"Moisture, VM, Ash",,,,,,,,,,,,,,GC | Moisture W2 | 26-Oct-2026 11:08
+T676,,,,incomplete,"VM, Ash",3.46,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:08
+T677,,,,incomplete,"VM, Ash",4.17,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:06
+T678,,,,incomplete,"VM, Ash",3.37,,,,,,,,,,,,,GC | Moisture W3 | 26-Oct-2026 13:06
+T679,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T680,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T681,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T682,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T683,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T684,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T685,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
+T686,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
