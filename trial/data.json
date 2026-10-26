@@ -433,6 +433,24 @@
    "outAt": 1793019457389,
    "outBy": "Supervisor (timer)",
    "early": true
+  },
+  "2026-10-26-F1-mvp9xy8r": {
+   "rid": "2026-10-26-F1-mvp9xy8r",
+   "place": "F1",
+   "test": "VM",
+   "tray": "VM 1A",
+   "items": [
+    {
+     "h": "VM 1A-1",
+     "code": "T686",
+     "w2": 16.135
+    }
+   ],
+   "bal": 1,
+   "start": 1793020217500,
+   "mins": 7,
+   "by": "Girish",
+   "outAt": null
   }
  }
 }
