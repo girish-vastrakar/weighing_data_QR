@@ -1128,6 +1128,24 @@
    "outAt": 1793021520375,
    "outBy": "Supervisor (timer)",
    "early": true
+  },
+  "2026-10-26-F2-mvpb3z6n": {
+   "rid": "2026-10-26-F2-mvpb3z6n",
+   "place": "F2",
+   "test": "ASH",
+   "tray": "ASH 1A",
+   "items": [
+    {
+     "h": "ASH 1A-1",
+     "code": "Q10",
+     "w2": 13.5638
+    }
+   ],
+   "bal": 1,
+   "start": 1793022178271,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null
   }
  }
 }
