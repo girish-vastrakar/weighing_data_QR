@@ -1270,7 +1270,11 @@
    "start": 1793022178271,
    "mins": 60,
    "by": "Girish",
-   "outAt": null
+   "outAt": null,
+   "cancelled": {
+    "at": 1793023376162,
+    "by": "Supervisor (timer)"
+   }
   },
   "2026-10-26-F1-mvpbqzta": {
    "rid": "2026-10-26-F1-mvpbqzta",
