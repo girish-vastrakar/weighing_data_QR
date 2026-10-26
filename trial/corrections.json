@@ -1,0 +1,21 @@
+{
+ "about": "Every weight that was overwritten or reset in the weighing app. Restore from the app: Setup → Corrections and resets.",
+ "entries": [
+  {
+   "id": "1793018372882-4cw23",
+   "at": "2026-10-26T18:09:32+05:30",
+   "by": "Girish",
+   "action": "overwrite",
+   "code": "T686",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 1,
+   "old": 87.2879,
+   "new": null,
+   "saved": {
+    "at": "2026-10-26T18:09:26+05:30",
+    "by": "Girish"
+   }
+  }
+ ]
+}
