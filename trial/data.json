@@ -4,8 +4,7 @@
  "codes": [
   "Q06",
   "T695",
-  "T686",
-  "T667"
+  "T686"
  ],
  "samples": {
   "Q06": {
@@ -373,63 +372,6 @@
     "MC": 1,
     "VM": 1,
     "ASH": 1
-   }
-  },
-  "T667": {
-   "tm": false,
-   "w": {
-    "MC": [
-     null,
-     null,
-     null
-    ],
-    "VM": [
-     null,
-     null,
-     null
-    ],
-    "ASH": [
-     null,
-     null,
-     null
-    ],
-    "TM": [
-     null,
-     null,
-     null
-    ]
-   },
-   "pct": {},
-   "last": "",
-   "ev": [
-    {
-     "id": "1793018932463-3ka5o",
-     "t": 1793018932463,
-     "by": "Girish",
-     "a": "hold",
-     "k": "MC",
-     "h": "DISH 7",
-     "b": 1
-    },
-    {
-     "id": "1793018946454-zyhry",
-     "t": 1793018946454,
-     "by": "Girish",
-     "a": "redish",
-     "k": "MC",
-     "h": "DISH 12",
-     "o": "DISH 7",
-     "b": 1
-    }
-   ],
-   "h": {
-    "MC": "DISH 12"
-   },
-   "ha": {
-    "MC": 1793018946454
-   },
-   "hb": {
-    "MC": 1
    }
   }
  },
