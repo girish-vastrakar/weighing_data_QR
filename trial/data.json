@@ -450,7 +450,9 @@
    "start": 1793020217500,
    "mins": 7,
    "by": "Girish",
-   "outAt": null
+   "outAt": 1793020256905,
+   "outBy": "Supervisor (timer)",
+   "early": true
   },
   "2026-10-26-F2-mvp9yb6y": {
    "rid": "2026-10-26-F2-mvp9yb6y",
