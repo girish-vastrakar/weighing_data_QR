@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-25T22:09:47+05:30",
+ "updated": "2026-10-26T10:01:42+05:30",
  "source": "sample_code_2 / Name Tags",
- "count": 664,
+ "count": 683,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -3535,6 +3535,90 @@
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
    "date": "2026-10-22",
    "machine": "W4"
+  },
+  "T667": {
+   "name": "GOR/06",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T668": {
+   "name": "GOR/07",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T669": {
+   "name": "GOR/08",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T670": {
+   "name": "GOR/09",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T671": {
+   "name": "GOR/10",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T672": {
+   "name": "GOR/11",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T673": {
+   "name": "GOR/12",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T674": {
+   "name": "GOR/13",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T675": {
+   "name": "GOR/14",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-25",
+   "machine": "W1"
+  },
+  "T676": {
+   "machine": "W1"
+  },
+  "T677": {
+   "machine": "W1"
+  },
+  "T678": {
+   "machine": "W1"
+  },
+  "T679": {
+   "machine": "W1"
+  },
+  "T680": {
+   "machine": "W1"
+  },
+  "T681": {
+   "machine": "W1"
+  },
+  "T682": {
+   "machine": "W1"
+  },
+  "T683": {
+   "machine": "W1"
+  },
+  "T684": {
+   "machine": "W1"
+  },
+  "T685": {
+   "machine": "W1"
   }
  }
 }
