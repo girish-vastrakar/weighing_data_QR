@@ -2142,9 +2142,9 @@
    "tm": false,
    "w": {
     "MC": [
-     84.9549,
-     85.9566,
-     85.874
+     null,
+     null,
+     null
     ],
     "VM": [
      null,
@@ -2163,7 +2163,7 @@
     ]
    },
    "pct": {},
-   "last": "girish | Volatile Matter reset (results page) | 27-Oct-2026 15:57",
+   "last": "girish | Moisture reset (results page) | 27-Oct-2026 16:02",
    "ev": [
     {
      "id": "1793076590337-oovm9",
@@ -2312,6 +2312,20 @@
       17.2948
      ],
      "h": "VM 2A-7",
+     "via": "results"
+    },
+    {
+     "id": "1793097162539-rscl9r",
+     "t": 1793097162539,
+     "by": "girish",
+     "a": "reset",
+     "k": "MC",
+     "o": [
+      84.9549,
+      85.9566,
+      85.874
+     ],
+     "h": "DISH 27",
      "via": "results"
     }
    ],
