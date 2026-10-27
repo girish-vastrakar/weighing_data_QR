@@ -2629,7 +2629,7 @@
      null
     ],
     "ASH": [
-     null,
+     13.7835,
      null,
      null
     ],
@@ -2640,7 +2640,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Moisture W2 | 27-Oct-2026 10:28",
+   "last": "Ramesh | Ash W1 | 27-Oct-2026 11:28",
    "ev": [
     {
      "id": "1793076956907-5kebw",
@@ -2681,6 +2681,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "ASH",
+     "h": "ASH 3A-8",
+     "b": 3
+    },
+    {
+     "id": "1793080700903-sz9va",
+     "t": 1793080700904,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 13.7835,
+     "o": null,
      "h": "ASH 3A-8",
      "b": 3
     }
