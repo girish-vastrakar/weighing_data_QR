@@ -1009,6 +1009,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793097187578-rsd17l",
+   "at": "2026-10-27T16:03:07+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T694",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    88.5981,
+    89.5984,
+    89.4624
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-27T10:22:41+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-10-27T10:25:26+05:30",
+     "by": "Mohan"
+    },
+    "W3": {
+     "at": "2026-10-27T12:24:40+05:30",
+     "by": "Mohan"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
