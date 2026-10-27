@@ -588,6 +588,42 @@
    },
    "via": "results page",
    "note": "whole batch vm is high"
+  },
+  {
+   "id": "1793096702288-rs8ask",
+   "at": "2026-10-27T15:55:02+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T699",
+   "test": "Volatile Matter",
+   "key": "VM",
+   "step": null,
+   "old": [
+    15.4097,
+    16.413,
+    16.1581
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-27T12:02:55+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-10-27T12:04:10+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-10-27T13:33:52+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page",
+   "note": "whole batch vm is high"
   }
  ]
 }
