@@ -2634,6 +2634,71 @@
    "outAt": null,
    "reheat": true,
    "go": null
+  },
+  "2026-10-27-O1-mvq8g5fe": {
+   "rid": "2026-10-27-O1-mvq8g5fe",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 21",
+     "code": "T687",
+     "w2": 79.5094
+    },
+    {
+     "h": "DISH 22",
+     "code": "T688",
+     "w2": 88.1884
+    },
+    {
+     "h": "DISH 23",
+     "code": "T689",
+     "w2": 91.2255
+    },
+    {
+     "h": "DISH 24",
+     "code": "T690",
+     "w2": 88.8708
+    },
+    {
+     "h": "DISH 25",
+     "code": "T691",
+     "w2": 86.8987
+    },
+    {
+     "h": "DISH 26",
+     "code": "T692",
+     "w2": 89.0764
+    },
+    {
+     "h": "DISH 27",
+     "code": "T693",
+     "w2": 85.9566
+    },
+    {
+     "h": "DISH 28",
+     "code": "T694",
+     "w2": 89.5984
+    },
+    {
+     "h": "DISH 29",
+     "code": "T695",
+     "w2": 85.581
+    },
+    {
+     "h": "DISH 30",
+     "code": "T696",
+     "w2": 88.8896
+    }
+   ],
+   "bal": 2,
+   "start": 1793078173562,
+   "mins": 60,
+   "by": "Mohan",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
