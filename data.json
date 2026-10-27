@@ -2878,7 +2878,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     87.2837,
      null,
      null
     ],
@@ -2899,7 +2899,7 @@
     ]
    },
    "pct": {},
-   "last": "girish | Volatile Matter reset (results page) | 27-Oct-2026 15:56",
+   "last": "Mohan | Moisture W1 | 27-Oct-2026 16:29",
    "ev": [
     {
      "id": "1793076991851-43rs2",
@@ -3143,6 +3143,18 @@
      "k": "MC",
      "h": "DISH 31",
      "o": "DISH 12",
+     "b": 4
+    },
+    {
+     "id": "1793098766684-rohku",
+     "t": 1793098766685,
+     "by": "Mohan",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 87.2837,
+     "o": null,
+     "h": "DISH 31",
      "b": 4
     }
    ],
