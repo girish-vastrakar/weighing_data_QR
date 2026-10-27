@@ -2525,8 +2525,8 @@
      88.8262
     ],
     "VM": [
-     19.9491,
-     20.95,
+     null,
+     null,
      null
     ],
     "ASH": [
@@ -2541,7 +2541,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 27-Oct-2026 12:57",
+   "last": "Girish | Volatile Matter reset | 27-Oct-2026 12:58",
    "ev": [
     {
      "id": "1793077293986-3o9wv",
@@ -2653,6 +2653,19 @@
      "o": null,
      "h": "VM 2A-10",
      "b": 2
+    },
+    {
+     "id": "1793086114710-khfgx",
+     "t": 1793086114710,
+     "by": "Girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      19.9491,
+      20.95,
+      null
+     ],
+     "h": "VM 2A-10"
     }
    ],
    "h": {
