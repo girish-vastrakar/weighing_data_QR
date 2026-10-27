@@ -6640,6 +6640,26 @@
    "go": 1793102022887,
    "goBy": "Girish",
    "outBy": "Mohan"
+  },
+  "2026-10-27-F1-mvqoy1lr": {
+   "rid": "2026-10-27-F1-mvqoy1lr",
+   "place": "F1",
+   "test": "VM",
+   "tray": "VM 4A",
+   "items": [
+    {
+     "h": "VM 4A-1",
+     "code": "T702",
+     "w2": 16.3032
+    }
+   ],
+   "bal": 4,
+   "start": 1793105882271,
+   "mins": 7,
+   "by": "Girish",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
