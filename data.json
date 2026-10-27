@@ -48,9 +48,7 @@
   "A04",
   "A05",
   "A06",
-  "A07",
-  "A08",
-  "A10"
+  "A07"
  ],
  "samples": {
   "T612": {
@@ -6052,60 +6050,6 @@
    "last": ""
   },
   "A07": {
-   "tm": false,
-   "w": {
-    "MC": [
-     null,
-     null,
-     null
-    ],
-    "VM": [
-     null,
-     null,
-     null
-    ],
-    "ASH": [
-     null,
-     null,
-     null
-    ],
-    "TM": [
-     null,
-     null,
-     null
-    ]
-   },
-   "pct": {},
-   "last": ""
-  },
-  "A08": {
-   "tm": false,
-   "w": {
-    "MC": [
-     null,
-     null,
-     null
-    ],
-    "VM": [
-     null,
-     null,
-     null
-    ],
-    "ASH": [
-     null,
-     null,
-     null
-    ],
-    "TM": [
-     null,
-     null,
-     null
-    ]
-   },
-   "pct": {},
-   "last": ""
-  },
-  "A10": {
    "tm": false,
    "w": {
     "MC": [
