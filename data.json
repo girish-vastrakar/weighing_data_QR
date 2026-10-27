@@ -3816,9 +3816,9 @@
      90.4135
     ],
     "VM": [
-     16.1637,
-     17.1647,
-     16.8823
+     null,
+     null,
+     null
     ],
     "ASH": [
      14.5282,
@@ -3832,7 +3832,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 27-Oct-2026 13:34",
+   "last": "girish | Volatile Matter reset (results page) | 27-Oct-2026 15:59",
    "ev": [
     {
      "id": "1793076392614-9132d",
@@ -3979,6 +3979,20 @@
      "o": null,
      "h": "VM 3A-5",
      "b": 3
+    },
+    {
+     "id": "1793096956420-rsy7h5",
+     "t": 1793096956420,
+     "by": "girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      16.1637,
+      17.1647,
+      16.8823
+     ],
+     "h": "VM 3A-5",
+     "via": "results"
     }
    ],
    "h": {
