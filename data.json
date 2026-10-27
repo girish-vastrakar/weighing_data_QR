@@ -377,7 +377,7 @@
      78.1808
     ],
     "VM": [
-     null,
+     14.2906,
      null,
      null
     ],
@@ -393,7 +393,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter reset | 27-Oct-2026 11:40",
+   "last": "Mohan | Volatile Matter W1 | 27-Oct-2026 16:06",
    "h": {
     "ASH": "ASH A-1",
     "MC": "DISH 10",
@@ -424,6 +424,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "VM",
+     "h": "VM 4A-1",
+     "b": 4
+    },
+    {
+     "id": "1793097360736-xkmlf",
+     "t": 1793097360736,
+     "by": "Mohan",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 14.2906,
+     "o": null,
      "h": "VM 4A-1",
      "b": 4
     }
