@@ -624,6 +624,41 @@
    },
    "via": "results page",
    "note": "whole batch vm is high"
+  },
+  {
+   "id": "1793096758338-rs0666",
+   "at": "2026-10-27T15:55:58+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T695",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    85.9115,
+    86.9138,
+    86.6986
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-27T12:32:57+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-10-27T12:41:58+05:30",
+     "by": "Mohan"
+    },
+    "W3": {
+     "at": "2026-10-27T15:02:13+05:30",
+     "by": "Girish"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
