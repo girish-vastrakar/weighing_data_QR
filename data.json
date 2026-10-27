@@ -2574,6 +2574,66 @@
    "by": "Girish (heated in the old app)",
    "outAt": 1793026915261,
    "outBy": "Girish (heated in the old app)"
+  },
+  "2026-10-27-O2-mvq8bzxr": {
+   "rid": "2026-10-27-O2-mvq8bzxr",
+   "place": "O2",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 10",
+     "code": "T705",
+     "w2": 78.2099
+    },
+    {
+     "h": "DISH 13",
+     "code": "T697",
+     "w2": 87.0693
+    },
+    {
+     "h": "DISH 14",
+     "code": "T698",
+     "w2": 90.1274
+    },
+    {
+     "h": "DISH 15",
+     "code": "T699",
+     "w2": 85.8236
+    },
+    {
+     "h": "DISH 16",
+     "code": "T700",
+     "w2": 84.707
+    },
+    {
+     "h": "DISH 17",
+     "code": "T701",
+     "w2": 90.4424
+    },
+    {
+     "h": "DISH 18",
+     "code": "T702",
+     "w2": 80.0345
+    },
+    {
+     "h": "DISH 19",
+     "code": "T703",
+     "w2": 78.1546
+    },
+    {
+     "h": "DISH 20",
+     "code": "T704",
+     "w2": 84.2695
+    }
+   ],
+   "bal": 3,
+   "start": 1793077979823,
+   "mins": 60,
+   "by": "Ramesh",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
