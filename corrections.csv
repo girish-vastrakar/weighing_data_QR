@@ -1,4 +1,38 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+27-Oct-2026 12:58,Girish,reset,T696,SUM/54 R3 (26/10),Volatile Matter,W1,19.9491,,,Mohan,27-Oct-2026 12:55,,1793086114710-khfgx
+27-Oct-2026 12:58,Girish,reset,T696,SUM/54 R3 (26/10),Volatile Matter,W2,20.95,,,Mohan,27-Oct-2026 12:57,,1793086114710-khfgx
+27-Oct-2026 12:41,Mohan,overwrite,T695,SUM/16 R3 (26/10),Moisture,W2,86.9174,86.9138,,Mohan,27-Oct-2026 12:38,,1793085118862-j6t35
+27-Oct-2026 12:32,Girish,reset,T695,SUM/16 R3 (26/10),Moisture,W1,84.5794,,,Mohan,27-Oct-2026 10:26,,1793084526549-66y74
+27-Oct-2026 12:32,Girish,reset,T695,SUM/16 R3 (26/10),Moisture,W2,85.581,,,Mohan,27-Oct-2026 10:30,,1793084526549-66y74
+27-Oct-2026 12:32,Girish,reset,T695,SUM/16 R3 (26/10),Moisture,W3,85.3113,,,Mohan,27-Oct-2026 12:27,,1793084526549-66y74
+27-Oct-2026 12:09,Mohan,overwrite,T689,GOR/17,Volatile Matter,W2,16.2487,16.249,,Mohan,27-Oct-2026 12:09,,1793083196280-nmei5
+27-Oct-2026 11:41,Girish,reset,T682,SUM-84 R1 (26/10),Volatile Matter,W1,13.7357,,,Mohan,26-Oct-2026 15:32,,1793081477087-00atx
+27-Oct-2026 11:41,Girish,reset,T682,SUM-84 R1 (26/10),Volatile Matter,W2,14.7398,,,Mohan,26-Oct-2026 15:34,,1793081477087-00atx
+27-Oct-2026 11:41,Girish,reset,T682,SUM-84 R1 (26/10),Volatile Matter,W3,14.5024,,,Mohan,26-Oct-2026 17:00,,1793081477087-00atx
+27-Oct-2026 11:41,Girish,reset,T680,SUM-63 R1 (26/10),Volatile Matter,W1,14.5898,,,Mohan,26-Oct-2026 15:26,,1793081467350-awueq
+27-Oct-2026 11:41,Girish,reset,T680,SUM-63 R1 (26/10),Volatile Matter,W2,15.5926,,,Mohan,26-Oct-2026 15:28,,1793081467350-awueq
+27-Oct-2026 11:41,Girish,reset,T680,SUM-63 R1 (26/10),Volatile Matter,W3,15.3412,,,Mohan,26-Oct-2026 16:59,,1793081467350-awueq
+27-Oct-2026 11:40,Girish,reset,T683,SUM-90 R1 (26/10),Volatile Matter,W1,16.2258,,,Mohan,26-Oct-2026 15:34,,1793081453972-of1dq
+27-Oct-2026 11:40,Girish,reset,T683,SUM-90 R1 (26/10),Volatile Matter,W2,17.2299,,,Mohan,26-Oct-2026 15:36,,1793081453972-of1dq
+27-Oct-2026 11:40,Girish,reset,T683,SUM-90 R1 (26/10),Volatile Matter,W3,17.0212,,,Mohan,26-Oct-2026 17:01,,1793081453972-of1dq
+27-Oct-2026 11:40,Girish,reset,T679,SUM-61 R1 (26/10),Volatile Matter,W1,13.6543,,,Mohan,26-Oct-2026 15:23,,1793081444789-ac7en
+27-Oct-2026 11:40,Girish,reset,T679,SUM-61 R1 (26/10),Volatile Matter,W2,14.6568,,,Mohan,26-Oct-2026 15:25,,1793081444789-ac7en
+27-Oct-2026 11:40,Girish,reset,T679,SUM-61 R1 (26/10),Volatile Matter,W3,14.4417,,,Mohan,26-Oct-2026 16:58,,1793081444789-ac7en
+27-Oct-2026 11:40,Girish,reset,T676,SUM-2 R1 (26/10),Volatile Matter,W1,15.3545,,,Mohan,26-Oct-2026 15:09,,1793081431126-qz2r7
+27-Oct-2026 11:40,Girish,reset,T676,SUM-2 R1 (26/10),Volatile Matter,W2,16.3559,,,Mohan,26-Oct-2026 15:11,,1793081431126-qz2r7
+27-Oct-2026 11:40,Girish,reset,T676,SUM-2 R1 (26/10),Volatile Matter,W3,16.1089,,,Mohan,26-Oct-2026 16:57,,1793081431126-qz2r7
+27-Oct-2026 11:34,Girish,reset,T677,SUM-3 R1 (26/10),Volatile Matter,W1,15.8239,,,Mohan,26-Oct-2026 15:13,,1793081089355-n6in3
+27-Oct-2026 11:34,Girish,reset,T677,SUM-3 R1 (26/10),Volatile Matter,W2,16.8258,,,Mohan,26-Oct-2026 15:14,,1793081089355-n6in3
+27-Oct-2026 11:34,Girish,reset,T677,SUM-3 R1 (26/10),Volatile Matter,W3,16.5443,,,Mohan,26-Oct-2026 16:57,,1793081089355-n6in3
+27-Oct-2026 11:31,Girish,reset,T685,SUM-103 R1 (26/10),Volatile Matter,W1,16.2064,,,Mohan,26-Oct-2026 15:40,,1793080872371-ot24d
+27-Oct-2026 11:31,Girish,reset,T685,SUM-103 R1 (26/10),Volatile Matter,W2,17.2096,,,Mohan,26-Oct-2026 15:41,,1793080872371-ot24d
+27-Oct-2026 11:31,Girish,reset,T685,SUM-103 R1 (26/10),Volatile Matter,W3,17.0066,,,Mohan,26-Oct-2026 17:03,,1793080872371-ot24d
+27-Oct-2026 11:30,Ramesh,overwrite,T704,SUM-116 R1 (22/10),Ash,W2,14.7891,14.784,,Ramesh,27-Oct-2026 11:29,,1793080819775-2kfvu
+27-Oct-2026 10:32,Ramesh,overwrite,T705,SUM-118 R1 (22/10),Moisture,W2,78.2094,78.2099,,Ramesh,27-Oct-2026 10:32,,1793077377861-b79f5
+27-Oct-2026 10:25,Mohan,overwrite,T694,SUM/04 R3 (26/10),Moisture,W2,89.5989,89.5984,,Mohan,27-Oct-2026 10:25,,1793076926493-umcf2
+27-Oct-2026 10:25,Ramesh,overwrite,T703,SUM-114 R1 (22/10),Moisture,W2,78.1512,78.1546,,Ramesh,27-Oct-2026 10:24,,1793076920375-m97b2
+27-Oct-2026 10:15,Ramesh,overwrite,T700,SUM-111 R1 (22/10),Moisture,W2,84.702,84.707,,Ramesh,27-Oct-2026 10:14,,1793076328803-rgavr
+27-Oct-2026 10:11,Ramesh,overwrite,T699,SUM-72 R1 (22/10),Moisture,W2,85.8211,85.8236,,Ramesh,27-Oct-2026 10:11,,1793076118417-j9ves
 26-Oct-2026 10:30,Ramesh koli,reset,T676,SUM-2 R1 (26/10),Ash,W1,14.7789,,,Ramesh koli,26-Oct-2026 10:13,,1792990804877-dy98l
 26-Oct-2026 10:30,Ramesh koli,reset,T676,SUM-2 R1 (26/10),Ash,W2,15.7794,,,Ramesh koli,26-Oct-2026 10:15,,1792990804877-dy98l
 26-Oct-2026 10:18,Ramesh koli,reset,T677,SUM-3 R1 (26/10),Ash,W1,14.4365,,,Ramesh koli,26-Oct-2026 10:17,,1792990108354-q4ue6

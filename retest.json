@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-27T01:37:50+05:30",
+ "generated": "2026-10-27T13:12:02+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,147 +30,13 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 7,
+ "count": 0,
  "by_test": {
   "MC": 0,
-  "VM": 7,
+  "VM": 0,
   "ASH": 0,
   "FC": 0,
   "TM": 0
  },
- "samples": [
-  {
-   "code": "T676",
-   "name": "SUM-2 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 21.97 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 3.46,
-   "vm_ar": 21.21,
-   "ash_ar": 3.89,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T677",
-   "name": "SUM-3 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 24.97 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 4.17,
-   "vm_ar": 23.93,
-   "ash_ar": 2.09,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T679",
-   "name": "SUM-61 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 18.50 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 3.63,
-   "vm_ar": 17.83,
-   "ash_ar": 3.53,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T680",
-   "name": "SUM-63 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 20.12 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 6.2,
-   "vm_ar": 18.87,
-   "ash_ar": 2.1,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T682",
-   "name": "SUM-84 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 21.79 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 2.37,
-   "vm_ar": 21.28,
-   "ash_ar": 2.62,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T683",
-   "name": "SUM-90 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 18.56 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 2.73,
-   "vm_ar": 18.05,
-   "ash_ar": 2.5,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T685",
-   "name": "SUM-103 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 17.76 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 3.02,
-   "vm_ar": 17.22,
-   "ash_ar": 2.42,
-   "total_moisture": null,
-   "approval_outdated": false
-  }
- ]
+ "samples": []
 }

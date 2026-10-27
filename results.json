@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-27T01:37:50+05:30",
+ "generated": "2026-10-27T13:12:02+05:30",
  "names_updated": "2026-10-26T23:21:46+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 33,
+ "count": 40,
  "counts": {
   "complete": 14,
-  "incomplete": 0,
-  "not started": 19,
-  "awaiting approval": 7
+  "incomplete": 26,
+  "not started": 0,
+  "awaiting approval": 0
  },
  "results": [
   {
@@ -248,6 +248,50 @@
    "last_entry": "merged from old app | 26-Oct-2026"
   },
   {
+   "code": "T676",
+   "name": "SUM-2 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 3.46,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 3.89,
+   "ash_db": 4.03,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:40"
+  },
+  {
+   "code": "T677",
+   "name": "SUM-3 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 4.17,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 2.09,
+   "ash_db": 2.19,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:34"
+  },
+  {
    "code": "T678",
    "name": "SUM-14 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
@@ -266,6 +310,50 @@
    "flags": [],
    "checks": [],
    "last_entry": "merged from old app | 26-Oct-2026"
+  },
+  {
+   "code": "T679",
+   "name": "SUM-61 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 3.63,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 3.53,
+   "ash_db": 3.66,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:40"
+  },
+  {
+   "code": "T680",
+   "name": "SUM-63 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 6.2,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 2.1,
+   "ash_db": 2.23,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:41"
   },
   {
    "code": "T681",
@@ -288,6 +376,50 @@
    "last_entry": "Girish | Moisture W3 | 26-Oct-2026 20:37"
   },
   {
+   "code": "T682",
+   "name": "SUM-84 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 2.37,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 2.62,
+   "ash_db": 2.69,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:41"
+  },
+  {
+   "code": "T683",
+   "name": "SUM-90 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 2.73,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 2.5,
+   "ash_db": 2.57,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:40"
+  },
+  {
    "code": "T684",
    "name": "SUM-94 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
@@ -306,6 +438,28 @@
    "flags": [],
    "checks": [],
    "last_entry": "Girish | Moisture W3 | 26-Oct-2026 20:36"
+  },
+  {
+   "code": "T685",
+   "name": "SUM-103 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-26",
+   "status": "incomplete",
+   "pending": [
+    "VM"
+   ],
+   "moisture": 3.02,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 2.42,
+   "ash_db": 2.49,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Volatile Matter reset | 27-Oct-2026 11:31"
   },
   {
    "code": "T686",
@@ -332,13 +486,12 @@
    "name": "GOR/15",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 8.76,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -349,20 +502,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 12:21"
   },
   {
    "code": "T688",
    "name": "GOR/16",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 5.03,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -373,20 +525,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 12:24"
   },
   {
    "code": "T689",
    "name": "GOR/17",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 5.21,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -397,20 +548,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 12:22"
   },
   {
    "code": "T690",
    "name": "GOR/18",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 4.39,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -421,20 +571,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 12:25"
   },
   {
    "code": "T691",
    "name": "GOR/19",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 4.68,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -445,20 +594,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 12:23"
   },
   {
    "code": "T692",
    "name": "GOR/20",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.86,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -469,20 +617,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W2 | 27-Oct-2026 12:46"
   },
   {
    "code": "T693",
    "name": "GOR/21",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 8.25,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -493,20 +640,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W2 | 27-Oct-2026 12:48"
   },
   {
    "code": "T694",
    "name": "SUM/04 R3 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 13.6,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -517,14 +663,14 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W2 | 27-Oct-2026 12:52"
   },
   {
    "code": "T695",
    "name": "SUM/16 R3 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -541,20 +687,19 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W2 | 27-Oct-2026 12:54"
   },
   {
    "code": "T696",
    "name": "SUM/54 R3 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 6.34,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -565,302 +710,206 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W2 | 27-Oct-2026 13:04"
   },
   {
    "code": "T697",
    "name": "SUM-51 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 2.8,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 11.49,
+   "ash_db": 11.82,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 12:59"
   },
   {
    "code": "T698",
    "name": "SUM-69 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 3.47,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.71,
+   "ash_db": 4.87,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 12:59"
   },
   {
    "code": "T699",
    "name": "SUM-72 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 3.86,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.68,
+   "ash_db": 4.87,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:00"
   },
   {
    "code": "T700",
    "name": "SUM-111 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 2.67,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 3.21,
+   "ash_db": 3.3,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:00"
   },
   {
    "code": "T701",
    "name": "SUM-112 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 2.89,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 2.1,
+   "ash_db": 2.16,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:00"
   },
   {
    "code": "T702",
    "name": "SUM-113 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 3.62,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 3.26,
+   "ash_db": 3.39,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:00"
   },
   {
    "code": "T703",
    "name": "SUM-114 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 3.63,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 2.93,
+   "ash_db": 3.04,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:01"
   },
   {
    "code": "T704",
    "name": "SUM-116 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 3.51,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 3.09,
+   "ash_db": 3.2,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:01"
   },
   {
    "code": "T705",
    "name": "SUM-118 R1 (22/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-22",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
-    "MC",
-    "VM",
-    "ASH"
+    "VM"
    ],
-   "moisture": null,
+   "moisture": 2.47,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 2.73,
+   "ash_db": 2.8,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W3 | 27-Oct-2026 13:01"
   }
  ],
- "awaiting_approval": [
-  {
-   "code": "T676",
-   "name": "SUM-2 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 21.97 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T677",
-   "name": "SUM-3 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 24.97 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T679",
-   "name": "SUM-61 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 18.50 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T680",
-   "name": "SUM-63 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 20.12 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T682",
-   "name": "SUM-84 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 21.79 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T683",
-   "name": "SUM-90 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 18.56 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T685",
-   "name": "SUM-103 R1 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "VM 17.76 % db above 17.5 % db"
-   ],
-   "checks": []
-  }
- ]
+ "awaiting_approval": []
 }
