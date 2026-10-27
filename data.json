@@ -6333,6 +6333,36 @@
    "outAt": null,
    "reheat": true,
    "go": null
+  },
+  "2026-10-27-O1-mvqmn5lv": {
+   "rid": "2026-10-27-O1-mvqmn5lv",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 11",
+     "code": "T687",
+     "w2": 91.5136
+    },
+    {
+     "h": "DISH 31",
+     "code": "T695",
+     "w2": 88.2869
+    },
+    {
+     "h": "DISH 48",
+     "code": "T693",
+     "w2": 90.4571
+    }
+   ],
+   "bal": 4,
+   "start": 1793102015011,
+   "mins": 60,
+   "by": "Girish",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
