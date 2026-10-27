@@ -3377,9 +3377,9 @@
      85.7849
     ],
     "VM": [
-     15.4097,
-     16.413,
-     16.1581
+     null,
+     null,
+     null
     ],
     "ASH": [
      14.6678,
@@ -3393,7 +3393,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 27-Oct-2026 13:33",
+   "last": "girish | Volatile Matter reset (results page) | 27-Oct-2026 15:55",
    "ev": [
     {
      "id": "1793075958854-c4ash",
@@ -3541,6 +3541,21 @@
      "o": null,
      "h": "VM 3A-3",
      "b": 3
+    },
+    {
+     "id": "1793096702288-rs8ask",
+     "t": 1793096702288,
+     "by": "girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      15.4097,
+      16.413,
+      16.1581
+     ],
+     "h": "VM 3A-3",
+     "via": "results",
+     "n": "whole batch vm is high"
     }
    ],
    "h": {
