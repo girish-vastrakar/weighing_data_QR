@@ -4833,6 +4833,26 @@
    "reheat": true,
    "go": 1793086672740,
    "goBy": "Ramesh"
+  },
+  "2026-10-27-O1-mvqdj9s6": {
+   "rid": "2026-10-27-O1-mvqdj9s6",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 12",
+     "code": "T695",
+     "w2": 86.9138
+    }
+   ],
+   "bal": 2,
+   "start": 1793086717254,
+   "mins": 60,
+   "by": "Mohan",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
