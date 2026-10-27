@@ -6657,10 +6657,11 @@
    "start": 1793105882271,
    "mins": 7,
    "by": "Girish",
-   "outAt": null,
+   "outAt": 1793106429956,
    "reheat": true,
    "go": 1793105960675,
-   "goBy": "Girish"
+   "goBy": "Girish",
+   "outBy": "Girish"
   }
  },
  "settings": {
