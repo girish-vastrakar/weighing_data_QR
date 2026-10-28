@@ -15736,6 +15736,26 @@
    "reheat": true,
    "go": 1793189423256,
    "goBy": "Ramesh"
+  },
+  "2026-10-28-O1-mvs3erns": {
+   "rid": "2026-10-28-O1-mvs3erns",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 26",
+     "code": "T730",
+     "w2": 88.6193
+    }
+   ],
+   "bal": 2,
+   "start": 1793190643336,
+   "mins": 60,
+   "by": "Ramesh",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
