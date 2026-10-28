@@ -7546,7 +7546,8 @@
      "v": 12.2372,
      "o": null,
      "h": "ASH 1A-3",
-     "b": 1
+     "b": 1,
+     "chk": "ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?"
     },
     {
      "id": "1793184623803-hal3x",
@@ -10053,7 +10054,8 @@
      "h": "ASH 1A-8",
      "b": 1,
      "via": "paper",
-     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request",
+     "chk": "ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
     }
    ],
    "h": {
@@ -10580,7 +10582,8 @@
      "h": "ASH 1A-9",
      "b": 1,
      "via": "paper",
-     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request",
+     "chk": "ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
     }
    ],
    "h": {
@@ -11850,7 +11853,8 @@
      "h": "ASH 1B-2",
      "b": 1,
      "via": "paper",
-     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request",
+     "chk": "ash 14.4 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
     }
    ],
    "h": {
@@ -12719,7 +12723,8 @@
      "h": "ASH 1B-7",
      "b": 1,
      "via": "paper",
-     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request",
+     "chk": "ash 9.2 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
     }
    ],
    "h": {
