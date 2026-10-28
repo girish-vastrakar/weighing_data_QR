@@ -617,6 +617,34 @@
     ]
    },
    "via": "results page"
+  },
+  "T713": {
+   "by": "girish",
+   "at": "2026-10-28T20:48:33+05:30",
+   "flags": "VM W3 from paper sheet, check, Ash W3 from paper sheet, check",
+   "w": {
+    "MC": [
+     86.2574,
+     87.2584,
+     87.2351
+    ],
+    "VM": [
+     15.2452,
+     16.2492,
+     16.0888
+    ],
+    "ASH": [
+     12.0568,
+     13.058,
+     12.1458
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -641,5 +669,5 @@
    60
   ]
  },
- "updated": "2026-10-28T20:47:40+05:30"
+ "updated": "2026-10-28T20:48:33+05:30"
 }
