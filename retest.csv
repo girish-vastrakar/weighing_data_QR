@@ -1,1 +1,11 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
+T708,JAK-Prebag jakhotra 03,Tata 500 PO dMRV · Jakhotra · Pre-bagging sampling,2026-10-26,Ash,7.62,11.04,9.65,,"ASH W3 doubtful: ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?",complete,
+T713,CH1/05,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,2.33,13.65,8.89,,"ASH W3 doubtful: ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?",complete,
+T714,CH1/06,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,3.64,11.14,8.84,,"ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?",complete,
+T717,CH1/09,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,6.75,10.15,14.42,,"ASH 15.46 % db above 12 % db; ASH W3 doubtful: ash 14.4 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?",complete,
+T722,CH1/14,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,5.99,10.25,9.23,,"ASH W3 doubtful: ash 9.2 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?",complete,
+T731,CH1/23,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,6.85,14.48,16.23,,ASH 17.42 % db above 12 % db,complete,
+T732,CH1/24,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,VM,11.07,17.87,7.06,,VM 20.11 % db above 17.5 % db,complete,
+T734,CH1/26,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,5.26,13.19,18.4,,ASH 19.42 % db above 12 % db,complete,
+T736,CH1/28,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,3.64,14.65,22.31,,ASH 23.15 % db above 12 % db,complete,
+T746,CH1/38,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Ash,6.24,12.86,15.92,,ASH 16.98 % db above 12 % db,complete,

@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-28T13:48:57+05:30",
+ "generated": "2026-10-28T20:43:52+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,13 +30,205 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 0,
+ "count": 10,
  "by_test": {
   "MC": 0,
-  "VM": 0,
-  "ASH": 0,
+  "VM": 1,
+  "ASH": 9,
   "FC": 0,
   "TM": 0
  },
- "samples": []
+ "samples": [
+  {
+   "code": "T708",
+   "name": "JAK-Prebag jakhotra 03",
+   "supplier": "Tata 500 PO dMRV · Jakhotra · Pre-bagging sampling",
+   "date": "2026-10-26",
+   "status": "complete",
+   "flags": [
+    "ASH W3 doubtful: ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 7.62,
+   "vm_ar": 11.04,
+   "ash_ar": 9.65,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T713",
+   "name": "CH1/05",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH W3 doubtful: ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 2.33,
+   "vm_ar": 13.65,
+   "ash_ar": 8.89,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T714",
+   "name": "CH1/06",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 3.64,
+   "vm_ar": 11.14,
+   "ash_ar": 8.84,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T717",
+   "name": "CH1/09",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 15.46 % db above 12 % db",
+    "ASH W3 doubtful: ash 14.4 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 6.75,
+   "vm_ar": 10.15,
+   "ash_ar": 14.42,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T722",
+   "name": "CH1/14",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH W3 doubtful: ash 9.2 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 5.99,
+   "vm_ar": 10.25,
+   "ash_ar": 9.23,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T731",
+   "name": "CH1/23",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 17.42 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 6.85,
+   "vm_ar": 14.48,
+   "ash_ar": 16.23,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T732",
+   "name": "CH1/24",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "VM 20.11 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 11.07,
+   "vm_ar": 17.87,
+   "ash_ar": 7.06,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T734",
+   "name": "CH1/26",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 19.42 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 5.26,
+   "vm_ar": 13.19,
+   "ash_ar": 18.4,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T736",
+   "name": "CH1/28",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 23.15 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 3.64,
+   "vm_ar": 14.65,
+   "ash_ar": 22.31,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T746",
+   "name": "CH1/38",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 16.98 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 6.24,
+   "vm_ar": 12.86,
+   "ash_ar": 15.92,
+   "total_moisture": null,
+   "approval_outdated": false
+  }
+ ]
 }
