@@ -74,7 +74,8 @@
   "T751",
   "T716",
   "T752",
-  "T717"
+  "T717",
+  "T718"
  ],
  "samples": {
   "T612": {
@@ -8319,6 +8320,33 @@
    "hb": {
     "MC": 1
    }
+  },
+  "T718": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
