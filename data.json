@@ -12125,6 +12125,51 @@
    "go": 1793171934117,
    "goBy": "Ramesh",
    "outBy": "Ramesh"
+  },
+  "2026-10-28-F2-mvrsmdah": {
+   "rid": "2026-10-28-F2-mvrsmdah",
+   "place": "F2",
+   "test": "VM",
+   "tray": "VM 2B",
+   "items": [
+    {
+     "h": "VM 2B-1",
+     "code": "T750",
+     "w2": 16.6037
+    },
+    {
+     "h": "VM 2B-2",
+     "code": "T751",
+     "w2": 17.4674
+    },
+    {
+     "h": "VM 2B-3",
+     "code": "T752",
+     "w2": 18.0972
+    },
+    {
+     "h": "VM 2B-4",
+     "code": "T753",
+     "w2": 14.4046
+    },
+    {
+     "h": "VM 2B-5",
+     "code": "T754",
+     "w2": 15.9754
+    },
+    {
+     "h": "VM 2B-6",
+     "code": "T755",
+     "w2": 16.6497
+    }
+   ],
+   "bal": 2,
+   "start": 1793172522186,
+   "mins": 7,
+   "by": "Ramesh",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
