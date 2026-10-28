@@ -10355,7 +10355,7 @@
    "tm": false,
    "w": {
     "MC": [
-     80.3386,
+     null,
      null,
      null
     ],
@@ -10376,7 +10376,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Moisture W1 | 28-Oct-2026 17:04",
+   "last": "Ramesh | Moisture reset | 28-Oct-2026 17:05",
    "ev": [
     {
      "id": "1793164240967-l76ei",
@@ -10488,6 +10488,19 @@
      "o": null,
      "h": "DISH 20",
      "b": 2
+    },
+    {
+     "id": "1793187305507-5kypo",
+     "t": 1793187305507,
+     "by": "Ramesh",
+     "a": "reset",
+     "k": "MC",
+     "o": [
+      80.3386,
+      null,
+      null
+     ],
+     "h": "DISH 20"
     }
    ],
    "h": {
