@@ -59,7 +59,8 @@
   "T710",
   "T742",
   "T711",
-  "T743"
+  "T743",
+  "T744"
  ],
  "samples": {
   "T612": {
@@ -7211,6 +7212,33 @@
    "hb": {
     "ASH": 2
    }
+  },
+  "T744": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
