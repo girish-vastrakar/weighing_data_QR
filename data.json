@@ -41,7 +41,8 @@
   "T702",
   "T703",
   "T704",
-  "T705"
+  "T705",
+  "T731"
  ],
  "samples": {
   "T612": {
@@ -5927,6 +5928,33 @@
     "ASH": 3,
     "VM": 4
    }
+  },
+  "T731": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
