@@ -12392,7 +12392,11 @@
    "outAt": null,
    "reheat": true,
    "go": 1793173530836,
-   "goBy": "Mohan"
+   "goBy": "Mohan",
+   "cancelled": {
+    "at": 1793173860268,
+    "by": "Supervisor (timer)"
+   }
   }
  },
  "settings": {
