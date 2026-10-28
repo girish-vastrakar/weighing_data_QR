@@ -146,6 +146,13 @@ def compute(code, s, names, limits):
             flags.append(f"{k} {v:.2f} %{db} above {hi:g} %{db}")
         elif lo is not None and v < lo:
             flags.append(f"{k} {v:.2f} %{db} below {lo:g} %{db}")
+    # W3 typed in later from a paper sheet (not read off the balance in the app): held back until the supervisor checks it
+    for k in TESTS:
+        if not complete(w.get(k)):
+            continue
+        ev = [e for e in s.get("ev") or [] if e.get("k") == k and e.get("s") == 3 and e.get("a") in ("w", "fix", "override", "restore")]
+        if ev and ev[-1].get("via") == "paper" and ev[-1].get("v") == w[k][2]:
+            flags.append(f"{k} W3 from paper sheet, check")
 
     info = names.get(norm_code(code)) or {}
     return {
