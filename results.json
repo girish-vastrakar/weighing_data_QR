@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-28T20:43:52+05:30",
+ "generated": "2026-10-29T01:52:45+05:30",
  "names_updated": "2026-10-28T10:02:29+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 79,
+ "count": 82,
  "counts": {
-  "complete": 72,
+  "complete": 75,
   "incomplete": 7,
   "not started": 0,
-  "awaiting approval": 10
+  "awaiting approval": 7
  },
  "results": [
   {
@@ -958,6 +958,30 @@
    "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41"
   },
   {
+   "code": "T708",
+   "name": "JAK-Prebag jakhotra 03",
+   "supplier": "Tata 500 PO dMRV · Jakhotra · Pre-bagging sampling",
+   "date": "2026-10-26",
+   "status": "complete",
+   "pending": [],
+   "moisture": 7.62,
+   "total_moisture": null,
+   "vm_loss": 18.66,
+   "vm_ar": 11.04,
+   "vm_db": 11.95,
+   "ash_ar": 9.65,
+   "ash_db": 10.44,
+   "fc_ar": 71.69,
+   "fc_db": 77.6,
+   "flags": [
+    "ASH W3 doubtful: ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "approved_by": "girish",
+   "approved_at": "2026-10-28T20:47:11+05:30"
+  },
+  {
    "code": "T709",
    "name": "CH1/01",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
@@ -1040,6 +1064,54 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41"
+  },
+  {
+   "code": "T713",
+   "name": "CH1/05",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.33,
+   "total_moisture": null,
+   "vm_loss": 15.98,
+   "vm_ar": 13.65,
+   "vm_db": 13.97,
+   "ash_ar": 8.89,
+   "ash_db": 9.1,
+   "fc_ar": 75.13,
+   "fc_db": 76.93,
+   "flags": [
+    "ASH W3 doubtful: ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "approved_by": "girish",
+   "approved_at": "2026-10-28T20:48:33+05:30"
+  },
+  {
+   "code": "T714",
+   "name": "CH1/06",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 3.64,
+   "total_moisture": null,
+   "vm_loss": 14.78,
+   "vm_ar": 11.14,
+   "vm_db": 11.56,
+   "ash_ar": 8.84,
+   "ash_db": 9.17,
+   "fc_ar": 76.39,
+   "fc_db": 79.27,
+   "flags": [
+    "ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "approved_by": "girish",
+   "approved_at": "2026-10-28T20:48:56+05:30"
   },
   {
    "code": "T715",
@@ -1711,39 +1783,6 @@
   }
  ],
  "awaiting_approval": [
-  {
-   "code": "T708",
-   "name": "JAK-Prebag jakhotra 03",
-   "supplier": "Tata 500 PO dMRV · Jakhotra · Pre-bagging sampling",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T713",
-   "name": "CH1/05",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T714",
-   "name": "CH1/06",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
-   ],
-   "checks": []
-  },
   {
    "code": "T717",
    "name": "CH1/09",

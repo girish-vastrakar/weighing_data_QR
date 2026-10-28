@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-28T20:43:52+05:30",
+ "generated": "2026-10-29T01:52:45+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,72 +30,15 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 10,
+ "count": 7,
  "by_test": {
   "MC": 0,
   "VM": 1,
-  "ASH": 9,
+  "ASH": 6,
   "FC": 0,
   "TM": 0
  },
  "samples": [
-  {
-   "code": "T708",
-   "name": "JAK-Prebag jakhotra 03",
-   "supplier": "Tata 500 PO dMRV · Jakhotra · Pre-bagging sampling",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 9.7 % vs 4.0–4.1 % for T706/T707 (same Jakhotra prebag), crucible mix-up?"
-   ],
-   "checks": [],
-   "retest": [
-    "ASH"
-   ],
-   "moisture": 7.62,
-   "vm_ar": 11.04,
-   "ash_ar": 9.65,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T713",
-   "name": "CH1/05",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 8.9 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
-   ],
-   "checks": [],
-   "retest": [
-    "ASH"
-   ],
-   "moisture": 2.33,
-   "vm_ar": 13.65,
-   "ash_ar": 8.89,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T714",
-   "name": "CH1/06",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?"
-   ],
-   "checks": [],
-   "retest": [
-    "ASH"
-   ],
-   "moisture": 3.64,
-   "vm_ar": 11.14,
-   "ash_ar": 8.84,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
   {
    "code": "T717",
    "name": "CH1/09",
