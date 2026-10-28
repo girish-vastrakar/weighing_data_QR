@@ -12775,10 +12775,11 @@
    "start": 1793172963193,
    "mins": 60,
    "by": "Mohan",
-   "outAt": null,
+   "outAt": 1793177383825,
    "reheat": true,
    "go": 1793173088944,
-   "goBy": "Mohan"
+   "goBy": "Mohan",
+   "outBy": "Girish"
   },
   "2026-10-28-O2-mvrt7dfp": {
    "rid": "2026-10-28-O2-mvrt7dfp",
