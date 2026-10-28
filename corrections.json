@@ -1228,6 +1228,38 @@
      "by": "Ramesh"
     }
    }
+  },
+  {
+   "id": "1793199539739-2ppyf",
+   "at": "2026-10-28T20:28:59+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T712",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    16.6871,
+    17.6896,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T12:34:40+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-10-28T12:35:39+05:30",
+     "by": "Mohan"
+    }
+   },
+   "via": "results page",
+   "note": "W3 on paper sheet (11.7797) is lighter than W1 (16.6871): crucible mix-up, retest"
   }
  ]
 }

@@ -9377,8 +9377,8 @@
      null
     ],
     "ASH": [
-     16.6871,
-     17.6896,
+     null,
+     null,
      null
     ],
     "TM": [
@@ -9388,7 +9388,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 16:33",
+   "last": "Girish | Ash reset (results page) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793163787869-r5dml",
@@ -9500,6 +9500,21 @@
      "o": null,
      "h": "VM 1A-7",
      "b": 1
+    },
+    {
+     "id": "1793199539739-2ppyf",
+     "t": 1793199539739,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      16.6871,
+      17.6896,
+      null
+     ],
+     "h": "ASH 1A-7",
+     "via": "results",
+     "n": "W3 on paper sheet (11.7797) is lighter than W1 (16.6871): crucible mix-up, retest"
     }
    ],
    "h": {
@@ -9904,7 +9919,7 @@
     "ASH": [
      12.0568,
      13.058,
-     null
+     12.1458
     ],
     "TM": [
      null,
@@ -9913,7 +9928,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 16:35",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793163978617-6cjku",
@@ -10025,6 +10040,20 @@
      "o": null,
      "h": "VM 1A-8",
      "b": 1
+    },
+    {
+     "id": "1793199539739-qxxiz",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.1458,
+     "o": null,
+     "h": "ASH 1A-8",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -10417,7 +10446,7 @@
     "ASH": [
      12.1371,
      13.1398,
-     null
+     12.2257
     ],
     "TM": [
      null,
@@ -10426,7 +10455,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 16:37",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793164199441-hawzk",
@@ -10538,6 +10567,20 @@
      "o": null,
      "h": "VM 1A-9",
      "b": 1
+    },
+    {
+     "id": "1793199539739-fwxk7",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.2257,
+     "o": null,
+     "h": "ASH 1A-9",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -10786,7 +10829,7 @@
     "ASH": [
      22.8798,
      23.8814,
-     null
+     22.9202
     ],
     "TM": [
      null,
@@ -10795,7 +10838,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 16:39",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793164320764-yvk1c",
@@ -10907,6 +10950,20 @@
      "o": null,
      "h": "VM 1A-10",
      "b": 1
+    },
+    {
+     "id": "1793199539739-g0166",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.9202,
+     "o": null,
+     "h": "ASH 1A-10",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -11311,7 +11368,7 @@
     "ASH": [
      11.4917,
      12.4947,
-     null
+     11.5376
     ],
     "TM": [
      null,
@@ -11320,7 +11377,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:03",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793164532363-v5flp",
@@ -11432,6 +11489,20 @@
      "o": null,
      "h": "VM 1A-11",
      "b": 1
+    },
+    {
+     "id": "1793199539739-mvzrh",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.5376,
+     "o": null,
+     "h": "ASH 1B-1",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -11645,7 +11716,7 @@
     "ASH": [
      12.1902,
      13.1954,
-     null
+     12.3352
     ],
     "TM": [
      null,
@@ -11654,7 +11725,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:05",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793164738796-f9zbo",
@@ -11766,6 +11837,20 @@
      "o": null,
      "h": "VM 1A-12",
      "b": 1
+    },
+    {
+     "id": "1793199539739-b2emy",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.3352,
+     "o": null,
+     "h": "ASH 1B-2",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -11800,7 +11885,7 @@
     "ASH": [
      22.5447,
      23.5465,
-     null
+     22.5872
     ],
     "TM": [
      null,
@@ -11809,7 +11894,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:07",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793165894045-be72g",
@@ -11921,6 +12006,20 @@
      "o": null,
      "h": "VM 1A-13",
      "b": 1
+    },
+    {
+     "id": "1793199539739-7g8h4",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.5872,
+     "o": null,
+     "h": "ASH 1B-3",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -11955,7 +12054,7 @@
     "ASH": [
      22.4337,
      23.4382,
-     null
+     22.4928
     ],
     "TM": [
      null,
@@ -11964,7 +12063,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:09",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793166110616-p3h23",
@@ -12100,6 +12199,20 @@
      "o": null,
      "h": "VM 1A-14",
      "b": 1
+    },
+    {
+     "id": "1793199539739-dz6dv",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.4928,
+     "o": null,
+     "h": "ASH 1B-4",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12134,7 +12247,7 @@
     "ASH": [
      25.0906,
      26.0919,
-     null
+     25.1518
     ],
     "TM": [
      null,
@@ -12143,7 +12256,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:12",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793166497311-sw5yu",
@@ -12255,6 +12368,20 @@
      "o": null,
      "h": "VM 1A-15",
      "b": 1
+    },
+    {
+     "id": "1793199539739-e32mw",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 25.1518,
+     "o": null,
+     "h": "ASH 1B-5",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12289,7 +12416,7 @@
     "ASH": [
      13.7635,
      14.7671,
-     null
+     13.8082
     ],
     "TM": [
      null,
@@ -12298,7 +12425,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:13",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793166627530-7zzk1",
@@ -12410,6 +12537,20 @@
      "o": null,
      "h": "VM 1A-16",
      "b": 1
+    },
+    {
+     "id": "1793199539739-7rsne",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 13.8082,
+     "o": null,
+     "h": "ASH 1B-6",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12444,7 +12585,7 @@
     "ASH": [
      14.3375,
      15.3384,
-     null
+     14.4299
     ],
     "TM": [
      null,
@@ -12453,7 +12594,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:15",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793166847798-hlogw",
@@ -12565,6 +12706,20 @@
      "o": null,
      "h": "VM 1A-17",
      "b": 1
+    },
+    {
+     "id": "1793199539739-qwahy",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 14.4299,
+     "o": null,
+     "h": "ASH 1B-7",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12599,7 +12754,7 @@
     "ASH": [
      14.7456,
      15.7474,
-     null
+     14.8096
     ],
     "TM": [
      null,
@@ -12608,7 +12763,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:19",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793167065601-zkyg8",
@@ -12720,6 +12875,20 @@
      "o": null,
      "h": "VM 1A-18",
      "b": 1
+    },
+    {
+     "id": "1793199539739-1u59c",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 14.8096,
+     "o": null,
+     "h": "ASH 1B-8",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12754,7 +12923,7 @@
     "ASH": [
      14.2463,
      15.247,
-     null
+     14.3239
     ],
     "TM": [
      null,
@@ -12763,7 +12932,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:23",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793167296994-w3t17",
@@ -12875,6 +13044,20 @@
      "o": null,
      "h": "VM 1B-1",
      "b": 1
+    },
+    {
+     "id": "1793199539739-qrroa",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 14.3239,
+     "o": null,
+     "h": "ASH 1B-9",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
@@ -12909,7 +13092,7 @@
     "ASH": [
      15.0416,
      16.0473,
-     null
+     15.1013
     ],
     "TM": [
      null,
@@ -12918,7 +13101,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 28-Oct-2026 17:26",
+   "last": "Mohan | Ash W3 (paper sheet) | 28-Oct-2026 20:28",
    "ev": [
     {
      "id": "1793167486326-76dk3",
@@ -13030,6 +13213,20 @@
      "o": null,
      "h": "VM 1B-2",
      "b": 1
+    },
+    {
+     "id": "1793199539739-xf7a3",
+     "t": 1793199539739,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 15.1013,
+     "o": null,
+     "h": "ASH 1B-10",
+     "b": 1,
+     "via": "paper",
+     "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
     }
    ],
    "h": {
