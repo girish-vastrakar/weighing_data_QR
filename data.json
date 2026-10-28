@@ -6077,7 +6077,7 @@
      null
     ],
     "VM": [
-     null,
+     16.0409,
      null,
      null
     ],
@@ -6093,7 +6093,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Ash W2 | 28-Oct-2026 10:12",
+   "last": "Ramesh | Volatile Matter W1 | 28-Oct-2026 11:07",
    "ev": [
     {
      "id": "1793162472219-kazdp",
@@ -6134,6 +6134,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "VM",
+     "h": "VM 2A-2",
+     "b": 2
+    },
+    {
+     "id": "1793165828955-mgcs1",
+     "t": 1793165828955,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 16.0409,
+     "o": null,
      "h": "VM 2A-2",
      "b": 2
     }
