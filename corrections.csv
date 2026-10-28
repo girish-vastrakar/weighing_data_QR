@@ -1,4 +1,9 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+28-Oct-2026 13:36,Ramesh,overwrite,T753,CH1/45,Volatile Matter,W3,14.24,,,Ramesh,28-Oct-2026 13:36,,1793174795900-iaqc5
+28-Oct-2026 11:45,Ramesh,overwrite,T750,CH1/42,Volatile Matter,W2,16.6025,16.6037,,Ramesh,28-Oct-2026 11:44,,1793168105961-n5xdj
+28-Oct-2026 11:15,Mohan,overwrite,T719,CH1/11,Moisture,W1,81.9831,81.9783,,Mohan,28-Oct-2026 11:13,,1793166304603-wtrqd
+28-Oct-2026 11:13,Mohan,overwrite,T719,CH1/11,Moisture,W1,81.9842,81.9831,,Mohan,28-Oct-2026 11:12,,1793166180079-pccxl
+28-Oct-2026 11:08,Ramesh,overwrite,T732,CH1/24,Volatile Matter,W2,17.0487,17.0445,,Ramesh,28-Oct-2026 11:08,,1793165924866-dwmyc
 27-Oct-2026 16:03,girish,reset,T694,SUM/04 R3 (26/10),Moisture,W1,88.5981,,,Mohan,27-Oct-2026 10:22,,1793097187578-rsd17l
 27-Oct-2026 16:03,girish,reset,T694,SUM/04 R3 (26/10),Moisture,W2,89.5984,,,Mohan,27-Oct-2026 10:25,,1793097187578-rsd17l
 27-Oct-2026 16:03,girish,reset,T694,SUM/04 R3 (26/10),Moisture,W3,89.4624,,,Mohan,27-Oct-2026 12:24,,1793097187578-rsd17l
