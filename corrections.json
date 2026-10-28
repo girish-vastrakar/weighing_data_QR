@@ -1202,6 +1202,32 @@
     "at": "2026-10-28T16:33:52+05:30",
     "by": "Ramesh"
    }
+  },
+  {
+   "id": "1793187305507-5kypo",
+   "at": "2026-10-28T17:05:05+05:30",
+   "by": "Ramesh",
+   "action": "reset",
+   "code": "T749",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    80.3386,
+    null,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T17:04:46+05:30",
+     "by": "Ramesh"
+    }
+   }
   }
  ]
 }
