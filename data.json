@@ -13167,6 +13167,41 @@
    "go": null,
    "outBy": "Supervisor (timer)",
    "early": true
+  },
+  "2026-10-28-F1-mvrxjdrf": {
+   "rid": "2026-10-28-F1-mvrxjdrf",
+   "place": "F1",
+   "test": "ASH",
+   "tray": "ASH 2A",
+   "items": [
+    {
+     "h": "ASH 2A-1",
+     "code": "T752",
+     "w2": 15.5176
+    },
+    {
+     "h": "ASH 2A-2",
+     "code": "T753",
+     "w2": 15.403
+    },
+    {
+     "h": "ASH 2A-3",
+     "code": "T754",
+     "w2": 14.3997
+    },
+    {
+     "h": "ASH 2A-4",
+     "code": "T755",
+     "w2": 15.7599
+    }
+   ],
+   "bal": 2,
+   "start": 1793180780908,
+   "mins": 60,
+   "by": "Ramesh",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
