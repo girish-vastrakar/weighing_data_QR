@@ -15778,6 +15778,26 @@
    "reheat": true,
    "go": 1793191510578,
    "goBy": "Ramesh"
+  },
+  "2026-10-28-F1-mvs3xqe8": {
+   "rid": "2026-10-28-F1-mvs3xqe8",
+   "place": "F1",
+   "test": "VM",
+   "tray": "VM 2A",
+   "items": [
+    {
+     "h": "VM 2A-1",
+     "code": "T730",
+     "w2": 15.256
+    }
+   ],
+   "bal": 2,
+   "start": 1793191528160,
+   "mins": 7,
+   "by": "Ramesh",
+   "outAt": null,
+   "reheat": true,
+   "go": null
   }
  },
  "settings": {
