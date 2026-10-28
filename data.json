@@ -12464,9 +12464,11 @@
    "start": 1793173990640,
    "mins": 60,
    "by": "Mohan",
-   "outAt": null,
+   "outAt": 1793174018347,
    "reheat": true,
-   "go": null
+   "go": null,
+   "outBy": "Supervisor (timer)",
+   "early": true
   }
  },
  "settings": {
