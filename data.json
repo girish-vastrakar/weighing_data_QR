@@ -20285,7 +20285,7 @@
     "VM": [
      16.7419,
      17.7438,
-     null
+     17.5174
     ],
     "ASH": [
      14.6299,
@@ -20299,7 +20299,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture corrected (results page) | 29-Oct-2026 19:31",
+   "last": "Mohan | Volatile Matter W3 | 29-Oct-2026 19:33",
    "ev": [
     {
      "id": "1793276451082-x4kff",
@@ -20424,6 +20424,18 @@
      "h": "DISH 2",
      "via": "edit",
      "n": "Mohan reweighing"
+    },
+    {
+     "id": "1793282599888-k7o07",
+     "t": 1793282599888,
+     "by": "Mohan",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 17.5174,
+     "o": null,
+     "h": "VM W4-1-2",
+     "b": 4
     }
    ],
    "h": {
