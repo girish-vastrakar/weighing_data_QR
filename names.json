@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-29T12:55:49+05:30",
+ "updated": "2026-10-29T13:04:13+05:30",
  "source": "sample_code / Name Tags",
- "count": 805,
+ "count": 808,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -4359,6 +4359,18 @@
    "name": "NAL/134 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
    "date": "2026-10-26"
+  },
+  "T811": {
+   "name": "T595",
+   "machine": "W4"
+  },
+  "T812": {
+   "name": "T599",
+   "machine": "W4"
+  },
+  "T813": {
+   "name": "T616",
+   "machine": "W4"
   }
  }
 }
