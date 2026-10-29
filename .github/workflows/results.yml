@@ -6,7 +6,20 @@ name: Update results.json
 # Actions tab at any other time.
 # Off-peak minutes (7, 22, 37, 52), because GitHub drops many runs scheduled on the
 # quarter hour. The Name Tags Apps Script also starts this job every 15 minutes.
+# It also runs whenever a phone or the results page changes the data, so results.csv
+# follows the results page within a minute. This repo is public, so Actions minutes are
+# free. The results-bot's own commits use GITHUB_TOKEN and do not start it again.
+# While a run is going, GitHub keeps only the newest waiting run, so a burst of
+# weighings becomes one or two runs.
 on:
+  push:
+    branches: [main]
+    paths:
+      - data.json
+      - names.json
+      - approvals.json
+      - corrections.json
+      - scripts/compute_results.py
   schedule:
     - cron: "7,22,37,52 2-15 * * *"
   workflow_dispatch:
