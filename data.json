@@ -6198,9 +6198,9 @@
    "tm": false,
    "w": {
     "MC": [
-     84.8432,
-     85.8476,
-     85.7364
+     null,
+     null,
+     null
     ],
     "VM": [
      null,
@@ -6219,7 +6219,7 @@
     ]
    },
    "pct": {},
-   "last": "girish | Volatile Matter reset (results page) | 29-Oct-2026 12:48",
+   "last": "girish | Moisture reset (results page) | 29-Oct-2026 12:48",
    "ev": [
     {
      "id": "1793162472219-kazdp",
@@ -6392,6 +6392,20 @@
       16.754
      ],
      "h": "VM 2A-2",
+     "via": "results"
+    },
+    {
+     "id": "1793258327479-rs76b1",
+     "t": 1793258327479,
+     "by": "girish",
+     "a": "reset",
+     "k": "MC",
+     "o": [
+      84.8432,
+      85.8476,
+      85.7364
+     ],
+     "h": "DISH 2",
      "via": "results"
     }
    ],
