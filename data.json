@@ -11895,9 +11895,9 @@
      18.1724
     ],
     "ASH": [
-     12.1902,
-     13.1954,
-     12.3352
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -11906,7 +11906,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "last": "girish | Ash reset (results page) | 29-Oct-2026 12:32",
    "ev": [
     {
      "id": "1793164738796-f9zbo",
@@ -12047,6 +12047,20 @@
      "b": 1,
      "via": "paper",
      "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+    },
+    {
+     "id": "1793257320843-rsspue",
+     "t": 1793257320843,
+     "by": "girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      12.1902,
+      13.1954,
+      12.3352
+     ],
+     "h": "ASH 1B-2",
+     "via": "results"
     }
    ],
    "h": {
