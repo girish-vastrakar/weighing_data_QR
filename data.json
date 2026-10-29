@@ -22313,6 +22313,17 @@
    "start": 1793277343164,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-10-29-F1-mvtl2k14": {
+   "rid": "2026-10-29-F1-mvtl2k14",
+   "place": "F1",
+   "test": "VM",
+   "tray": null,
+   "items": [],
+   "bal": 0,
+   "start": 1793280772840,
+   "mins": 7,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
