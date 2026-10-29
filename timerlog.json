@@ -40,13 +40,19 @@
    "preparedBy": {},
    "started": "2026-10-29T17:03:05+05:30",
    "ready": "2026-10-29T18:03:05+05:30",
-   "events": [],
+   "events": [
+    {
+     "type": "reset",
+     "at": "2026-10-29T17:03:09+05:30",
+     "min": 0
+    }
+   ],
    "takenOut": null,
    "stoppedEarly": false,
    "actualMin": null,
-   "cancelled": null,
+   "cancelled": "2026-10-29T17:03:09+05:30",
    "device": "hwnzip",
-   "updated": "2026-10-29T17:03:05+05:30"
+   "updated": "2026-10-29T17:03:09+05:30"
   }
  }
 }
