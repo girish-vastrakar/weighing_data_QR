@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T00:07:14+05:30",
+ "generated": "2026-10-30T00:07:38+05:30",
  "names_updated": "2026-10-29T13:04:13+05:30",
  "limits": {
   "MC": [
@@ -2483,7 +2483,7 @@
    "name": "T599",
    "supplier": "",
    "date": "",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "VM 23.70 % db above 17.5 % db"
    ],

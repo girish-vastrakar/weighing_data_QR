@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-30T00:07:14+05:30",
+ "generated": "2026-10-30T00:07:38+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -274,7 +274,7 @@
    "name": "T599",
    "supplier": "",
    "date": "",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "VM 23.70 % db above 17.5 % db"
    ],
@@ -284,7 +284,7 @@
    ],
    "moisture": 7.54,
    "vm_ar": 21.9,
-   "ash_ar": null,
+   "ash_ar": 4.19,
    "total_moisture": null,
    "approval_outdated": false
   }
