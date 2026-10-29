@@ -6243,7 +6243,7 @@
     "MC": [
      80.0781,
      81.0788,
-     80.9542
+     80.9579
     ],
     "VM": [
      16.8471,
@@ -6262,7 +6262,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Moisture W3 | 29-Oct-2026 19:20",
+   "last": "Girish | Moisture corrected (results page) | 29-Oct-2026 19:30",
    "ev": [
     {
      "id": "1793162472219-kazdp",
@@ -6530,6 +6530,19 @@
      "o": null,
      "h": "DISH 1",
      "b": 4
+    },
+    {
+     "id": "1793282406743-edhqp9-0",
+     "t": 1793282406743,
+     "by": "Girish",
+     "a": "fix",
+     "k": "MC",
+     "s": 3,
+     "v": 80.9579,
+     "o": 80.9542,
+     "h": "DISH 1",
+     "via": "edit",
+     "n": "Mohan reweighing"
     }
    ],
    "h": {
