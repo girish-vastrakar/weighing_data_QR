@@ -1547,6 +1547,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793258327479-rs76b1",
+   "at": "2026-10-29T12:48:47+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T732",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    84.8432,
+    85.8476,
+    85.7364
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T15:45:20+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-10-28T15:50:06+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-10-28T17:51:24+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
