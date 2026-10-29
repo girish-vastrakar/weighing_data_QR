@@ -13,13 +13,19 @@
    "preparedBy": {},
    "started": "2026-10-29T17:00:56+05:30",
    "ready": "2026-10-29T18:00:56+05:30",
-   "events": [],
+   "events": [
+    {
+     "type": "reset",
+     "at": "2026-10-29T17:01:00+05:30",
+     "min": 0
+    }
+   ],
    "takenOut": null,
    "stoppedEarly": false,
    "actualMin": null,
-   "cancelled": null,
+   "cancelled": "2026-10-29T17:01:00+05:30",
    "device": "4uqwe4",
-   "updated": "2026-10-29T17:00:56+05:30"
+   "updated": "2026-10-29T17:01:00+05:30"
   }
  }
 }
