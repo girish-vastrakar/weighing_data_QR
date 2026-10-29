@@ -18033,7 +18033,12 @@
    "reheat": true,
    "go": null,
    "outBy": "Supervisor (timer)",
-   "early": true
+   "earlyCleared": {
+    "at": "2026-10-29T12:38:33+05:30",
+    "by": "Girish",
+    "was": true,
+    "n": "Timer app not started; the full 60 min was timed by hand. To undo, put back \"early\": true."
+   }
   },
   "2026-10-28-F1-mvrxjdrf": {
    "rid": "2026-10-28-F1-mvrxjdrf",
