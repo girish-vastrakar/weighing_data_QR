@@ -1372,6 +1372,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793257827877-rsxuw4",
+   "at": "2026-10-29T12:40:27+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T746",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.0617,
+    15.0694,
+    14.2221
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T10:35:16+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-10-28T10:36:10+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-10-28T12:37:57+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
