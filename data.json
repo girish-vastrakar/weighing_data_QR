@@ -19250,9 +19250,9 @@
      15.2462
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.474,
+     12.476,
+     11.5283
     ],
     "TM": [
      null,
@@ -19261,7 +19261,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:14",
+   "last": "Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:41",
    "ev": [
     {
      "id": "1793253169446-9ci9j",
@@ -19352,6 +19352,51 @@
      "o": null,
      "h": "VM W3-2-6",
      "b": 3
+    },
+    {
+     "id": "1793279512826-pp2evw-0",
+     "t": 1793279512826,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.474,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "flow reshaping",
+     "wb": "mohan",
+     "wt": 1793279400000
+    },
+    {
+     "id": "1793279512826-pp2evw-1",
+     "t": 1793279512826,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.476,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "flow reshaping",
+     "wb": "mohan",
+     "wt": 1793279400000
+    },
+    {
+     "id": "1793279512826-pp2evw-2",
+     "t": 1793279512826,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.5283,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "flow reshaping",
+     "wb": "mohan",
+     "wt": 1793279400000
     }
    ],
    "h": {
