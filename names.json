@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-28T10:02:29+05:30",
+ "updated": "2026-10-29T09:05:20+05:30",
  "source": "sample_code_2 / Name Tags",
- "count": 783,
+ "count": 805,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -4073,107 +4073,128 @@
   "T756": {
    "name": "CH1/48",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T757": {
    "name": "CH1/49",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T758": {
    "name": "CH1/50",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T759": {
    "name": "CH1/51",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T760": {
    "name": "CH1/52",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T761": {
    "name": "CH1/53",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T762": {
    "name": "CH1/54",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T763": {
    "name": "CH1/55",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T764": {
    "name": "CH1/56",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T765": {
    "name": "CH1/57",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T766": {
    "name": "CH1/58",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T767": {
    "name": "CH1/59",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T768": {
    "name": "CH1/60",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T769": {
    "name": "CH1/61",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T770": {
    "name": "CH1/62",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T771": {
    "name": "CH1/63",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T772": {
    "name": "CH1/64",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T773": {
    "name": "CH1/65",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T774": {
    "name": "CH1/66",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T775": {
    "name": "CH1/67",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T776": {
    "name": "CH1/68",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W3"
   },
   "T778": {
    "name": "CH1/70",
@@ -4215,10 +4236,120 @@
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27"
   },
-  "T786": {
+  "T788": {
    "name": "CH1/78",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27"
+  },
+  "T789": {
+   "name": "NAL/151",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T790": {
+   "name": "NAL/152",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T791": {
+   "name": "NAL/153",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T792": {
+   "name": "NAL/154",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T793": {
+   "name": "NAL/155",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T794": {
+   "name": "NAL/156",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T795": {
+   "name": "NAL/157",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T796": {
+   "name": "NAL/158",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T797": {
+   "name": "NAL/159",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T798": {
+   "name": "NAL/160",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23"
+  },
+  "T799": {
+   "name": "NAL/70 R1 (23/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-23"
+  },
+  "T800": {
+   "name": "NAL/71 R1 (23/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-23"
+  },
+  "T801": {
+   "name": "NAL/79 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T802": {
+   "name": "NAL/82 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T803": {
+   "name": "NAL/87 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T804": {
+   "name": "NAL/99 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T805": {
+   "name": "NAL/100 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T806": {
+   "name": "NAL/103 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T807": {
+   "name": "NAL/114 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T808": {
+   "name": "NAL/115 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T809": {
+   "name": "NAL/127 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
+  },
+  "T810": {
+   "name": "NAL/134 R1 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-26"
   }
  }
 }
