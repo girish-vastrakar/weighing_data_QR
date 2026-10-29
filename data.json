@@ -7308,9 +7308,9 @@
      17.1357
     ],
     "ASH": [
-     14.4132,
-     15.4155,
-     14.6368
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -7319,7 +7319,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Moisture W3 | 28-Oct-2026 17:52",
+   "last": "girish | Ash reset (results page) | 29-Oct-2026 12:41",
    "ev": [
     {
      "id": "1793162876479-xmqds",
@@ -7465,6 +7465,20 @@
      "o": null,
      "h": "DISH 6",
      "b": 2
+    },
+    {
+     "id": "1793257916860-rsbrty",
+     "t": 1793257916860,
+     "by": "girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      14.4132,
+      15.4155,
+      14.6368
+     ],
+     "h": "ASH 2A-6",
+     "via": "results"
     }
    ],
    "h": {
