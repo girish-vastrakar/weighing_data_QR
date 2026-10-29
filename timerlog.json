@@ -68,12 +68,12 @@
    "started": "2026-10-29T17:28:26+05:30",
    "ready": "2026-10-29T17:35:26+05:30",
    "events": [],
-   "takenOut": null,
+   "takenOut": "2026-10-29T17:35:37+05:30",
    "stoppedEarly": false,
-   "actualMin": null,
+   "actualMin": 7.2,
    "cancelled": null,
    "device": "hwnzip",
-   "updated": "2026-10-29T17:28:26+05:30"
+   "updated": "2026-10-29T17:35:38+05:30"
   }
  }
 }
