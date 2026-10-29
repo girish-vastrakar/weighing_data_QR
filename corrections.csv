@@ -1,4 +1,20 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+29-Oct-2026 19:31,Girish,overwrite,T811,T595,Moisture,W3,84.0931,84.0963,,Mohan,29-Oct-2026 19:21,,1793282472048-eddkok-0
+29-Oct-2026 19:30,Girish,overwrite,T732,CH1/24,Moisture,W3,80.9542,80.9579,,Mohan,29-Oct-2026 19:20,,1793282406743-edhqp9-0
+29-Oct-2026 18:45,Deepak Pandey,paper,T779,CH1/71,Ash,W3,,12.1581,,,,,1793279738234-pplyxv-2
+29-Oct-2026 18:45,Deepak Pandey,paper,T779,CH1/71,Ash,W2,,13.101,,,,,1793279738234-pplyxv-1
+29-Oct-2026 18:45,Deepak Pandey,paper,T779,CH1/71,Ash,W1,,12.099,,,,,1793279738234-pplyxv-0
+29-Oct-2026 18:44,Deepak Pandey,paper,T778,CH1/70,Ash,W3,,12.6891,,,,,1793279696570-ppoq6y-2
+29-Oct-2026 18:44,Deepak Pandey,paper,T778,CH1/70,Ash,W2,,13.627,,,,,1793279696570-ppoq6y-1
+29-Oct-2026 18:44,Deepak Pandey,paper,T778,CH1/70,Ash,W1,,12.624,,,,,1793279696570-ppoq6y-0
+29-Oct-2026 18:43,Deepak Pandey,paper,T776,CH1/68,Ash,W3,,23.4151,,,,,1793279593611-ppugzu-2
+29-Oct-2026 18:43,Deepak Pandey,paper,T776,CH1/68,Ash,W2,,24.296,,,,,1793279593611-ppugzu-1
+29-Oct-2026 18:43,Deepak Pandey,paper,T776,CH1/68,Ash,W1,,23.297,,,,,1793279593611-ppugzu-0
+29-Oct-2026 18:41,Deepak Pandey,paper,T780,CH1/72,Ash,W3,,11.5283,,,,,1793279512826-pp2evw-2
+29-Oct-2026 18:41,Deepak Pandey,paper,T780,CH1/72,Ash,W2,,12.476,,,,,1793279512826-pp2evw-1
+29-Oct-2026 18:41,Deepak Pandey,paper,T780,CH1/72,Ash,W1,,11.474,,,,,1793279512826-pp2evw-0
+29-Oct-2026 17:58,Mohan,overwrite,T813,T616,Moisture,W1,88.5483,88.5472,,Mohan,29-Oct-2026 17:56,,1793276883462-n531r
+29-Oct-2026 14:10,Girish,overwrite,T762,CH1/54,Ash,W1,14.4107,14.102,,Girish,29-Oct-2026 13:55,,1793263212314-oenhu
 29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W1,84.8432,,,Ramesh,28-Oct-2026 15:45,,1793258327479-rs76b1
 29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W2,85.8476,,,Ramesh,28-Oct-2026 15:50,,1793258327479-rs76b1
 29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W3,85.7364,,,Ramesh,28-Oct-2026 17:51,,1793258327479-rs76b1

@@ -1,11 +1,11 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-29T13:52:56+05:30",
+ "generated": "2026-10-29T19:55:08+05:30",
  "limits": {
   "MC": [
    1.5,
-   17.5
+   10
   ],
   "VM": [
    5,
@@ -30,13 +30,149 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 0,
+ "count": 7,
  "by_test": {
-  "MC": 0,
-  "VM": 0,
-  "ASH": 0,
+  "MC": 2,
+  "VM": 2,
+  "ASH": 4,
   "FC": 0,
   "TM": 0
  },
- "samples": []
+ "samples": [
+  {
+   "code": "T729",
+   "name": "CH1/21",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "flags": [
+    "MC 11.59 % above 10 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 11.59,
+   "vm_ar": 11.33,
+   "ash_ar": null,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T732",
+   "name": "CH1/24",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "MC 12.08 % above 10 %",
+    "VM 18.57 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "MC",
+    "VM"
+   ],
+   "moisture": 12.08,
+   "vm_ar": 16.33,
+   "ash_ar": 7.06,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T759",
+   "name": "CH1/51",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 14.44 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 6.0,
+   "vm_ar": 13.29,
+   "ash_ar": 13.57,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T765",
+   "name": "CH1/57",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 31.91 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 2.36,
+   "vm_ar": 11.49,
+   "ash_ar": 31.16,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T773",
+   "name": "CH1/65",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 53.91 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 5.22,
+   "vm_ar": 8.86,
+   "ash_ar": 51.1,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T776",
+   "name": "CH1/68",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 12.33 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 4.14,
+   "vm_ar": 10.75,
+   "ash_ar": 11.82,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T812",
+   "name": "T599",
+   "supplier": "",
+   "date": "",
+   "status": "incomplete",
+   "flags": [
+    "VM 23.70 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 7.54,
+   "vm_ar": 21.9,
+   "ash_ar": null,
+   "total_moisture": null,
+   "approval_outdated": false
+  }
+ ]
 }

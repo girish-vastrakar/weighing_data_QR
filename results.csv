@@ -28,7 +28,7 @@ T691,GOR/19,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,comple
 T692,GOR/20,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,complete,,3.86,,15.93,12.07,12.55,3.75,3.9,80.33,83.55,,,,,Mohan | Volatile Matter W3 | 27-Oct-2026 13:59
 T693,GOR/21,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-26,complete,,8.49,,24.27,15.79,17.25,3.6,3.93,72.13,78.82,,,,,Mohan | Moisture W3 | 27-Oct-2026 18:40
 T694,SUM/04 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,incomplete,Moisture,,,26.34,,,6.3,,,,,,,,girish | Moisture reset (results page) | 27-Oct-2026 16:03
-T695,SUM/16 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,complete,,23.23,,34.3,11.07,14.42,4.87,6.34,60.83,79.24,MC 23.23 % above 17.5 %,,girish,2026-10-28T11:26:50+05:30,Mohan | Moisture W3 | 27-Oct-2026 18:42
+T695,SUM/16 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,complete,,23.23,,34.3,11.07,14.42,4.87,6.34,60.83,79.24,MC 23.23 % above 10 %,,girish,2026-10-28T11:26:50+05:30,Mohan | Moisture W3 | 27-Oct-2026 18:42
 T696,SUM/54 R3 (26/10),Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3,2026-10-26,complete,,6.34,,19.15,12.82,13.68,5.37,5.73,75.48,80.59,,,,,Mohan | Volatile Matter W3 | 27-Oct-2026 14:01
 T697,SUM-51 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,complete,,2.8,,22.99,20.19,20.77,11.49,11.82,65.52,67.41,VM 20.77 % db above 17.5 % db,,girish,2026-10-28T11:31:03+05:30,Mohan | Volatile Matter W3 | 27-Oct-2026 18:10
 T698,SUM-69 R1 (22/10),Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1,2026-10-22,complete,,3.47,,25.49,22.02,22.81,4.71,4.87,69.81,72.31,VM 22.81 % db above 17.5 % db,,girish,2026-10-28T11:31:21+05:30,Mohan | Volatile Matter W3 | 27-Oct-2026 18:10
@@ -50,26 +50,24 @@ T713,CH1/05,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,comp
 T714,CH1/06,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.64,,14.78,11.14,11.56,8.84,9.17,76.39,79.27,"ASH W3 doubtful: ash 8.8 % vs 3.0–7.7 % for the other CH1 samples, crucible mix-up?",,girish,2026-10-28T20:48:56+05:30,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T715,CH1/07,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.37,,18.93,14.55,15.22,4.03,4.22,77.04,80.56,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T716,CH1/08,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.87,,15.2,11.33,11.78,4.58,4.76,80.23,83.46,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
-T717,CH1/09,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.75,,16.9,10.15,10.89,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:32
+T717,CH1/09,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.75,,16.9,10.15,10.89,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:41
 T718,CH1/10,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.64,,15.54,9.9,10.49,4.24,4.5,80.22,85.02,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T719,CH1/11,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,6.78,,19.25,12.47,13.38,5.88,6.31,74.86,80.31,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T720,CH1/12,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,8.74,,19.08,10.34,11.33,6.11,6.7,74.81,81.97,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T721,CH1/13,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.38,,12.69,9.31,9.63,4.45,4.61,82.85,85.76,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
-T722,CH1/14,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,5.99,,16.24,10.25,10.91,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:33
+T722,CH1/14,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,5.99,,16.24,10.25,10.91,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:44
 T723,CH1/15,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,8.57,,20.4,11.83,12.94,6.39,6.99,73.21,80.07,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T724,CH1/16,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.9,,15.57,11.67,12.15,7.75,8.07,76.67,79.78,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T725,CH1/17,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.81,,14.65,9.85,10.34,5.94,6.24,79.41,83.42,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T726,CH1/18,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,4.69,,18.45,13.75,14.43,,,,,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T727,CH1/19,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,4.06,,18.84,14.78,15.41,,,,,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
-T728,CH1/20,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,10.5,,22.57,12.08,13.49,,,,,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
-T729,CH1/21,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,11.59,,22.93,11.33,12.82,,,,,,,,,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
+T728,CH1/20,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,10.5,,22.57,12.08,13.49,,,,,MC 10.50 % above 10 %,,girish,2026-10-28T20:51:32+05:30,Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41
 T730,CH1/22,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.09,,17.62,12.54,13.21,5.05,5.32,77.33,81.47,,,,,Ramesh | Ash W3 | 28-Oct-2026 19:21
-T731,CH1/23,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.85,,21.33,14.48,15.54,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:47
-T732,CH1/24,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, VM",,,,,,7.06,,,,,,,,girish | Moisture reset (results page) | 29-Oct-2026 12:48
+T731,CH1/23,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.85,,21.33,14.48,15.54,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:46
 T733,CH1/25,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,7.24,,20.2,12.96,13.98,6.03,6.5,73.77,79.53,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:50
-T734,CH1/26,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,5.26,,18.45,13.19,13.92,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:47
+T734,CH1/26,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,5.26,,18.45,13.19,13.92,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:48
 T735,CH1/27,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.66,,15.44,11.78,12.23,8.42,8.74,76.14,79.03,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:52
-T736,CH1/28,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,3.64,,18.29,14.65,15.21,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:41
+T736,CH1/28,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,3.64,,18.29,14.65,15.21,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:49
 T737,CH1/29,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,7.67,,21.27,13.6,14.72,8.47,9.17,70.26,76.1,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:54
 T739,CH1/31,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,9.71,,24.75,15.04,16.66,8.78,9.73,66.46,73.61,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:55
 T740,CH1/32,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,6.9,,20.16,13.26,14.24,6.12,6.57,73.72,79.19,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:53
@@ -78,7 +76,7 @@ T742,CH1/34,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,comp
 T743,CH1/35,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.1,,17.97,13.86,14.46,6.53,6.81,75.51,78.74,,,,,Ramesh | Moisture W3 | 28-Oct-2026 17:56
 T744,CH1/36,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.58,,16.32,10.74,11.38,4.64,4.92,79.04,83.71,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:53
 T745,CH1/37,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.21,,15.18,10.97,11.45,6.97,7.28,77.84,81.27,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:56
-T746,CH1/38,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.24,,19.11,12.86,13.72,,,,,,,,,girish | Ash reset (results page) | 29-Oct-2026 12:40
+T746,CH1/38,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,Ash,6.24,,19.11,12.86,13.72,,,,,,,,,Mohan | Ash W2 | 29-Oct-2026 18:51
 T747,CH1/39,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.79,,14.12,10.34,10.74,3.9,4.05,81.98,85.21,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:55
 T748,CH1/40,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.73,,15.78,10.05,10.66,4.48,4.75,79.75,84.59,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:54
 T749,CH1/41,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.74,,14.31,9.57,10.04,7.17,7.52,78.53,82.44,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:55
@@ -88,27 +86,31 @@ T752,CH1/44,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,comp
 T753,CH1/45,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.1,,15.83,11.72,12.23,5.85,6.1,78.33,81.68,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:57
 T754,CH1/46,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.7,,17.17,11.48,12.17,5.88,6.23,76.95,81.6,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:56
 T755,CH1/47,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.43,,16.29,10.86,11.48,7.12,7.53,76.59,80.99,,,,,Ramesh | Moisture W3 | 28-Oct-2026 18:56
-T756,CH1/48,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.02,,,,,,,,,,,,,Girish | Ash W2 | 29-Oct-2026 13:51
-T757,CH1/49,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",3.68,,,,,,,,,,,,,Girish | Ash W2 | 29-Oct-2026 13:52
-T758,CH1/50,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",6.13,,,,,,,,,,,,,Girish | Ash W2 | 29-Oct-2026 13:52
-T759,CH1/51,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",6.0,,,,,,,,,,,,,Girish | Ash W2 | 29-Oct-2026 13:52
-T760,CH1/52,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",7.77,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:46
-T761,CH1/53,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.2,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:45
-T762,CH1/54,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.4,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:49
-T763,CH1/55,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.21,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:47
-T764,CH1/56,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.44,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:45
-T765,CH1/57,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",2.36,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:44
-T766,CH1/58,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",3.94,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:43
-T767,CH1/59,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.65,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:44
-T768,CH1/60,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",3.79,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:54
-T769,CH1/61,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.09,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:55
-T770,CH1/62,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.61,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:56
-T771,CH1/63,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.06,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:53
-T772,CH1/64,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",3.78,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:57
-T773,CH1/65,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.22,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:54
-T774,CH1/66,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.06,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:55
-T775,CH1/67,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.01,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:52
-T776,CH1/68,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.14,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:53
-T778,CH1/70,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",5.17,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:56
-T779,CH1/71,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",7.96,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:57
-T780,CH1/72,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"VM, Ash",4.86,,,,,,,,,,,,,Mohan | Moisture W3 | 29-Oct-2026 12:52
+T756,CH1/48,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.02,,16.98,12.96,13.5,7.48,7.8,75.54,78.7,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:49
+T757,CH1/49,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.68,,16.77,13.09,13.59,7.11,7.38,76.12,79.03,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:49
+T758,CH1/50,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,6.13,,19.04,12.91,13.76,8.0,8.53,72.95,77.72,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:50
+T760,CH1/52,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,7.77,,20.93,13.16,14.27,10.19,11.05,68.88,74.68,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:51
+T761,CH1/53,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.2,,17.2,12.01,12.67,7.35,7.75,75.45,79.58,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:51
+T762,CH1/54,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.4,,18.12,13.72,14.35,6.35,6.65,75.53,79.0,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:53
+T763,CH1/55,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.21,,16.53,11.32,11.94,5.73,6.04,77.74,82.01,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:53
+T764,CH1/56,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.44,,15.32,9.88,10.45,6.29,6.65,78.39,82.9,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:54
+T766,CH1/58,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.94,,15.21,11.27,11.74,4.46,4.64,80.33,83.62,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:54
+T767,CH1/59,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.65,,19.32,14.66,15.38,8.23,8.64,72.45,75.99,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:55
+T768,CH1/60,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.79,,17.63,13.84,14.39,5.88,6.12,76.49,79.5,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:55
+T769,CH1/61,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.09,,18.29,14.21,14.81,5.15,5.37,76.55,79.82,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:55
+T770,CH1/62,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.61,,19.77,15.17,15.9,6.06,6.35,74.17,77.75,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:56
+T771,CH1/63,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.06,,18.21,14.15,14.75,5.66,5.9,76.13,79.35,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:56
+T772,CH1/64,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,3.78,,16.99,13.21,13.73,5.08,5.28,77.93,80.99,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 16:57
+T774,CH1/66,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.06,,17.25,12.19,12.84,6.12,6.44,76.63,80.72,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:12
+T775,CH1/67,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.01,,15.45,11.44,11.91,5.64,5.87,78.92,82.21,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:12
+T778,CH1/70,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,5.17,,18.27,13.1,13.81,6.49,6.84,75.24,79.34,,,,,Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:44
+T779,CH1/71,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,7.96,,20.0,12.04,13.08,5.9,6.41,74.11,80.51,,,,,Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:45
+T780,CH1/72,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,complete,,4.86,,12.88,8.02,8.43,5.42,5.7,81.7,85.87,,,,,Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:41
+T781,CH1/73,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,19.73,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:15
+T782,CH1/74,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,21.54,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:15
+T783,CH1/75,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,17.4,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:16
+T784,CH1/76,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,17.08,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:16
+T785,CH1/77,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,16.4,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:16
+T788,CH1/78,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,incomplete,"Moisture, Ash",,,20.03,,,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 18:17
+T811,T595,,,incomplete,Ash,9.94,,22.6,12.66,14.05,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 19:33
+T813,T616,,,incomplete,Ash,4.72,,20.46,15.74,16.52,,,,,,,,,Mohan | Volatile Matter W3 | 29-Oct-2026 19:35

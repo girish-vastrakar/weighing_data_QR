@@ -1,12 +1,12 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-29T13:52:56+05:30",
+ "generated": "2026-10-29T19:55:08+05:30",
  "names_updated": "2026-10-29T13:04:13+05:30",
  "limits": {
   "MC": [
    1.5,
-   17.5
+   10
   ],
   "VM": [
    5,
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 113,
+ "count": 115,
  "counts": {
-  "complete": 75,
-  "incomplete": 38,
+  "complete": 95,
+  "incomplete": 20,
   "not started": 0,
-  "awaiting approval": 0
+  "awaiting approval": 7
  },
  "results": [
   {
@@ -674,7 +674,7 @@
    "fc_ar": 60.83,
    "fc_db": 79.24,
    "flags": [
-    "MC 23.23 % above 17.5 %"
+    "MC 23.23 % above 10 %"
    ],
    "checks": [],
    "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 18:42",
@@ -1173,7 +1173,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:32"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:41"
   },
   {
    "code": "T718",
@@ -1275,7 +1275,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:33"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:44"
   },
   {
    "code": "T723",
@@ -1399,31 +1399,13 @@
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41"
-  },
-  {
-   "code": "T729",
-   "name": "CH1/21",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
+   "flags": [
+    "MC 10.50 % above 10 %"
    ],
-   "moisture": 11.59,
-   "total_moisture": null,
-   "vm_loss": 22.93,
-   "vm_ar": 11.33,
-   "vm_db": 12.82,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41"
+   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "approved_by": "girish",
+   "approved_at": "2026-10-28T20:51:32+05:30"
   },
   {
    "code": "T730",
@@ -1465,30 +1447,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:47"
-  },
-  {
-   "code": "T732",
-   "name": "CH1/24",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "MC",
-    "VM"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 7.06,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "girish | Moisture reset (results page) | 29-Oct-2026 12:48"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:46"
   },
   {
    "code": "T733",
@@ -1530,7 +1489,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:47"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:48"
   },
   {
    "code": "T735",
@@ -1572,7 +1531,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:41"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:49"
   },
   {
    "code": "T737",
@@ -1754,7 +1713,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "girish | Ash reset (results page) | 29-Oct-2026 12:40"
+   "last_entry": "Mohan | Ash W2 | 29-Oct-2026 18:51"
   },
   {
    "code": "T747",
@@ -1941,543 +1900,414 @@
    "name": "CH1/48",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.02,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 16.98,
+   "vm_ar": 12.96,
+   "vm_db": 13.5,
+   "ash_ar": 7.48,
+   "ash_db": 7.8,
+   "fc_ar": 75.54,
+   "fc_db": 78.7,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Ash W2 | 29-Oct-2026 13:51"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:49"
   },
   {
    "code": "T757",
    "name": "CH1/49",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.68,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 16.77,
+   "vm_ar": 13.09,
+   "vm_db": 13.59,
+   "ash_ar": 7.11,
+   "ash_db": 7.38,
+   "fc_ar": 76.12,
+   "fc_db": 79.03,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Ash W2 | 29-Oct-2026 13:52"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:49"
   },
   {
    "code": "T758",
    "name": "CH1/50",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 6.13,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 19.04,
+   "vm_ar": 12.91,
+   "vm_db": 13.76,
+   "ash_ar": 8.0,
+   "ash_db": 8.53,
+   "fc_ar": 72.95,
+   "fc_db": 77.72,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Ash W2 | 29-Oct-2026 13:52"
-  },
-  {
-   "code": "T759",
-   "name": "CH1/51",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 6.0,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Girish | Ash W2 | 29-Oct-2026 13:52"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:50"
   },
   {
    "code": "T760",
    "name": "CH1/52",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 7.77,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 20.93,
+   "vm_ar": 13.16,
+   "vm_db": 14.27,
+   "ash_ar": 10.19,
+   "ash_db": 11.05,
+   "fc_ar": 68.88,
+   "fc_db": 74.68,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:46"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:51"
   },
   {
    "code": "T761",
    "name": "CH1/53",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.2,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 17.2,
+   "vm_ar": 12.01,
+   "vm_db": 12.67,
+   "ash_ar": 7.35,
+   "ash_db": 7.75,
+   "fc_ar": 75.45,
+   "fc_db": 79.58,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:45"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:51"
   },
   {
    "code": "T762",
    "name": "CH1/54",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.4,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 18.12,
+   "vm_ar": 13.72,
+   "vm_db": 14.35,
+   "ash_ar": 6.35,
+   "ash_db": 6.65,
+   "fc_ar": 75.53,
+   "fc_db": 79.0,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:49"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:53"
   },
   {
    "code": "T763",
    "name": "CH1/55",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.21,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 16.53,
+   "vm_ar": 11.32,
+   "vm_db": 11.94,
+   "ash_ar": 5.73,
+   "ash_db": 6.04,
+   "fc_ar": 77.74,
+   "fc_db": 82.01,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:47"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:53"
   },
   {
    "code": "T764",
    "name": "CH1/56",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.44,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 15.32,
+   "vm_ar": 9.88,
+   "vm_db": 10.45,
+   "ash_ar": 6.29,
+   "ash_db": 6.65,
+   "fc_ar": 78.39,
+   "fc_db": 82.9,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:45"
-  },
-  {
-   "code": "T765",
-   "name": "CH1/57",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 2.36,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:44"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:54"
   },
   {
    "code": "T766",
    "name": "CH1/58",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.94,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 15.21,
+   "vm_ar": 11.27,
+   "vm_db": 11.74,
+   "ash_ar": 4.46,
+   "ash_db": 4.64,
+   "fc_ar": 80.33,
+   "fc_db": 83.62,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:43"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:54"
   },
   {
    "code": "T767",
    "name": "CH1/59",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.65,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 19.32,
+   "vm_ar": 14.66,
+   "vm_db": 15.38,
+   "ash_ar": 8.23,
+   "ash_db": 8.64,
+   "fc_ar": 72.45,
+   "fc_db": 75.99,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:44"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:55"
   },
   {
    "code": "T768",
    "name": "CH1/60",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.79,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 17.63,
+   "vm_ar": 13.84,
+   "vm_db": 14.39,
+   "ash_ar": 5.88,
+   "ash_db": 6.12,
+   "fc_ar": 76.49,
+   "fc_db": 79.5,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:54"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:55"
   },
   {
    "code": "T769",
    "name": "CH1/61",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.09,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 18.29,
+   "vm_ar": 14.21,
+   "vm_db": 14.81,
+   "ash_ar": 5.15,
+   "ash_db": 5.37,
+   "fc_ar": 76.55,
+   "fc_db": 79.82,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:55"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:55"
   },
   {
    "code": "T770",
    "name": "CH1/62",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.61,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 19.77,
+   "vm_ar": 15.17,
+   "vm_db": 15.9,
+   "ash_ar": 6.06,
+   "ash_db": 6.35,
+   "fc_ar": 74.17,
+   "fc_db": 77.75,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:56"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:56"
   },
   {
    "code": "T771",
    "name": "CH1/63",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.06,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 18.21,
+   "vm_ar": 14.15,
+   "vm_db": 14.75,
+   "ash_ar": 5.66,
+   "ash_db": 5.9,
+   "fc_ar": 76.13,
+   "fc_db": 79.35,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:53"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:56"
   },
   {
    "code": "T772",
    "name": "CH1/64",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.78,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 16.99,
+   "vm_ar": 13.21,
+   "vm_db": 13.73,
+   "ash_ar": 5.08,
+   "ash_db": 5.28,
+   "fc_ar": 77.93,
+   "fc_db": 80.99,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:57"
-  },
-  {
-   "code": "T773",
-   "name": "CH1/65",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 5.22,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:54"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:57"
   },
   {
    "code": "T774",
    "name": "CH1/66",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.06,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 17.25,
+   "vm_ar": 12.19,
+   "vm_db": 12.84,
+   "ash_ar": 6.12,
+   "ash_db": 6.44,
+   "fc_ar": 76.63,
+   "fc_db": 80.72,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:55"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:12"
   },
   {
    "code": "T775",
    "name": "CH1/67",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.01,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 15.45,
+   "vm_ar": 11.44,
+   "vm_db": 11.91,
+   "ash_ar": 5.64,
+   "ash_db": 5.87,
+   "fc_ar": 78.92,
+   "fc_db": 82.21,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:52"
-  },
-  {
-   "code": "T776",
-   "name": "CH1/68",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 4.14,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:53"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:12"
   },
   {
    "code": "T778",
    "name": "CH1/70",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.17,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 18.27,
+   "vm_ar": 13.1,
+   "vm_db": 13.81,
+   "ash_ar": 6.49,
+   "ash_db": 6.84,
+   "fc_ar": 75.24,
+   "fc_db": 79.34,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:56"
+   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:44"
   },
   {
    "code": "T779",
    "name": "CH1/71",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 7.96,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 20.0,
+   "vm_ar": 12.04,
+   "vm_db": 13.08,
+   "ash_ar": 5.9,
+   "ash_db": 6.41,
+   "fc_ar": 74.11,
+   "fc_db": 80.51,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:57"
+   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:45"
   },
   {
    "code": "T780",
    "name": "CH1/72",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.86,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 12.88,
+   "vm_ar": 8.02,
+   "vm_db": 8.43,
+   "ash_ar": 5.42,
+   "ash_db": 5.7,
+   "fc_ar": 81.7,
+   "fc_db": 85.87,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:41"
+  },
+  {
+   "code": "T781",
+   "name": "CH1/73",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 19.73,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -2486,8 +2316,246 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 29-Oct-2026 12:52"
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:15"
+  },
+  {
+   "code": "T782",
+   "name": "CH1/74",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 21.54,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:15"
+  },
+  {
+   "code": "T783",
+   "name": "CH1/75",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 17.4,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:16"
+  },
+  {
+   "code": "T784",
+   "name": "CH1/76",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 17.08,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:16"
+  },
+  {
+   "code": "T785",
+   "name": "CH1/77",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 16.4,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:16"
+  },
+  {
+   "code": "T788",
+   "name": "CH1/78",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 20.03,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:17"
+  },
+  {
+   "code": "T811",
+   "name": "T595",
+   "supplier": "",
+   "date": "",
+   "status": "incomplete",
+   "pending": [
+    "ASH"
+   ],
+   "moisture": 9.94,
+   "total_moisture": null,
+   "vm_loss": 22.6,
+   "vm_ar": 12.66,
+   "vm_db": 14.05,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 19:33"
+  },
+  {
+   "code": "T813",
+   "name": "T616",
+   "supplier": "",
+   "date": "",
+   "status": "incomplete",
+   "pending": [
+    "ASH"
+   ],
+   "moisture": 4.72,
+   "total_moisture": null,
+   "vm_loss": 20.46,
+   "vm_ar": 15.74,
+   "vm_db": 16.52,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 19:35"
   }
  ],
- "awaiting_approval": []
+ "awaiting_approval": [
+  {
+   "code": "T729",
+   "name": "CH1/21",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "flags": [
+    "MC 11.59 % above 10 %"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T732",
+   "name": "CH1/24",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "MC 12.08 % above 10 %",
+    "VM 18.57 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T759",
+   "name": "CH1/51",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 14.44 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T765",
+   "name": "CH1/57",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 31.91 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T773",
+   "name": "CH1/65",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 53.91 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T776",
+   "name": "CH1/68",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 12.33 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T812",
+   "name": "T599",
+   "supplier": "",
+   "date": "",
+   "status": "incomplete",
+   "flags": [
+    "VM 23.70 % db above 17.5 % db"
+   ],
+   "checks": []
+  }
+ ]
 }
