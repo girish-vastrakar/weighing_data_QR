@@ -18857,9 +18857,9 @@
      17.4265
     ],
     "ASH": [
-     null,
-     null,
-     null
+     23.297,
+     24.296,
+     23.4151
     ],
     "TM": [
      null,
@@ -18868,7 +18868,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:12",
+   "last": "Deepak Pandey | Ash typed in from paper (results page) | 29-Oct-2026 18:43",
    "ev": [
     {
      "id": "1793252688286-bbe3d",
@@ -18959,6 +18959,48 @@
      "o": null,
      "h": "VM W3-2-3",
      "b": 3
+    },
+    {
+     "id": "1793279593611-ppugzu-0",
+     "t": 1793279593611,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 23.297,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "wb": "mohan",
+     "wt": 1793279520000
+    },
+    {
+     "id": "1793279593611-ppugzu-1",
+     "t": 1793279593611,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 24.296,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "wb": "mohan",
+     "wt": 1793279520000
+    },
+    {
+     "id": "1793279593611-ppugzu-2",
+     "t": 1793279593611,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 23.4151,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "wb": "mohan",
+     "wt": 1793279520000
     }
    ],
    "h": {
