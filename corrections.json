@@ -1260,6 +1260,32 @@
    },
    "via": "results page",
    "note": "W3 on paper sheet (11.7797) is lighter than W1 (16.6871): crucible mix-up, retest"
+  },
+  {
+   "id": "1793249198400-q67hc",
+   "at": "2026-10-29T10:16:38+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T756",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    12.6958,
+    null,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-29T10:14:38+05:30",
+     "by": "Girish"
+    }
+   }
   }
  ]
 }
