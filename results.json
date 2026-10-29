@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T00:07:38+05:30",
+ "generated": "2026-10-30T00:08:03+05:30",
  "names_updated": "2026-10-29T13:04:13+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 109,
  "counts": {
-  "complete": 96,
-  "incomplete": 13,
+  "complete": 97,
+  "incomplete": 12,
   "not started": 0,
   "awaiting approval": 13
  },
@@ -2326,22 +2326,20 @@
    "name": "T616",
    "supplier": "",
    "date": "",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.72,
    "total_moisture": null,
    "vm_loss": 20.46,
    "vm_ar": 15.74,
    "vm_db": 16.52,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 9.92,
+   "ash_db": 10.41,
+   "fc_ar": 69.62,
+   "fc_db": 73.07,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 19:35"
+   "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:07"
   }
  ],
  "awaiting_approval": [
