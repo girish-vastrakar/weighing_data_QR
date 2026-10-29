@@ -22312,7 +22312,9 @@
    "bal": 4,
    "start": 1793277343164,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793280972786,
+   "outBy": "Supervisor (timer)"
   },
   "2026-10-29-F1-mvtl2k14": {
    "rid": "2026-10-29-F1-mvtl2k14",
