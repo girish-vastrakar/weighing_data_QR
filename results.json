@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T00:05:58+05:30",
+ "generated": "2026-10-30T00:07:14+05:30",
  "names_updated": "2026-10-29T13:04:13+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 110,
+ "count": 109,
  "counts": {
   "complete": 96,
-  "incomplete": 14,
+  "incomplete": 13,
   "not started": 0,
-  "awaiting approval": 12
+  "awaiting approval": 13
  },
  "results": [
   {
@@ -2322,28 +2322,6 @@
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:17"
   },
   {
-   "code": "T811",
-   "name": "T595",
-   "supplier": "",
-   "date": "",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
-   "moisture": 9.94,
-   "total_moisture": null,
-   "vm_loss": 22.6,
-   "vm_ar": 12.66,
-   "vm_db": 14.05,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 19:33"
-  },
-  {
    "code": "T813",
    "name": "T616",
    "supplier": "",
@@ -2486,6 +2464,17 @@
    "status": "complete",
    "flags": [
     "ASH 12.33 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T811",
+   "name": "T595",
+   "supplier": "",
+   "date": "",
+   "status": "complete",
+   "flags": [
+    "ASH 12.66 % db above 12 % db"
    ],
    "checks": []
   },

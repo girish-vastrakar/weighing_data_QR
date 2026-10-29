@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-30T00:05:58+05:30",
+ "generated": "2026-10-30T00:07:14+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,11 +30,11 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 12,
+ "count": 13,
  "by_test": {
   "MC": 2,
   "VM": 2,
-  "ASH": 9,
+  "ASH": 10,
   "FC": 0,
   "TM": 0
  },
@@ -247,6 +247,25 @@
    "moisture": 4.14,
    "vm_ar": 10.75,
    "ash_ar": 11.82,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T811",
+   "name": "T595",
+   "supplier": "",
+   "date": "",
+   "status": "complete",
+   "flags": [
+    "ASH 12.66 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 9.94,
+   "vm_ar": 12.66,
+   "ash_ar": 11.4,
    "total_moisture": null,
    "approval_outdated": false
   },
