@@ -1809,6 +1809,24 @@
    "via": "results page, paper sheet",
    "weighedBy": "mohan",
    "weighedAt": "2026-10-29T18:45:00+05:30"
+  },
+  {
+   "id": "1793282406743-edhqp9-0",
+   "at": "2026-10-29T19:30:06+05:30",
+   "by": "Girish",
+   "action": "overwrite",
+   "code": "T732",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 3,
+   "old": 80.9542,
+   "new": 80.9579,
+   "saved": {
+    "at": "2026-10-29T19:20:22+05:30",
+    "by": "Mohan"
+   },
+   "via": "results page",
+   "note": "Mohan reweighing"
   }
  ]
 }
