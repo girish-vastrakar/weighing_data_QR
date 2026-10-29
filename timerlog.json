@@ -1,0 +1,25 @@
+{
+ "batches": {
+  "mvtgpqc44u": {
+   "id": "mvtgpqc44u",
+   "sectionId": "O1",
+   "section": "Oven 1",
+   "test": "MC",
+   "testName": "Moisture",
+   "capacity": 12,
+   "expectedCount": 0,
+   "expected": [],
+   "plannedMin": 60,
+   "preparedBy": {},
+   "started": "2026-10-29T17:00:56+05:30",
+   "ready": "2026-10-29T18:00:56+05:30",
+   "events": [],
+   "takenOut": null,
+   "stoppedEarly": false,
+   "actualMin": null,
+   "cancelled": null,
+   "device": "4uqwe4",
+   "updated": "2026-10-29T17:00:56+05:30"
+  }
+ }
+}
