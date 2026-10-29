@@ -1407,6 +1407,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793257916860-rsbrty",
+   "at": "2026-10-29T12:41:56+05:30",
+   "by": "girish",
+   "action": "reset",
+   "code": "T736",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.4132,
+    15.4155,
+    14.6368
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T10:18:15+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-10-28T10:19:07+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-10-28T12:27:17+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
