@@ -1,4 +1,30 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W1,84.8432,,,Ramesh,28-Oct-2026 15:45,,1793258327479-rs76b1
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W2,85.8476,,,Ramesh,28-Oct-2026 15:50,,1793258327479-rs76b1
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Moisture,W3,85.7364,,,Ramesh,28-Oct-2026 17:51,,1793258327479-rs76b1
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Volatile Matter,W1,16.0409,,,Ramesh,28-Oct-2026 11:07,,1793258288741-rsymho
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Volatile Matter,W2,17.0445,,,Ramesh,28-Oct-2026 11:08,,1793258288741-rsymho
+29-Oct-2026 12:48,girish,reset,T732,CH1/24,Volatile Matter,W3,16.754,,,Ramesh,28-Oct-2026 13:39,,1793258288741-rsymho
+29-Oct-2026 12:47,girish,reset,T731,CH1/23,Ash,W1,13.4275,,,Ramesh,28-Oct-2026 10:09,,1793258264829-rsncxx
+29-Oct-2026 12:47,girish,reset,T731,CH1/23,Ash,W2,14.4297,,,Ramesh,28-Oct-2026 10:10,,1793258264829-rsncxx
+29-Oct-2026 12:47,girish,reset,T731,CH1/23,Ash,W3,13.5902,,,Ramesh,28-Oct-2026 12:25,,1793258264829-rsncxx
+29-Oct-2026 12:47,girish,reset,T734,CH1/26,Ash,W1,13.7803,,,Ramesh,28-Oct-2026 10:15,,1793258224560-rspdcx
+29-Oct-2026 12:47,girish,reset,T734,CH1/26,Ash,W2,14.7885,,,Ramesh,28-Oct-2026 10:16,,1793258224560-rspdcx
+29-Oct-2026 12:47,girish,reset,T734,CH1/26,Ash,W3,13.9658,,,Ramesh,28-Oct-2026 12:26,,1793258224560-rspdcx
+29-Oct-2026 12:41,girish,reset,T736,CH1/28,Ash,W1,14.4132,,,Ramesh,28-Oct-2026 10:18,,1793257916860-rsbrty
+29-Oct-2026 12:41,girish,reset,T736,CH1/28,Ash,W2,15.4155,,,Ramesh,28-Oct-2026 10:19,,1793257916860-rsbrty
+29-Oct-2026 12:41,girish,reset,T736,CH1/28,Ash,W3,14.6368,,,Ramesh,28-Oct-2026 12:27,,1793257916860-rsbrty
+29-Oct-2026 12:40,girish,reset,T746,CH1/38,Ash,W1,14.0617,,,Ramesh,28-Oct-2026 10:35,,1793257827877-rsxuw4
+29-Oct-2026 12:40,girish,reset,T746,CH1/38,Ash,W2,15.0694,,,Ramesh,28-Oct-2026 10:36,,1793257827877-rsxuw4
+29-Oct-2026 12:40,girish,reset,T746,CH1/38,Ash,W3,14.2221,,,Ramesh,28-Oct-2026 12:37,,1793257827877-rsxuw4
+29-Oct-2026 12:33,girish,reset,T722,CH1/14,Ash,W1,14.3375,,,Mohan,28-Oct-2026 15:13,,1793257404080-rstp0j
+29-Oct-2026 12:33,girish,reset,T722,CH1/14,Ash,W2,15.3384,,,Mohan,28-Oct-2026 15:14,,1793257404080-rstp0j
+29-Oct-2026 12:33,girish,reset,T722,CH1/14,Ash,W3,14.4299,,,Mohan,28-Oct-2026 20:28,,1793257404080-rstp0j
+29-Oct-2026 12:32,girish,reset,T717,CH1/09,Ash,W1,12.1902,,,Mohan,28-Oct-2026 12:52,,1793257320843-rsspue
+29-Oct-2026 12:32,girish,reset,T717,CH1/09,Ash,W2,13.1954,,,Mohan,28-Oct-2026 12:53,,1793257320843-rsspue
+29-Oct-2026 12:32,girish,reset,T717,CH1/09,Ash,W3,12.3352,,,Mohan,28-Oct-2026 20:28,,1793257320843-rsspue
+29-Oct-2026 11:21,Mohan,overwrite,T779,CH1/71,Moisture,W2,80.4941,80.4982,,Mohan,29-Oct-2026 11:20,,1793253077552-ioghx
+29-Oct-2026 10:16,Girish,reset,T756,CH1/48,Ash,W1,12.6958,,,Girish,29-Oct-2026 10:14,,1793249198400-q67hc
 28-Oct-2026 20:28,Girish,reset,T712,CH1/04,Ash,W1,16.6871,,,Mohan,28-Oct-2026 12:34,,1793199539739-2ppyf
 28-Oct-2026 20:28,Girish,reset,T712,CH1/04,Ash,W2,17.6896,,,Mohan,28-Oct-2026 12:35,,1793199539739-2ppyf
 28-Oct-2026 17:05,Ramesh,reset,T749,CH1/41,Moisture,W1,80.3386,,,Ramesh,28-Oct-2026 17:04,,1793187305507-5kypo
