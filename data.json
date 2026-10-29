@@ -6203,9 +6203,9 @@
      85.7364
     ],
     "VM": [
-     16.0409,
-     17.0445,
-     16.754
+     null,
+     null,
+     null
     ],
     "ASH": [
      14.5305,
@@ -6219,7 +6219,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Moisture W3 | 28-Oct-2026 17:51",
+   "last": "girish | Volatile Matter reset (results page) | 29-Oct-2026 12:48",
    "ev": [
     {
      "id": "1793162472219-kazdp",
@@ -6379,6 +6379,20 @@
      "o": null,
      "h": "DISH 2",
      "b": 2
+    },
+    {
+     "id": "1793258288741-rsymho",
+     "t": 1793258288741,
+     "by": "girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      16.0409,
+      17.0445,
+      16.754
+     ],
+     "h": "VM 2A-2",
+     "via": "results"
     }
    ],
    "h": {
