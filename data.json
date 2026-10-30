@@ -26096,7 +26096,9 @@
    "bal": 2,
    "start": 1793351851577,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793356016085,
+   "outBy": "Supervisor (timer)"
   },
   "2026-10-30-F2-mvure95f": {
    "rid": "2026-10-30-F2-mvure95f",
