@@ -1,5 +1,4 @@
 ﻿Code,Sample name,Supplier,Date,Status,Pending,Moisture %,Total moisture %,VM loss %,VM (ar) %,VM (db) %,Ash (ar) %,Ash (db) %,FC (ar) %,FC (db) %,Flags,Checks,Approved by,Approved at,Last entry
-796,,,,not started,"Moisture, VM, Ash",,,,,,,,,,,,,,
 T612,NAL/49 R1 (22/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-22,complete,,9.26,,21.74,12.48,13.76,8.17,9.0,70.09,77.24,,,,,GC | Volatile Matter W3 | 24-Oct-2026 20:44
 T667,GOR/06,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.22,,17.03,13.81,14.27,8.02,8.29,74.94,77.44,,,,,merged from old app | 26-Oct-2026
 T668,GOR/07,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-25,complete,,3.11,,15.62,12.51,12.91,6.82,7.04,77.55,80.05,,,,,merged from old app | 26-Oct-2026
