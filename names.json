@@ -1,6 +1,6 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-30T08:49:31+05:30",
+ "updated": "2026-10-30T09:05:22+05:30",
  "source": "sample_code / Name Tags",
  "count": 808,
  "names": {
@@ -3702,7 +3702,7 @@
    "name": "SUM/04 R3 (26/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-26",
-   "machine": "W2"
+   "machine": "W4"
   },
   "T695": {
    "name": "SUM/16 R3 (26/10)",
@@ -4253,112 +4253,134 @@
   "T789": {
    "name": "NAL/151",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T790": {
    "name": "NAL/152",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T791": {
    "name": "NAL/153",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T792": {
    "name": "NAL/154",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T793": {
    "name": "NAL/155",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T794": {
    "name": "NAL/156",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T795": {
    "name": "NAL/157",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T796": {
    "name": "NAL/158",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T797": {
    "name": "NAL/159",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T798": {
    "name": "NAL/160",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T799": {
    "name": "NAL/70 R1 (23/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T800": {
    "name": "NAL/71 R1 (23/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-23"
+   "date": "2026-10-23",
+   "machine": "W2"
   },
   "T801": {
    "name": "NAL/79 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T802": {
    "name": "NAL/82 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T803": {
    "name": "NAL/87 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T804": {
    "name": "NAL/99 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T805": {
    "name": "NAL/100 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T806": {
    "name": "NAL/103 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T807": {
    "name": "NAL/114 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T808": {
    "name": "NAL/115 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T809": {
    "name": "NAL/127 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T810": {
    "name": "NAL/134 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-26"
+   "date": "2026-10-26",
+   "machine": "W2"
   },
   "T811": {
    "name": "T595",
