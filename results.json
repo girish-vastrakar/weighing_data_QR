@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T17:20:19+05:30",
+ "generated": "2026-10-30T17:20:44+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -2867,21 +2867,20 @@
    "date": "2026-10-26",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM"
    ],
-   "moisture": null,
+   "moisture": 1.52,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": 9.4,
-   "ash_db": null,
+   "ash_db": 9.54,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 30-Oct-2026 16:49"
+   "last_entry": "Ramesh | Moisture W3 | 30-Oct-2026 17:20"
   },
   {
    "code": "T810",
