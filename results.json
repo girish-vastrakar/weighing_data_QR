@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T21:38:40+05:30",
+ "generated": "2026-10-30T21:39:24+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 141,
+ "count": 143,
  "counts": {
-  "complete": 134,
+  "complete": 136,
   "incomplete": 7,
   "not started": 0,
-  "awaiting approval": 3
+  "awaiting approval": 1
  },
  "results": [
   {
@@ -1989,6 +1989,30 @@
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:50"
   },
   {
+   "code": "T759",
+   "name": "CH1/51",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 6.0,
+   "total_moisture": null,
+   "vm_loss": 19.29,
+   "vm_ar": 13.29,
+   "vm_db": 14.14,
+   "ash_ar": 13.57,
+   "ash_db": 14.44,
+   "fc_ar": 67.13,
+   "fc_db": 71.42,
+   "flags": [
+    "ASH 14.44 % db above 12 % db"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:50",
+   "approved_by": "girish",
+   "approved_at": "2026-10-30T21:39:17+05:30"
+  },
+  {
    "code": "T760",
    "name": "CH1/52",
    "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
@@ -2087,6 +2111,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:54"
+  },
+  {
+   "code": "T765",
+   "name": "CH1/57",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.36,
+   "total_moisture": null,
+   "vm_loss": 13.85,
+   "vm_ar": 11.49,
+   "vm_db": 11.77,
+   "ash_ar": 31.16,
+   "ash_db": 31.91,
+   "fc_ar": 54.99,
+   "fc_db": 56.32,
+   "flags": [
+    "ASH 31.91 % db above 12 % db"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:54",
+   "approved_by": "girish",
+   "approved_at": "2026-10-30T21:39:09+05:30"
   },
   {
    "code": "T766",
@@ -3045,28 +3093,6 @@
    "status": "incomplete",
    "flags": [
     "MC 11.59 % above 10 %"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T759",
-   "name": "CH1/51",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH 14.44 % db above 12 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T765",
-   "name": "CH1/57",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH 31.91 % db above 12 % db"
    ],
    "checks": []
   }
