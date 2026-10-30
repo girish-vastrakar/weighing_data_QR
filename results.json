@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T17:48:13+05:30",
+ "generated": "2026-10-30T17:48:29+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -3005,7 +3005,7 @@
    "name": "NAL/103 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
    "date": "2026-10-26",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 1.49 % below 1.5 %"
    ],
