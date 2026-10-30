@@ -25072,7 +25072,7 @@
     ],
     "VM": [
      13.91,
-     null,
+     14.9168,
      null
     ],
     "ASH": [
@@ -25087,7 +25087,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W1 | 30-Oct-2026 16:52",
+   "last": "Girish | Volatile Matter typed in from paper (results page) | 30-Oct-2026 16:55",
    "ev": [
     {
      "id": "1793351052196-1g5se",
@@ -25364,6 +25364,19 @@
      "v": "VM W2-3-4",
      "x": "skip",
      "b": 2
+    },
+    {
+     "id": "1793359513241-ppggo1-0",
+     "t": 1793359513241,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.9168,
+     "o": null,
+     "h": "VM W2-3-4",
+     "via": "paper",
+     "wt": 1793359440000
     }
    ],
    "h": {
