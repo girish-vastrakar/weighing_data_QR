@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T12:27:49+05:30",
+ "generated": "2026-10-30T13:13:13+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -2485,11 +2485,10 @@
    "date": "2026-10-23",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 4.26,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -2500,7 +2499,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 30-Oct-2026 12:24"
+   "last_entry": "Ramesh | Moisture W3 | 30-Oct-2026 13:13"
   },
   {
    "code": "T798",
