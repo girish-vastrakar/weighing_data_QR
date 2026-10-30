@@ -1923,6 +1923,51 @@
    "saved": null,
    "via": "results page, paper sheet",
    "weighedAt": "2026-10-30T16:54:00+05:30"
+  },
+  {
+   "id": "1793365506236-pppjwz-0",
+   "at": "2026-10-30T18:35:06+05:30",
+   "by": "girish",
+   "action": "paper",
+   "code": "T810",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 1,
+   "old": null,
+   "new": 90.0935,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedAt": "2026-10-30T18:34:00+05:30"
+  },
+  {
+   "id": "1793365506236-pppjwz-1",
+   "at": "2026-10-30T18:35:06+05:30",
+   "by": "girish",
+   "action": "paper",
+   "code": "T810",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 2,
+   "old": null,
+   "new": 91.0998,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedAt": "2026-10-30T18:34:00+05:30"
+  },
+  {
+   "id": "1793365506236-pppjwz-2",
+   "at": "2026-10-30T18:35:06+05:30",
+   "by": "girish",
+   "action": "paper",
+   "code": "T810",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 3,
+   "old": null,
+   "new": 91.0733,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedAt": "2026-10-30T18:34:00+05:30"
   }
  ]
 }
