@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-30T17:45:31+05:30",
+ "generated": "2026-10-30T17:47:03+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -120,7 +120,7 @@
    "name": "NAL/79 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
    "date": "2026-10-26",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 1.46 % below 1.5 %"
    ],
@@ -129,7 +129,7 @@
     "MC"
    ],
    "moisture": 1.46,
-   "vm_ar": null,
+   "vm_ar": 14.23,
    "ash_ar": 10.65,
    "total_moisture": null,
    "approval_outdated": false
