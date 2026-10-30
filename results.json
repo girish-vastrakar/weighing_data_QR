@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T14:21:22+05:30",
+ "generated": "2026-10-30T14:22:34+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 124,
  "counts": {
   "complete": 101,
-  "incomplete": 22,
-  "not started": 1,
+  "incomplete": 23,
+  "not started": 0,
   "awaiting approval": 15
  },
  "results": [
@@ -2640,7 +2640,7 @@
    "name": "NAL/100 R1 (26/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
    "date": "2026-10-26",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -2657,7 +2657,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Girish | Ash W1 | 30-Oct-2026 14:22"
   },
   {
    "code": "T813",
