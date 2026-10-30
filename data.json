@@ -25437,6 +25437,28 @@
    "start": 1793351851577,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-10-30-F2-mvure95f": {
+   "rid": "2026-10-30-F2-mvure95f",
+   "place": "F2",
+   "test": "ASH",
+   "tray": "ASH W2-5",
+   "items": [
+    {
+     "h": "ASH W2-5-1",
+     "code": "T809",
+     "w2": 15.9411
+    },
+    {
+     "h": "ASH W2-5-2",
+     "code": "T810",
+     "w2": 15.251
+    }
+   ],
+   "bal": 2,
+   "start": 1793351862483,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
