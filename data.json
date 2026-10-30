@@ -23682,7 +23682,7 @@
     ],
     "ASH": [
      14.2503,
-     null,
+     15.251,
      null
     ],
     "TM": [
@@ -23692,7 +23692,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Ash W1 | 30-Oct-2026 14:34",
+   "last": "Girish | Ash corrected (results page) | 30-Oct-2026 14:39",
    "ev": [
     {
      "id": "1793351052196-1g5se",
@@ -23857,6 +23857,19 @@
      "v": "ASH W2-5-2",
      "x": "skip",
      "b": 2
+    },
+    {
+     "id": "1793351396879-edtup1-0",
+     "t": 1793351396879,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 15.251,
+     "o": null,
+     "h": "ASH W2-5-2",
+     "via": "edit",
+     "n": "Can't able to scan the bag"
     }
    ],
    "h": {
