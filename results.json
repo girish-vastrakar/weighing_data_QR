@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T16:17:48+05:30",
+ "generated": "2026-10-30T16:17:57+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -2586,21 +2586,20 @@
    "date": "2026-10-23",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.84,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 7.06,
+   "ash_db": 7.27,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Ash W2 | 30-Oct-2026 14:09"
+   "last_entry": "Girish | Ash W3 | 30-Oct-2026 16:17"
   },
   {
    "code": "T801",
