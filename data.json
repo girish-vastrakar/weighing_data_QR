@@ -26303,7 +26303,11 @@
    "bal": 0,
    "start": 1793357014500,
    "mins": 7,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "cancelled": {
+    "at": 1793357024814,
+    "by": "Supervisor (timer)"
+   }
   }
  },
  "settings": {
