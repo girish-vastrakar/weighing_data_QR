@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T11:25:50+05:30",
+ "generated": "2026-10-30T11:26:15+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 119,
  "counts": {
   "complete": 97,
-  "incomplete": 21,
-  "not started": 1,
+  "incomplete": 22,
+  "not started": 0,
   "awaiting approval": 13
  },
  "results": [
@@ -2542,7 +2542,7 @@
    "name": "NAL/160",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
    "date": "2026-10-23",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -2559,7 +2559,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 30-Oct-2026 11:26"
   },
   {
    "code": "T813",
