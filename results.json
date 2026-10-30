@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T15:16:54+05:30",
+ "generated": "2026-10-30T15:17:19+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -2600,7 +2600,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 30-Oct-2026 15:16"
+   "last_entry": "Ramesh | Moisture W2 | 30-Oct-2026 15:17"
   },
   {
    "code": "T804",
