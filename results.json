@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T11:18:46+05:30",
+ "generated": "2026-10-30T11:19:18+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 116,
+ "count": 117,
  "counts": {
   "complete": 97,
   "incomplete": 19,
-  "not started": 0,
+  "not started": 1,
   "awaiting approval": 13
  },
  "results": [
@@ -2488,6 +2488,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Moisture W2 | 30-Oct-2026 11:18"
+  },
+  {
+   "code": "T796",
+   "name": "NAL/158",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-23",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
   },
   {
    "code": "T813",
