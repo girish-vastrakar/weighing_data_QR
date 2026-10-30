@@ -20110,7 +20110,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     83.2905,
      null,
      null
     ],
@@ -20131,7 +20131,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 29-Oct-2026 18:16",
+   "last": "Ramesh | Moisture W1 | 30-Oct-2026 09:47",
    "ev": [
     {
      "id": "1793273702741-ufb73",
@@ -20184,6 +20184,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 29",
+     "b": 2
+    },
+    {
+     "id": "1793333856867-hl7fd",
+     "t": 1793333856867,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 83.2905,
+     "o": null,
      "h": "DISH 29",
      "b": 2
     }
