@@ -26120,7 +26120,9 @@
    "bal": 2,
    "start": 1793351862483,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793356018406,
+   "outBy": "Supervisor (timer)"
   },
   "2026-10-30-O2-mvutcb5e": {
    "rid": "2026-10-30-O2-mvutcb5e",
