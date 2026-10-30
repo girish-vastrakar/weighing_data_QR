@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T17:42:59+05:30",
+ "generated": "2026-10-30T17:43:23+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 137,
  "counts": {
-  "complete": 113,
-  "incomplete": 24,
+  "complete": 114,
+  "incomplete": 23,
   "not started": 0,
   "awaiting approval": 8
  },
@@ -2528,22 +2528,20 @@
    "name": "NAL/152",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
    "date": "2026-10-23",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 5.7,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 19.2,
+   "vm_ar": 13.5,
+   "vm_db": 14.31,
    "ash_ar": 5.74,
    "ash_db": 6.09,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 75.06,
+   "fc_db": 79.6,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 30-Oct-2026 15:52"
+   "last_entry": "Ramesh | Volatile Matter W3 | 30-Oct-2026 17:43"
   },
   {
    "code": "T791",
