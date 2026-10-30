@@ -898,6 +898,34 @@
    },
    "note": "While sampling, they may pick the ashy samples",
    "via": "results page"
+  },
+  "T717": {
+   "by": "girish",
+   "at": "2026-10-30T16:25:58+05:30",
+   "flags": "Ash 15.94 % db above 12 %",
+   "w": {
+    "MC": [
+     85.1041,
+     86.1044,
+     86.0369
+    ],
+    "VM": [
+     17.3399,
+     18.3417,
+     18.1724
+    ],
+    "ASH": [
+     23.3059,
+     24.3083,
+     23.4549
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -922,5 +950,5 @@
    60
   ]
  },
- "updated": "2026-10-30T15:55:21+05:30"
+ "updated": "2026-10-30T16:25:58+05:30"
 }
