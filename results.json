@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-30T11:44:19+05:30",
+ "generated": "2026-10-30T11:44:46+05:30",
  "names_updated": "2026-10-30T09:05:22+05:30",
  "limits": {
   "MC": [
@@ -2234,21 +2234,20 @@
    "date": "2026-10-27",
    "status": "incomplete",
    "pending": [
-    "MC",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 6.01,
    "total_moisture": null,
    "vm_loss": 17.4,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 11.39,
+   "vm_db": 12.12,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 30-Oct-2026 10:04"
+   "last_entry": "Ramesh | Moisture W3 | 30-Oct-2026 11:44"
   },
   {
    "code": "T784",
