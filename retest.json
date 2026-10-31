@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T16:36:31+05:30",
+ "generated": "2026-10-31T17:08:40+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -44,7 +44,7 @@
    "name": "GOR/30",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-29",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 13.63 % above 10 %"
    ],
@@ -53,7 +53,7 @@
     "MC"
    ],
    "moisture": 13.63,
-   "vm_ar": null,
+   "vm_ar": 11.63,
    "ash_ar": 8.3,
    "total_moisture": null,
    "approval_outdated": false
