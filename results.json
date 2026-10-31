@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T13:00:54+05:30",
+ "generated": "2026-10-31T13:02:17+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3498,7 +3498,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 31-Oct-2026 13:00"
+   "last_entry": "Ramesh | Moisture W2 | 31-Oct-2026 13:02"
   },
   {
    "code": "T830",
