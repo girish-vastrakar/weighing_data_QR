@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T11:31:41+05:30",
+ "generated": "2026-10-31T11:39:35+05:30",
  "names_updated": "2026-10-31T09:12:53+05:30",
  "limits": {
   "MC": [
@@ -17,8 +17,8 @@
    12
   ],
   "FC": [
-   null,
-   null
+   72,
+   100
   ],
   "TM": [
    1.5,
@@ -721,7 +721,8 @@
    "fc_ar": 65.52,
    "fc_db": 67.41,
    "flags": [
-    "VM 20.77 % db above 17.5 % db"
+    "VM 20.77 % db above 17.5 % db",
+    "FC 67.41 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 27-Oct-2026 18:10",
@@ -817,7 +818,8 @@
    "fc_ar": 69.35,
    "fc_db": 71.42,
    "flags": [
-    "VM 26.42 % db above 17.5 % db"
+    "VM 26.42 % db above 17.5 % db",
+    "FC 71.42 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 27-Oct-2026 18:11",
@@ -1465,7 +1467,8 @@
    "fc_ar": 63.74,
    "fc_db": 68.42,
    "flags": [
-    "ASH 16.04 % db above 12 % db"
+    "ASH 16.04 % db above 12 % db",
+    "FC 68.42 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:04",
@@ -1534,7 +1537,8 @@
    "fc_ar": 63.52,
    "fc_db": 67.05,
    "flags": [
-    "ASH 19.03 % db above 12 % db"
+    "ASH 19.03 % db above 12 % db",
+    "FC 67.05 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:04",
@@ -1578,7 +1582,8 @@
    "fc_ar": 60.77,
    "fc_db": 63.06,
    "flags": [
-    "ASH 21.73 % db above 12 % db"
+    "ASH 21.73 % db above 12 % db",
+    "FC 63.07 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:05",
@@ -1762,7 +1767,8 @@
    "fc_ar": 63.99,
    "fc_db": 68.25,
    "flags": [
-    "ASH 18.02 % db above 12 % db"
+    "ASH 18.02 % db above 12 % db",
+    "FC 68.25 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:05",
@@ -2026,7 +2032,8 @@
    "fc_ar": 67.13,
    "fc_db": 71.42,
    "flags": [
-    "ASH 14.44 % db above 12 % db"
+    "ASH 14.44 % db above 12 % db",
+    "FC 71.42 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:50",
@@ -2150,7 +2157,8 @@
    "fc_ar": 54.99,
    "fc_db": 56.32,
    "flags": [
-    "ASH 31.91 % db above 12 % db"
+    "ASH 31.91 % db above 12 % db",
+    "FC 56.32 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:54",
@@ -2314,7 +2322,8 @@
    "fc_ar": 34.83,
    "fc_db": 36.74,
    "flags": [
-    "ASH 53.91 % db above 12 % db"
+    "ASH 53.91 % db above 12 % db",
+    "FC 36.74 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 29-Oct-2026 16:57",
@@ -2482,7 +2491,8 @@
    "fc_ar": 65.07,
    "fc_db": 70.18,
    "flags": [
-    "ASH 14.44 % db above 12 % db"
+    "ASH 14.44 % db above 12 % db",
+    "FC 70.18 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Ramesh | Ash W3 | 30-Oct-2026 11:49",
@@ -2897,7 +2907,8 @@
    "fc_ar": 61.77,
    "fc_db": 63.38,
    "flags": [
-    "ASH 22.04 % db above 12 % db"
+    "ASH 22.04 % db above 12 % db",
+    "FC 63.38 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Ramesh | Volatile Matter W3 | 30-Oct-2026 17:47",
@@ -3077,7 +3088,8 @@
    "fc_ar": 66.36,
    "fc_db": 71.78,
    "flags": [
-    "VM 23.70 % db above 17.5 % db"
+    "VM 23.70 % db above 17.5 % db",
+    "FC 71.77 % db below 72 % db"
    ],
    "checks": [],
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:07",

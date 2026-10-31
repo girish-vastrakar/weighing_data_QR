@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T11:02:35+05:30",
+ "generated": "2026-10-31T11:39:35+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -16,8 +16,8 @@
    12
   ],
   "FC": [
-   null,
-   null
+   72,
+   100
   ],
   "TM": [
    1.5,
