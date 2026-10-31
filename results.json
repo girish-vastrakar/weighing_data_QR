@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T19:29:46+05:30",
+ "generated": "2026-10-31T19:43:49+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 162,
+ "count": 161,
  "counts": {
   "complete": 157,
-  "incomplete": 5,
+  "incomplete": 4,
   "not started": 0,
-  "awaiting approval": 0
+  "awaiting approval": 1
  },
  "results": [
   {
@@ -3301,28 +3301,6 @@
    "approved_at": "2026-10-31T17:44:22+05:30"
   },
   {
-   "code": "T823",
-   "name": "GOR/31",
-   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": 25.9,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 6.32,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Girish | Moisture W2 | 31-Oct-2026 18:04"
-  },
-  {
    "code": "T824",
    "name": "SumChu1",
    "supplier": "Climitra Lab Portal",
@@ -3519,5 +3497,17 @@
    "last_entry": "Girish | Ash W2 | 31-Oct-2026 18:08"
   }
  ],
- "awaiting_approval": []
+ "awaiting_approval": [
+  {
+   "code": "T823",
+   "name": "GOR/31",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "MC 11.65 % above 10 %"
+   ],
+   "checks": []
+  }
+ ]
 }

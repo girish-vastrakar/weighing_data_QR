@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T19:29:46+05:30",
+ "generated": "2026-10-31T19:43:49+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,13 +30,33 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 0,
+ "count": 1,
  "by_test": {
-  "MC": 0,
+  "MC": 1,
   "VM": 0,
   "ASH": 0,
   "FC": 0,
   "TM": 0
  },
- "samples": []
+ "samples": [
+  {
+   "code": "T823",
+   "name": "GOR/31",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "MC 11.65 % above 10 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 11.65,
+   "vm_ar": 14.25,
+   "ash_ar": 6.32,
+   "total_moisture": null,
+   "approval_outdated": false
+  }
+ ]
 }
