@@ -1,6 +1,6 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-10-31T09:12:53+05:30",
+ "updated": "2026-10-31T12:21:58+05:30",
  "source": "sample_code / Name Tags",
  "count": 826,
  "names": {
@@ -4397,92 +4397,110 @@
   "T814": {
    "name": "GOR/22",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W1"
   },
   "T815": {
    "name": "GOR/23",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-27"
+   "date": "2026-10-27",
+   "machine": "W1"
   },
   "T816": {
    "name": "GOR/24",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W1"
   },
   "T817": {
    "name": "GOR/25",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W1"
   },
   "T818": {
    "name": "GOR/26",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W1"
   },
   "T819": {
    "name": "GOR/27",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W1"
   },
   "T820": {
    "name": "GOR/28",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W1"
   },
   "T821": {
    "name": "GOR/29",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W1"
   },
   "T822": {
    "name": "GOR/30",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W1"
   },
   "T823": {
    "name": "GOR/31",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   },
   "T824": {
    "name": "SumChu1",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W2"
   },
   "T825": {
    "name": "Sumchu2",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W2"
   },
   "T826": {
    "name": "Sumchu3",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-10-28"
+   "date": "2026-10-28",
+   "machine": "W2"
   },
   "T827": {
    "name": "gorchu1",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   },
   "T828": {
    "name": "gorchu2",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   },
   "T829": {
    "name": "SUM-81 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   },
   "T830": {
    "name": "SUM-117 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   },
   "T831": {
    "name": "SUM/35 R3 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
-   "date": "2026-10-29"
+   "date": "2026-10-29",
+   "machine": "W2"
   }
  }
 }
