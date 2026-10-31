@@ -311,9 +311,10 @@
    "via": "results page"
   },
   "T697": {
-   "by": "girish",
-   "at": "2026-10-28T11:31:03+05:30",
+   "by": "Girish",
+   "at": "2026-10-31T11:31:32+05:30",
    "flags": "VM 20.77 % db above 17.5 %",
+   "checks": "Ash 11.82 % db unusual (usual 2.8 % for Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1)",
    "w": {
     "MC": [
      86.0671,
@@ -336,6 +337,7 @@
      null
     ]
    },
+   "note": "In the retests, falls in the same range",
    "via": "results page"
   },
   "T698": {
@@ -1426,5 +1428,5 @@
    60
   ]
  },
- "updated": "2026-10-31T11:02:27+05:30"
+ "updated": "2026-10-31T11:31:32+05:30"
 }
