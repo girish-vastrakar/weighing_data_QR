@@ -1720,6 +1720,34 @@
    },
    "note": "RETEST IS DONE OF VM ONLY",
    "via": "results page"
+  },
+  "T831": {
+   "by": "Girish",
+   "at": "2026-10-31T23:16:42+05:30",
+   "flags": "Ash 22.38 % db above 12 %, Fixed carbon 63.75 % db below 72 %",
+   "w": {
+    "MC": [
+     40.942,
+     41.9482,
+     41.8629
+    ],
+    "VM": [
+     14.3973,
+     15.3988,
+     15.1868
+    ],
+    "ASH": [
+     14.4938,
+     15.4997,
+     14.6998
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -1744,5 +1772,5 @@
    60
   ]
  },
- "updated": "2026-10-31T19:29:39+05:30"
+ "updated": "2026-10-31T23:16:42+05:30"
 }
