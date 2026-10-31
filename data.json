@@ -26124,7 +26124,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     37.4213,
      null,
      null
     ],
@@ -26145,7 +26145,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture reset (results page) | 31-Oct-2026 17:51",
+   "last": "Girish | Moisture W1 | 31-Oct-2026 18:01",
    "ev": [
     {
      "id": "1793429643127-0ed52",
@@ -26304,6 +26304,18 @@
      "k": "MC",
      "h": "DISH 25",
      "o": "DISH 17",
+     "b": 2
+    },
+    {
+     "id": "1793449883099-ryc0u",
+     "t": 1793449883099,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 37.4213,
+     "o": null,
+     "h": "DISH 25",
      "b": 2
     }
    ],
