@@ -1434,6 +1434,36 @@
    },
    "note": "Retest is done",
    "via": "results page"
+  },
+  "T667": {
+   "by": "Girish",
+   "at": "2026-10-31T11:35:18+05:30",
+   "flags": "",
+   "checks": "Ash 8.29 % db unusual (usual 5.0 % for Tata 500 PO dMRV · Gorewali · Jumbo bag sampling)",
+   "w": {
+    "MC": [
+     82.8876,
+     83.8883,
+     83.8561
+    ],
+    "VM": [
+     14.5042,
+     15.5076,
+     15.3367
+    ],
+    "ASH": [
+     13.7772,
+     14.778,
+     13.8575
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "Already falls within a good FC range. No need to retest right now.",
+   "via": "results page"
   }
  },
  "limits": {
@@ -1458,5 +1488,5 @@
    60
   ]
  },
- "updated": "2026-10-31T11:33:33+05:30"
+ "updated": "2026-10-31T11:35:18+05:30"
 }
