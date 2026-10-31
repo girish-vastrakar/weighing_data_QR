@@ -1,4 +1,7 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+31-Oct-2026 17:50,Girish,reset,T831,SUM/35 R3 (29/10),Ash,W1,14.707,,,Ramesh,31-Oct-2026 12:40,,1793449233869-rs1zrf
+31-Oct-2026 17:50,Girish,reset,T831,SUM/35 R3 (29/10),Ash,W2,15.709,,,Ramesh,31-Oct-2026 12:41,,1793449233869-rs1zrf
+31-Oct-2026 17:50,Girish,reset,T831,SUM/35 R3 (29/10),Ash,W3,14.9874,,,Ramesh,31-Oct-2026 14:39,,1793449233869-rs1zrf
 31-Oct-2026 15:46,Mohan,overwrite,T822,GOR/30,Volatile Matter,W2,15.4616,15.4622,,Mohan,31-Oct-2026 15:45,,1793441782721-jfu3x
 31-Oct-2026 15:29,Mohan,overwrite,T816,GOR/24,Volatile Matter,W2,15.4587,15.4576,,Mohan,31-Oct-2026 15:27,,1793440754441-bwsy5
 31-Oct-2026 12:32,Mohan,overwrite,T814,GOR/22,Moisture,W2,42.6877,42.6885,,Mohan,31-Oct-2026 12:30,,1793430134999-kbb8w
