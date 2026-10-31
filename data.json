@@ -30707,7 +30707,9 @@
    "bal": 2,
    "start": 1793450448474,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793454963914,
+   "outBy": "Supervisor (timer)"
   },
   "2026-10-31-F1-mvweg53q": {
    "rid": "2026-10-31-F1-mvweg53q",
