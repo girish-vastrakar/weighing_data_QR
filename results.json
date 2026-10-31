@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T14:42:11+05:30",
+ "generated": "2026-10-31T14:43:07+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 160,
+ "count": 159,
  "counts": {
   "complete": 141,
-  "incomplete": 19,
+  "incomplete": 18,
   "not started": 0,
-  "awaiting approval": 2
+  "awaiting approval": 3
  },
  "results": [
   {
@@ -3356,29 +3356,6 @@
    "last_entry": "Ramesh | Ash W3 | 31-Oct-2026 14:35"
   },
   {
-   "code": "T824",
-   "name": "SumChu1",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-10-28",
-   "status": "incomplete",
-   "pending": [
-    "MC",
-    "VM"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 46.04,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 31-Oct-2026 14:35"
-  },
-  {
    "code": "T825",
    "name": "Sumchu2",
    "supplier": "Climitra Lab Portal",
@@ -3494,6 +3471,17 @@
   }
  ],
  "awaiting_approval": [
+  {
+   "code": "T824",
+   "name": "SumChu1",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-10-28",
+   "status": "incomplete",
+   "flags": [
+    "ASH 47.00 % db above 12 % db"
+   ],
+   "checks": []
+  },
   {
    "code": "T826",
    "name": "Sumchu3",
