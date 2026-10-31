@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T17:52:02+05:30",
+ "generated": "2026-10-31T18:48:55+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,13 +30,35 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 0,
+ "count": 1,
  "by_test": {
   "MC": 0,
-  "VM": 0,
+  "VM": 1,
   "ASH": 0,
-  "FC": 0,
+  "FC": 1,
   "TM": 0
  },
- "samples": []
+ "samples": [
+  {
+   "code": "T829",
+   "name": "SUM-81 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "VM 27.30 % db above 17.5 % db",
+    "FC 67.35 % db below 72 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM",
+    "FC"
+   ],
+   "moisture": 4.11,
+   "vm_ar": 26.19,
+   "ash_ar": 5.13,
+   "total_moisture": null,
+   "approval_outdated": false
+  }
+ ]
 }
