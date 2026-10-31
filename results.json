@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:34:26+05:30",
+ "generated": "2026-10-31T12:34:51+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 152,
  "counts": {
   "complete": 141,
-  "incomplete": 9,
-  "not started": 2,
+  "incomplete": 11,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3145,7 +3145,7 @@
    "name": "GOR/23",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3162,7 +3162,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W1 | 31-Oct-2026 12:34"
   },
   {
    "code": "T823",
@@ -3289,7 +3289,7 @@
    "name": "gorchu2",
    "supplier": "Climitra Lab Portal",
    "date": "2026-10-29",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3306,7 +3306,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 31-Oct-2026 12:34"
   }
  ],
  "awaiting_approval": []
