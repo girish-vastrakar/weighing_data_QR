@@ -1,4 +1,5 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
+T822,GOR/30,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-29,Moisture,13.63,,,,MC 13.63 % above 10 %,incomplete,
 T823,GOR/31,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-29,Moisture,13.26,,6.32,,MC 13.26 % above 10 %,incomplete,
 T824,SumChu1,Climitra Lab Portal,2026-10-28,Ash,2.05,,46.04,,ASH 47.00 % db above 12 % db,incomplete,
 T825,Sumchu2,Climitra Lab Portal,2026-10-28,Ash,3.41,,46.63,,ASH 48.28 % db above 12 % db,incomplete,
