@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T19:47:44+05:30",
+ "generated": "2026-10-31T23:16:49+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 160,
+ "count": 161,
  "counts": {
-  "complete": 157,
+  "complete": 158,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 2
+  "awaiting approval": 1
  },
  "results": [
   {
@@ -3473,6 +3473,31 @@
    "last_entry": "Girish | Volatile Matter W3 | 31-Oct-2026 18:49",
    "approved_by": "Girish",
    "approved_at": "2026-10-31T18:52:23+05:30"
+  },
+  {
+   "code": "T831",
+   "name": "SUM/35 R3 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-29",
+   "status": "complete",
+   "pending": [],
+   "moisture": 8.48,
+   "total_moisture": null,
+   "vm_loss": 21.17,
+   "vm_ar": 12.69,
+   "vm_db": 13.87,
+   "ash_ar": 20.48,
+   "ash_db": 22.38,
+   "fc_ar": 58.35,
+   "fc_db": 63.76,
+   "flags": [
+    "ASH 22.38 % db above 12 % db",
+    "FC 63.75 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Ash W3 | 31-Oct-2026 19:47",
+   "approved_by": "Girish",
+   "approved_at": "2026-10-31T23:16:42+05:30"
   }
  ],
  "awaiting_approval": [
@@ -3484,18 +3509,6 @@
    "status": "complete",
    "flags": [
     "MC 10.47 % above 10 %"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T831",
-   "name": "SUM/35 R3 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
-   "date": "2026-10-29",
-   "status": "complete",
-   "flags": [
-    "ASH 22.38 % db above 12 % db",
-    "FC 63.75 % db below 72 % db"
    ],
    "checks": []
   }
