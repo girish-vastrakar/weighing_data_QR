@@ -30722,7 +30722,9 @@
    "bal": 2,
    "start": 1793451204859,
    "mins": 7,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793451775655,
+   "outBy": "Supervisor (timer)"
   }
  },
  "settings": {
