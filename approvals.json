@@ -1404,6 +1404,36 @@
     ]
    },
    "via": "results page"
+  },
+  "T693": {
+   "by": "Girish",
+   "at": "2026-10-31T11:33:33+05:30",
+   "flags": "",
+   "checks": "Moisture 8.49 % unusual (usual 3.2 % for Tata 500 PO dMRV · Gorewali · Jumbo bag sampling)",
+   "w": {
+    "MC": [
+     89.4521,
+     90.4571,
+     90.3718
+    ],
+    "VM": [
+     15.6788,
+     16.6737,
+     16.4322
+    ],
+    "ASH": [
+     11.3772,
+     12.3806,
+     11.4133
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "Retest is done",
+   "via": "results page"
   }
  },
  "limits": {
@@ -1428,5 +1458,5 @@
    60
   ]
  },
- "updated": "2026-10-31T11:31:32+05:30"
+ "updated": "2026-10-31T11:33:33+05:30"
 }
