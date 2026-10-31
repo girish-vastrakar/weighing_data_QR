@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T16:27:23+05:30",
+ "generated": "2026-10-31T16:27:51+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3412,9 +3412,10 @@
    "name": "SUM/35 R3 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-29",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 30.57 % db above 12 % db"
+    "ASH 30.57 % db above 12 % db",
+    "FC 55.56 % db below 72 % db"
    ],
    "checks": []
   }

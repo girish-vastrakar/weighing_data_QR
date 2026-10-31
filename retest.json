@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T16:27:23+05:30",
+ "generated": "2026-10-31T16:27:51+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -35,7 +35,7 @@
   "MC": 2,
   "VM": 2,
   "ASH": 6,
-  "FC": 6,
+  "FC": 7,
   "TM": 0
  },
  "samples": [
@@ -227,16 +227,18 @@
    "name": "SUM/35 R3 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-29",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 30.57 % db above 12 % db"
+    "ASH 30.57 % db above 12 % db",
+    "FC 55.56 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
-    "ASH"
+    "ASH",
+    "FC"
    ],
    "moisture": 8.48,
-   "vm_ar": null,
+   "vm_ar": 12.69,
    "ash_ar": 27.98,
    "total_moisture": null,
    "approval_outdated": false
