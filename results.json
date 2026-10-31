@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:46:40+05:30",
+ "generated": "2026-10-31T12:46:47+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 159,
+ "count": 160,
  "counts": {
   "complete": 141,
   "incomplete": 18,
-  "not started": 0,
+  "not started": 1,
   "awaiting approval": 0
  },
  "results": [
@@ -3259,6 +3259,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Moisture W2 | 31-Oct-2026 12:46"
+  },
+  {
+   "code": "T820",
+   "name": "GOR/28",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-29",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
   },
   {
    "code": "T823",
