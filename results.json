@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:57:29+05:30",
+ "generated": "2026-10-31T12:58:09+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3450,7 +3450,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 31-Oct-2026 12:57"
+   "last_entry": "Ramesh | Moisture W2 | 31-Oct-2026 12:57"
   },
   {
    "code": "T828",
