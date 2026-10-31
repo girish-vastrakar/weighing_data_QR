@@ -29376,83 +29376,6 @@
   }
  },
  "runs": {
-  "2026-10-28-O1-mvrznvmu": {
-   "rid": "2026-10-28-O1-mvrznvmu",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 1",
-     "code": "T731",
-     "w2": 82.1392
-    },
-    {
-     "h": "DISH 2",
-     "code": "T732",
-     "w2": 85.8476
-    },
-    {
-     "h": "DISH 3",
-     "code": "T733",
-     "w2": 90.7495
-    },
-    {
-     "h": "DISH 4",
-     "code": "T734",
-     "w2": 90.0072
-    },
-    {
-     "h": "DISH 5",
-     "code": "T735",
-     "w2": 89.416
-    },
-    {
-     "h": "DISH 6",
-     "code": "T736",
-     "w2": 87.3418
-    },
-    {
-     "h": "DISH 7",
-     "code": "T737",
-     "w2": 92.1292
-    },
-    {
-     "h": "DISH 8",
-     "code": "T739",
-     "w2": 87.2587
-    },
-    {
-     "h": "DISH 10",
-     "code": "T740",
-     "w2": 79.1873
-    },
-    {
-     "h": "DISH 11",
-     "code": "T742",
-     "w2": 88.6795
-    },
-    {
-     "h": "DISH 12",
-     "code": "T741",
-     "w2": 88.1973
-    },
-    {
-     "h": "DISH 13",
-     "code": "T743",
-     "w2": 86.1082
-    }
-   ],
-   "bal": 2,
-   "start": 1793184349926,
-   "mins": 60,
-   "by": "Ramesh",
-   "outAt": 1793188127505,
-   "reheat": true,
-   "go": 1793184512830,
-   "goBy": "Ramesh",
-   "outBy": "Ramesh"
-  },
   "2026-10-28-O2-mvs2eb93": {
    "rid": "2026-10-28-O2-mvs2eb93",
    "place": "O2",
@@ -30433,6 +30356,17 @@
    "by": "Supervisor (timer)",
    "outAt": 1793443100099,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-10-31-F1-mvwagrc8": {
+   "rid": "2026-10-31-F1-mvwagrc8",
+   "place": "F1",
+   "test": "VM",
+   "tray": null,
+   "items": [],
+   "bal": 1,
+   "start": 1793444358248,
+   "mins": 7,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
