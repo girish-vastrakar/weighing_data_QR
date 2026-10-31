@@ -1690,6 +1690,36 @@
     ]
    },
    "via": "results page"
+  },
+  "T829": {
+   "by": "Girish",
+   "at": "2026-10-31T19:29:39+05:30",
+   "flags": "VM 27.30 % db above 17.5 %, Fixed carbon 67.35 % db below 72 %",
+   "checks": "Ash 5.35 % db unusual (usual 2.8 % for Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1)",
+   "w": {
+    "MC": [
+     39.8186,
+     40.819,
+     40.7779
+    ],
+    "VM": [
+     15.1173,
+     16.1155,
+     15.8131
+    ],
+    "ASH": [
+     14.1161,
+     15.1183,
+     14.1675
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "RETEST IS DONE OF VM ONLY",
+   "via": "results page"
   }
  },
  "limits": {
@@ -1714,5 +1744,5 @@
    60
   ]
  },
- "updated": "2026-10-31T18:52:23+05:30"
+ "updated": "2026-10-31T19:29:39+05:30"
 }
