@@ -29817,50 +29817,6 @@
   }
  },
  "runs": {
-  "2026-10-28-F2-mvs3whnm": {
-   "rid": "2026-10-28-F2-mvs3whnm",
-   "place": "F2",
-   "test": "ASH",
-   "tray": "ASH 2A",
-   "items": [
-    {
-     "h": "ASH 2A-1",
-     "code": "T730",
-     "w2": 15.0977
-    }
-   ],
-   "bal": 2,
-   "start": 1793191470178,
-   "mins": 60,
-   "by": "Ramesh",
-   "outAt": 1793195124004,
-   "reheat": true,
-   "go": 1793191510578,
-   "goBy": "Ramesh",
-   "outBy": "Ramesh"
-  },
-  "2026-10-28-F1-mvs3xqe8": {
-   "rid": "2026-10-28-F1-mvs3xqe8",
-   "place": "F1",
-   "test": "VM",
-   "tray": "VM 2A",
-   "items": [
-    {
-     "h": "VM 2A-1",
-     "code": "T730",
-     "w2": 15.256
-    }
-   ],
-   "bal": 2,
-   "start": 1793191528160,
-   "mins": 7,
-   "by": "Ramesh",
-   "outAt": 1793192346203,
-   "reheat": true,
-   "go": 1793191869120,
-   "goBy": "Ramesh",
-   "outBy": "Ramesh"
-  },
   "2026-10-29-O1-mvtj11oc": {
    "rid": "2026-10-29-O1-mvtj11oc",
    "place": "O1",
@@ -30726,6 +30682,23 @@
    ],
    "bal": 2,
    "start": 1793450448474,
+   "mins": 60,
+   "by": "Supervisor (timer)"
+  },
+  "2026-10-31-F1-mvweg53q": {
+   "rid": "2026-10-31-F1-mvweg53q",
+   "place": "F1",
+   "test": "ASH",
+   "tray": "ASH W2-7",
+   "items": [
+    {
+     "h": "ASH W2-7-1",
+     "code": "T831",
+     "w2": 15.4997
+    }
+   ],
+   "bal": 2,
+   "start": 1793451047894,
    "mins": 60,
    "by": "Supervisor (timer)"
   }
