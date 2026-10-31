@@ -9023,9 +9023,9 @@
      21.3622
     ],
     "ASH": [
-     null,
-     null,
-     null
+     14.9419,
+     15.9464,
+     14.9842
     ],
     "TM": [
      null,
@@ -9034,7 +9034,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "last": "Girish | Ash typed in from paper (results page) | 31-Oct-2026 11:07",
    "ev": [
     {
      "id": "1793163304308-ehshn",
@@ -9183,6 +9183,51 @@
      "b": 1,
      "via": "paper",
      "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+    },
+    {
+     "id": "1793425070534-pp3h8v-0",
+     "t": 1793425070534,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 14.9419,
+     "o": null,
+     "h": "ASH 1A-5",
+     "via": "paper",
+     "n": "Forgot to assign the weighing machine job",
+     "wb": "Ramesh",
+     "wt": 1793424900000
+    },
+    {
+     "id": "1793425070534-pp3h8v-1",
+     "t": 1793425070534,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 15.9464,
+     "o": null,
+     "h": "ASH 1A-5",
+     "via": "paper",
+     "n": "Forgot to assign the weighing machine job",
+     "wb": "Ramesh",
+     "wt": 1793424900000
+    },
+    {
+     "id": "1793425070534-pp3h8v-2",
+     "t": 1793425070534,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 14.9842,
+     "o": null,
+     "h": "ASH 1A-5",
+     "via": "paper",
+     "n": "Forgot to assign the weighing machine job",
+     "wb": "Ramesh",
+     "wt": 1793424900000
     }
    ],
    "h": {
