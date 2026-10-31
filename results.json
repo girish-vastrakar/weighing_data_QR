@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T16:27:51+05:30",
+ "generated": "2026-10-31T16:31:51+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 152,
+ "count": 153,
  "counts": {
-  "complete": 141,
+  "complete": 142,
   "incomplete": 11,
   "not started": 0,
-  "awaiting approval": 10
+  "awaiting approval": 9
  },
  "results": [
   {
@@ -3299,6 +3299,31 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W2 | 31-Oct-2026 15:41"
+  },
+  {
+   "code": "T828",
+   "name": "gorchu2",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-10-29",
+   "status": "complete",
+   "pending": [],
+   "moisture": 3.82,
+   "total_moisture": null,
+   "vm_loss": 18.23,
+   "vm_ar": 14.41,
+   "vm_db": 14.98,
+   "ash_ar": 50.23,
+   "ash_db": 52.22,
+   "fc_ar": 31.54,
+   "fc_db": 32.8,
+   "flags": [
+    "ASH 52.22 % db above 12 % db",
+    "FC 32.80 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Ramesh | Volatile Matter W3 | 31-Oct-2026 16:26",
+   "approved_by": "Girish",
+   "approved_at": "2026-10-31T16:31:42+05:30"
   }
  ],
  "awaiting_approval": [
@@ -3369,18 +3394,6 @@
    "flags": [
     "ASH 44.68 % db above 12 % db",
     "FC 39.70 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T828",
-   "name": "gorchu2",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-10-29",
-   "status": "complete",
-   "flags": [
-    "ASH 52.22 % db above 12 % db",
-    "FC 32.80 % db below 72 % db"
    ],
    "checks": []
   },
