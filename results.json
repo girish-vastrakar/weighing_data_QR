@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:40:48+05:30",
+ "generated": "2026-10-31T12:41:04+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 157,
  "counts": {
   "complete": 141,
-  "incomplete": 15,
-  "not started": 1,
+  "incomplete": 16,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3409,7 +3409,7 @@
    "name": "SUM/35 R3 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
    "date": "2026-10-29",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3426,7 +3426,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 31-Oct-2026 12:40"
   }
  ],
  "awaiting_approval": []
