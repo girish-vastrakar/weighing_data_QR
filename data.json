@@ -29031,7 +29031,11 @@
    "bal": 2,
    "start": 1793432645194,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "cancelled": {
+    "at": 1793432720448,
+    "by": "Supervisor (timer)"
+   }
   }
  },
  "settings": {
