@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T14:44:14+05:30",
+ "generated": "2026-10-31T14:44:28+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3169,11 +3169,10 @@
    "date": "2026-10-28",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.83,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -3184,7 +3183,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 31-Oct-2026 14:38"
+   "last_entry": "Mohan | Moisture W3 | 31-Oct-2026 14:44"
   },
   {
    "code": "T817",
