@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:30:13+05:30",
+ "generated": "2026-10-31T12:30:52+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 149,
  "counts": {
   "complete": 141,
-  "incomplete": 7,
-  "not started": 1,
+  "incomplete": 8,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3138,7 +3138,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W1 | 31-Oct-2026 12:28"
+   "last_entry": "Mohan | Moisture W2 | 31-Oct-2026 12:30"
   },
   {
    "code": "T823",
@@ -3217,7 +3217,7 @@
    "name": "Sumchu3",
    "supplier": "Climitra Lab Portal",
    "date": "2026-10-28",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3234,7 +3234,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 31-Oct-2026 12:30"
   }
  ],
  "awaiting_approval": []
