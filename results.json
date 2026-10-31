@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T10:56:41+05:30",
+ "generated": "2026-10-31T11:02:35+05:30",
  "names_updated": "2026-10-31T09:12:53+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 143,
+ "count": 144,
  "counts": {
-  "complete": 139,
+  "complete": 140,
   "incomplete": 4,
   "not started": 0,
-  "awaiting approval": 1
+  "awaiting approval": 0
  },
  "results": [
   {
@@ -634,6 +634,31 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Moisture W3 | 27-Oct-2026 18:40"
+  },
+  {
+   "code": "T694",
+   "name": "SUM/04 R3 (26/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-26",
+   "status": "complete",
+   "pending": [],
+   "moisture": 10.63,
+   "total_moisture": null,
+   "vm_loss": 26.34,
+   "vm_ar": 15.71,
+   "vm_db": 17.58,
+   "ash_ar": 6.3,
+   "ash_db": 7.05,
+   "fc_ar": 67.36,
+   "fc_db": 75.37,
+   "flags": [
+    "MC 10.63 % above 10 %",
+    "VM 17.58 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "last_entry": "Ramesh | Moisture W3 | 31-Oct-2026 10:53",
+   "approved_by": "girish",
+   "approved_at": "2026-10-31T11:02:27+05:30"
   },
   {
    "code": "T695",
@@ -3082,18 +3107,5 @@
    "last_entry": "Girish | Ash W3 | 30-Oct-2026 00:07"
   }
  ],
- "awaiting_approval": [
-  {
-   "code": "T694",
-   "name": "SUM/04 R3 (26/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
-   "date": "2026-10-26",
-   "status": "complete",
-   "flags": [
-    "MC 10.63 % above 10 %",
-    "VM 17.58 % db above 17.5 % db"
-   ],
-   "checks": []
-  }
- ]
+ "awaiting_approval": []
 }
