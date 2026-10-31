@@ -27560,7 +27560,9 @@
    "bal": 2,
    "start": 1793420013699,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793423789461,
+   "outBy": "Supervisor (timer)"
   },
   "2026-10-31-O2-mvvw1a6z": {
    "rid": "2026-10-31-O2-mvvw1a6z",
