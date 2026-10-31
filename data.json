@@ -28168,7 +28168,7 @@
      43.3875
     ],
     "VM": [
-     null,
+     16.7625,
      null,
      null
     ],
@@ -28184,7 +28184,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter reset (results page) | 31-Oct-2026 17:50",
+   "last": "Girish | Volatile Matter W1 | 31-Oct-2026 18:17",
    "ev": [
     {
      "id": "1793430551937-2v5jl",
@@ -28343,6 +28343,18 @@
      "k": "VM",
      "h": "VM W2-7-2",
      "o": "VM W2-1-8",
+     "b": 2
+    },
+    {
+     "id": "1793450824219-q9b44",
+     "t": 1793450824219,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 16.7625,
+     "o": null,
+     "h": "VM W2-7-2",
      "b": 2
     }
    ],
