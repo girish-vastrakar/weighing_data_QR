@@ -30701,6 +30701,28 @@
    "start": 1793451047894,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-10-31-F2-mvweji7v": {
+   "rid": "2026-10-31-F2-mvweji7v",
+   "place": "F2",
+   "test": "VM",
+   "tray": "VM W2-7",
+   "items": [
+    {
+     "h": "VM W2-7-1",
+     "code": "T829",
+     "w2": 16.1155
+    },
+    {
+     "h": "VM W2-7-2",
+     "code": "T830",
+     "w2": 17.7647
+    }
+   ],
+   "bal": 2,
+   "start": 1793451204859,
+   "mins": 7,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
