@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T16:26:16+05:30",
+ "generated": "2026-10-31T16:26:38+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3421,9 +3421,10 @@
    "name": "gorchu2",
    "supplier": "Climitra Lab Portal",
    "date": "2026-10-29",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 52.22 % db above 12 % db"
+    "ASH 52.22 % db above 12 % db",
+    "FC 32.80 % db below 72 % db"
    ],
    "checks": []
   },
