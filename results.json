@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T17:52:02+05:30",
+ "generated": "2026-10-31T18:01:30+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -3320,7 +3320,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Moisture reset (results page) | 31-Oct-2026 17:51"
+   "last_entry": "Girish | Moisture W1 | 31-Oct-2026 18:01"
   },
   {
    "code": "T824",
