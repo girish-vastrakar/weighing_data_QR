@@ -2204,6 +2204,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793449303872-rsfflp",
+   "at": "2026-10-31T17:51:43+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T823",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    38.2663,
+    39.2684,
+    39.1355
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-31T12:46:49+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-10-31T12:48:14+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-10-31T14:43:27+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
