@@ -1494,6 +1494,34 @@
    },
    "note": "Already fall under a good FC range no need to do retest",
    "via": "results page"
+  },
+  "T828": {
+   "by": "Girish",
+   "at": "2026-10-31T16:31:42+05:30",
+   "flags": "Ash 52.22 % db above 12 %, Fixed carbon 32.80 % db below 72 %",
+   "w": {
+    "MC": [
+     40.6197,
+     41.6198,
+     41.5816
+    ],
+    "VM": [
+     14.3897,
+     15.3904,
+     15.208
+    ],
+    "ASH": [
+     14.6422,
+     15.6422,
+     15.1445
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -1510,13 +1538,13 @@
    12
   ],
   "FC": [
-   null,
-   null
+   72,
+   100
   ],
   "TM": [
    1.5,
    60
   ]
  },
- "updated": "2026-10-31T11:36:05+05:30"
+ "updated": "2026-10-31T16:31:42+05:30"
 }
