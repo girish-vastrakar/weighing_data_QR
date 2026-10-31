@@ -1464,6 +1464,36 @@
    },
    "note": "Already falls within a good FC range. No need to retest right now.",
    "via": "results page"
+  },
+  "T612": {
+   "by": "Girish",
+   "at": "2026-10-31T11:36:05+05:30",
+   "flags": "",
+   "checks": "Moisture 9.26 % unusual (usual 2.6 % for Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1)",
+   "w": {
+    "MC": [
+     80.5812,
+     81.5838,
+     81.491
+    ],
+    "VM": [
+     15.0741,
+     16.0732,
+     15.856
+    ],
+    "ASH": [
+     12.234,
+     13.2316,
+     12.3155
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "Already fall under a good FC range no need to do retest",
+   "via": "results page"
   }
  },
  "limits": {
@@ -1488,5 +1518,5 @@
    60
   ]
  },
- "updated": "2026-10-31T11:35:18+05:30"
+ "updated": "2026-10-31T11:36:05+05:30"
 }
