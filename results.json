@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:37:37+05:30",
+ "generated": "2026-10-31T12:37:54+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 154,
  "counts": {
   "complete": 141,
-  "incomplete": 12,
-  "not started": 1,
+  "incomplete": 13,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3337,7 +3337,7 @@
    "name": "SUM-81 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
    "date": "2026-10-29",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3354,7 +3354,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 31-Oct-2026 12:37"
   }
  ],
  "awaiting_approval": []
