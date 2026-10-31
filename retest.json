@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T16:32:50+05:30",
+ "generated": "2026-10-31T16:33:13+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,12 +30,12 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 7,
+ "count": 6,
  "by_test": {
   "MC": 2,
   "VM": 2,
-  "ASH": 3,
-  "FC": 4,
+  "ASH": 2,
+  "FC": 3,
   "TM": 0
  },
  "samples": [
@@ -74,27 +74,6 @@
    "moisture": 13.26,
    "vm_ar": 12.64,
    "ash_ar": 6.32,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T826",
-   "name": "Sumchu3",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-10-28",
-   "status": "complete",
-   "flags": [
-    "ASH 50.92 % db above 12 % db",
-    "FC 33.67 % db below 72 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "ASH",
-    "FC"
-   ],
-   "moisture": 2.41,
-   "vm_ar": 15.04,
-   "ash_ar": 49.69,
    "total_moisture": null,
    "approval_outdated": false
   },
