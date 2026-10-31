@@ -28969,6 +28969,58 @@
    "start": 1793432442869,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-10-31-O1-mvw3de9t": {
+   "rid": "2026-10-31-O1-mvw3de9t",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 1",
+     "code": "T814",
+     "w2": 42.6885
+    },
+    {
+     "h": "DISH 2",
+     "code": "T815",
+     "w2": 43.8468
+    },
+    {
+     "h": "DISH 3",
+     "code": "T816",
+     "w2": 43.7483
+    },
+    {
+     "h": "DISH 4",
+     "code": "T817",
+     "w2": 43.3846
+    },
+    {
+     "h": "DISH 5",
+     "code": "T818",
+     "w2": 46.142
+    },
+    {
+     "h": "DISH 6",
+     "code": "T819",
+     "w2": 46.2295
+    },
+    {
+     "h": "DISH 7",
+     "code": "T820",
+     "w2": 42.8721
+    },
+    {
+     "h": "DISH 8",
+     "code": "T821",
+     "w2": 39.9376
+    }
+   ],
+   "bal": 1,
+   "start": 1793432444033,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
