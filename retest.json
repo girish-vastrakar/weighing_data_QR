@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T14:40:38+05:30",
+ "generated": "2026-10-31T14:41:13+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,15 +30,34 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 1,
+ "count": 2,
  "by_test": {
   "MC": 0,
   "VM": 0,
-  "ASH": 1,
+  "ASH": 2,
   "FC": 0,
   "TM": 0
  },
  "samples": [
+  {
+   "code": "T826",
+   "name": "Sumchu3",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-10-28",
+   "status": "incomplete",
+   "flags": [
+    "ASH 50.92 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 2.41,
+   "vm_ar": null,
+   "ash_ar": 49.69,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
   {
    "code": "T828",
    "name": "gorchu2",
