@@ -1,6 +1,5 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
 T822,GOR/30,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-29,Moisture,13.63,,,,MC 13.63 % above 10 %,incomplete,
-T823,GOR/31,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-10-29,Moisture,13.26,12.64,6.32,,MC 13.26 % above 10 %,complete,
 T825,Sumchu2,Climitra Lab Portal,2026-10-28,"Ash, Fixed carbon (check VM and Ash)",3.41,15.38,46.63,,ASH 48.28 % db above 12 % db; FC 35.80 % db below 72 % db,complete,
 T826,Sumchu3,Climitra Lab Portal,2026-10-28,"Ash, Fixed carbon (check VM and Ash)",2.41,15.04,49.69,,ASH 50.92 % db above 12 % db; FC 33.67 % db below 72 % db,complete,
 T827,gorchu1,Climitra Lab Portal,2026-10-29,"Ash, Fixed carbon (check VM and Ash)",2.68,15.2,43.48,,ASH 44.68 % db above 12 % db; FC 39.70 % db below 72 % db,complete,

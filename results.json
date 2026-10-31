@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T16:32:05+05:30",
+ "generated": "2026-10-31T16:32:23+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 154,
+ "count": 155,
  "counts": {
-  "complete": 143,
+  "complete": 144,
   "incomplete": 11,
   "not started": 0,
-  "awaiting approval": 8
+  "awaiting approval": 7
  },
  "results": [
   {
@@ -3301,6 +3301,30 @@
    "last_entry": "Mohan | Volatile Matter W2 | 31-Oct-2026 15:41"
   },
   {
+   "code": "T823",
+   "name": "GOR/31",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-10-29",
+   "status": "complete",
+   "pending": [],
+   "moisture": 13.26,
+   "total_moisture": null,
+   "vm_loss": 25.9,
+   "vm_ar": 12.64,
+   "vm_db": 14.57,
+   "ash_ar": 6.32,
+   "ash_db": 7.28,
+   "fc_ar": 67.78,
+   "fc_db": 78.15,
+   "flags": [
+    "MC 13.26 % above 10 %"
+   ],
+   "checks": [],
+   "last_entry": "Ramesh | Volatile Matter W3 | 31-Oct-2026 16:24",
+   "approved_by": "Girish",
+   "approved_at": "2026-10-31T16:32:14+05:30"
+  },
+  {
    "code": "T824",
    "name": "SumChu1",
    "supplier": "Climitra Lab Portal",
@@ -3360,17 +3384,6 @@
    "status": "incomplete",
    "flags": [
     "MC 13.63 % above 10 %"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T823",
-   "name": "GOR/31",
-   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
-   "date": "2026-10-29",
-   "status": "complete",
-   "flags": [
-    "MC 13.26 % above 10 %"
    ],
    "checks": []
   },
