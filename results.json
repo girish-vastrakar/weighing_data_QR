@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T14:45:28+05:30",
+ "generated": "2026-10-31T14:45:52+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 157,
+ "count": 156,
  "counts": {
   "complete": 141,
-  "incomplete": 16,
+  "incomplete": 15,
   "not started": 0,
-  "awaiting approval": 5
+  "awaiting approval": 6
  },
  "results": [
   {
@@ -3393,29 +3393,6 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Moisture W3 | 31-Oct-2026 14:44"
-  },
-  {
-   "code": "T831",
-   "name": "SUM/35 R3 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
-   "date": "2026-10-29",
-   "status": "incomplete",
-   "pending": [
-    "MC",
-    "VM"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 27.98,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 31-Oct-2026 14:39"
   }
  ],
  "awaiting_approval": [
@@ -3471,6 +3448,17 @@
    "status": "incomplete",
    "flags": [
     "ASH 52.22 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T831",
+   "name": "SUM/35 R3 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-29",
+   "status": "incomplete",
+   "flags": [
+    "ASH 30.57 % db above 12 % db"
    ],
    "checks": []
   }

@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T14:44:14+05:30",
+ "generated": "2026-10-31T14:45:52+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,11 +30,11 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 5,
+ "count": 6,
  "by_test": {
   "MC": 1,
   "VM": 0,
-  "ASH": 4,
+  "ASH": 5,
   "FC": 0,
   "TM": 0
  },
@@ -131,6 +131,25 @@
    "moisture": 3.82,
    "vm_ar": null,
    "ash_ar": 50.23,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T831",
+   "name": "SUM/35 R3 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar · Jumbo bag sampling · Retest 3",
+   "date": "2026-10-29",
+   "status": "incomplete",
+   "flags": [
+    "ASH 30.57 % db above 12 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH"
+   ],
+   "moisture": 8.48,
+   "vm_ar": null,
+   "ash_ar": 27.98,
    "total_moisture": null,
    "approval_outdated": false
   }
