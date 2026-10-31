@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-10-31T16:25:40+05:30",
+ "generated": "2026-10-31T16:25:58+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -35,7 +35,7 @@
   "MC": 2,
   "VM": 0,
   "ASH": 6,
-  "FC": 2,
+  "FC": 3,
   "TM": 0
  },
  "samples": [
@@ -124,16 +124,18 @@
    "name": "Sumchu3",
    "supplier": "Climitra Lab Portal",
    "date": "2026-10-28",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 50.92 % db above 12 % db"
+    "ASH 50.92 % db above 12 % db",
+    "FC 33.67 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
-    "ASH"
+    "ASH",
+    "FC"
    ],
    "moisture": 2.41,
-   "vm_ar": null,
+   "vm_ar": 15.04,
    "ash_ar": 49.69,
    "total_moisture": null,
    "approval_outdated": false
