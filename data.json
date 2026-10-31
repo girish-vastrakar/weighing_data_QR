@@ -10073,21 +10073,31 @@
      "b": 1,
      "via": "paper",
      "n": "W3 from Mohan's paper sheet (28-Oct), entered on Girish's request"
+    },
+    {
+     "id": "1793418732485-9huw3",
+     "t": 1793418732485,
+     "by": "Ramesh",
+     "a": "hold",
+     "k": "ASH",
+     "h": "ASH W2-6-2",
+     "o": "ASH 1A-7",
+     "b": 2
     }
    ],
    "h": {
     "MC": "DISH 7",
-    "ASH": "ASH 1A-7",
+    "ASH": "ASH W2-6-2",
     "VM": "VM 1A-7"
    },
    "ha": {
     "MC": 1793163787869,
-    "ASH": 1793171070685,
+    "ASH": 1793418732485,
     "VM": 1793185299310
    },
    "hb": {
     "MC": 1,
-    "ASH": 1,
+    "ASH": 2,
     "VM": 1
    }
   },
