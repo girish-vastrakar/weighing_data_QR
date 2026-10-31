@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T12:24:13+05:30",
+ "generated": "2026-10-31T12:24:29+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 145,
  "counts": {
   "complete": 141,
-  "incomplete": 3,
-  "not started": 1,
+  "incomplete": 4,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3121,7 +3121,7 @@
    "name": "GOR/31",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-10-29",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3138,7 +3138,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 31-Oct-2026 12:24"
   }
  ],
  "awaiting_approval": []
