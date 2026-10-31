@@ -29749,105 +29749,6 @@
   }
  },
  "runs": {
-  "2026-10-28-O2-mvs2eb93": {
-   "rid": "2026-10-28-O2-mvs2eb93",
-   "place": "O2",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 14",
-     "code": "T744",
-     "w2": 92.9199
-    },
-    {
-     "h": "DISH 15",
-     "code": "T745",
-     "w2": 84.2398
-    },
-    {
-     "h": "DISH 16",
-     "code": "T746",
-     "w2": 90.3865
-    },
-    {
-     "h": "DISH 17",
-     "code": "T747",
-     "w2": 87.1374
-    },
-    {
-     "h": "DISH 18",
-     "code": "T748",
-     "w2": 80.4246
-    },
-    {
-     "h": "DISH 19",
-     "code": "T749",
-     "w2": 76.7698
-    },
-    {
-     "h": "DISH 20",
-     "code": "T750",
-     "w2": 81.3391
-    },
-    {
-     "h": "DISH 21",
-     "code": "T751",
-     "w2": 79.4395
-    },
-    {
-     "h": "DISH 22",
-     "code": "T752",
-     "w2": 90.2049
-    },
-    {
-     "h": "DISH 23",
-     "code": "T753",
-     "w2": 90.3831
-    },
-    {
-     "h": "DISH 24",
-     "code": "T754",
-     "w2": 90.5888
-    },
-    {
-     "h": "DISH 25",
-     "code": "T755",
-     "w2": 84.6297
-    }
-   ],
-   "bal": 2,
-   "start": 1793188942455,
-   "mins": 60,
-   "by": "Ramesh",
-   "outAt": 1793193035803,
-   "reheat": true,
-   "go": 1793189423256,
-   "goBy": "Ramesh",
-   "outBy": "Ramesh"
-  },
-  "2026-10-28-O1-mvs3erns": {
-   "rid": "2026-10-28-O1-mvs3erns",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 26",
-     "code": "T730",
-     "w2": 88.6193
-    }
-   ],
-   "bal": 2,
-   "start": 1793190643336,
-   "mins": 60,
-   "by": "Ramesh",
-   "outAt": 1793194259460,
-   "reheat": true,
-   "go": 1793190655097,
-   "goBy": "Ramesh",
-   "outBy": "Ramesh"
-  },
   "2026-10-28-F2-mvs3whnm": {
    "rid": "2026-10-28-F2-mvs3whnm",
    "place": "F2",
@@ -30742,6 +30643,23 @@
    "by": "Supervisor (timer)",
    "outAt": 1793445109369,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-10-31-O1-mvwe3al6": {
+   "rid": "2026-10-31-O1-mvwe3al6",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 25",
+     "code": "T823",
+     "w2": 38.4217
+    }
+   ],
+   "bal": 2,
+   "start": 1793450448474,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
