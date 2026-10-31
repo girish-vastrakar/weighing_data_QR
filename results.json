@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-10-31T16:26:38+05:30",
+ "generated": "2026-10-31T16:26:55+05:30",
  "names_updated": "2026-10-31T12:21:58+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 154,
+ "count": 153,
  "counts": {
   "complete": 141,
-  "incomplete": 13,
+  "incomplete": 12,
   "not started": 0,
-  "awaiting approval": 8
+  "awaiting approval": 9
  },
  "results": [
   {
@@ -3301,28 +3301,6 @@
    "last_entry": "Mohan | Volatile Matter W2 | 31-Oct-2026 15:41"
   },
   {
-   "code": "T829",
-   "name": "SUM-81 R1 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
-   "date": "2026-10-29",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
-   "moisture": 4.11,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 5.13,
-   "ash_db": 5.35,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 31-Oct-2026 15:22"
-  },
-  {
    "code": "T830",
    "name": "SUM-117 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
@@ -3425,6 +3403,18 @@
    "flags": [
     "ASH 52.22 % db above 12 % db",
     "FC 32.80 % db below 72 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T829",
+   "name": "SUM-81 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Sumrasar-MR · Post-bagging sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "VM 27.09 % db above 17.5 % db",
+    "FC 67.56 % db below 72 % db"
    ],
    "checks": []
   },
