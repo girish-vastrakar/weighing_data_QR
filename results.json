@@ -1,8 +1,8 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T13:12:36+05:30",
- "names_updated": "2026-11-01T09:41:36+05:30",
+ "generated": "2026-11-01T13:12:54+05:30",
+ "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -3873,9 +3873,9 @@
   },
   {
    "code": "T866",
-   "name": "TOP/RIGHT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31",
+   "name": "",
+   "supplier": "",
+   "date": "",
    "status": "not started",
    "pending": [
     "MC",
