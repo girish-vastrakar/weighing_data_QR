@@ -33512,7 +33512,7 @@
      44.8555
     ],
     "VM": [
-     null,
+     15.8902,
      null,
      null
     ],
@@ -33528,7 +33528,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture typed in from paper (results page) | 01-Nov-2026 15:03",
+   "last": "Ramesh | Volatile Matter W1 | 01-Nov-2026 15:54",
    "ev": [
     {
      "id": "1793515865680-41rno",
@@ -33627,6 +33627,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "VM",
+     "h": "VM W2-8-4",
+     "b": 2
+    },
+    {
+     "id": "1793528679873-q7jf9",
+     "t": 1793528679873,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.8902,
+     "o": null,
      "h": "VM W2-8-4",
      "b": 2
     }
