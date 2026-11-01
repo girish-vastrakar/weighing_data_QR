@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T18:10:29+05:30",
+ "generated": "2026-11-01T19:11:47+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 172,
+ "count": 171,
  "counts": {
   "complete": 167,
-  "incomplete": 4,
+  "incomplete": 3,
   "not started": 1,
-  "awaiting approval": 19
+  "awaiting approval": 20
  },
  "results": [
   {
@@ -3684,28 +3684,6 @@
    "last_entry": "Ramesh | Volatile Matter W3 | 01-Nov-2026 17:32"
   },
   {
-   "code": "T865",
-   "name": "CH2/28",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": 16.87,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 17.62,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Moisture W2 | 01-Nov-2026 18:09"
-  },
-  {
    "code": "T866",
    "name": "",
    "supplier": "",
@@ -3950,6 +3928,18 @@
    "status": "complete",
    "flags": [
     "MC 13.84 % above 10 %"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T865",
+   "name": "CH2/28",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "flags": [
+    "ASH 18.47 % db above 12 % db",
+    "FC 68.68 % db below 72 % db"
    ],
    "checks": []
   }
