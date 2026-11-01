@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T16:43:54+05:30",
+ "generated": "2026-11-01T16:44:37+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -3592,21 +3592,20 @@
    "date": "2026-10-27",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 6.85,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.25,
+   "ash_db": 4.56,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 01-Nov-2026 16:01"
+   "last_entry": "Ramesh | Ash W3 | 01-Nov-2026 16:44"
   },
   {
    "code": "T860",
