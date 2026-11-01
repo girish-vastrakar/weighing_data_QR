@@ -34747,7 +34747,9 @@
    "bal": 2,
    "start": 1793518481793,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793522728390,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-01-O1-mvxilxrs": {
    "rid": "2026-11-01-O1-mvxilxrs",
