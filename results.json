@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T17:30:19+05:30",
+ "generated": "2026-11-01T17:30:37+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -3924,9 +3924,10 @@
    "name": "CH2/19",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 24.64 % db above 12 % db"
+    "ASH 24.64 % db above 12 % db",
+    "FC 63.10 % db below 72 % db"
    ],
    "checks": []
   },
