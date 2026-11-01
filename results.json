@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T14:57:51+05:30",
+ "generated": "2026-11-01T14:58:12+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 177,
+ "count": 176,
  "counts": {
   "complete": 161,
-  "incomplete": 15,
+  "incomplete": 14,
   "not started": 1,
-  "awaiting approval": 14
+  "awaiting approval": 15
  },
  "results": [
   {
@@ -3564,29 +3564,6 @@
    "last_entry": "Ramesh | Ash W3 | 01-Nov-2026 14:57"
   },
   {
-   "code": "T854",
-   "name": "CH2/17",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 4.24,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Moisture W3 | 01-Nov-2026 14:48"
-  },
-  {
    "code": "T855",
    "name": "CH2/18",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
@@ -4033,6 +4010,17 @@
    "status": "complete",
    "flags": [
     "ASH 14.55 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T854",
+   "name": "CH2/17",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "flags": [
+    "ASH 15.08 % db above 12 % db"
    ],
    "checks": []
   }
