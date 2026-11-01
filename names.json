@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-01T09:41:36+05:30",
+ "updated": "2026-11-01T13:12:46+05:30",
  "source": "sample_code / Name Tags",
- "count": 869,
+ "count": 860,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -4699,51 +4699,6 @@
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-27",
    "machine": "W2"
-  },
-  "T866": {
-   "name": "TOP/RIGHT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T867": {
-   "name": "TOP/MIDDLE",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T868": {
-   "name": "TOP/LEFT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T869": {
-   "name": "MIDDLE/RIGHT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T870": {
-   "name": "MIDDLE/CENTER",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T871": {
-   "name": "MIDDLE/LEFT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T872": {
-   "name": "BOTTOM/LEFT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T873": {
-   "name": "BOTTOM/CENTRE",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
-  },
-  "T874": {
-   "name": "BOTTOM/RIGHT",
-   "supplier": "Kontiki/Normal",
-   "date": "2026-10-31"
   }
  }
 }
