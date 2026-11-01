@@ -2287,6 +2287,21 @@
     "at": "2026-11-01T12:48:20+05:30",
     "by": "Ramesh"
    }
+  },
+  {
+   "id": "1793525628400-pp2kuc-0",
+   "at": "2026-11-01T15:03:48+05:30",
+   "by": "Girish",
+   "action": "paper",
+   "code": "T857",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 3,
+   "old": null,
+   "new": 44.8555,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedAt": "2026-11-01T15:03:00+05:30"
   }
  ]
 }
