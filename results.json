@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T16:45:47+05:30",
+ "generated": "2026-11-01T16:46:36+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -3680,21 +3680,20 @@
    "date": "2026-10-27",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 4.58,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.39,
+   "ash_db": 4.6,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 01-Nov-2026 16:35"
+   "last_entry": "Ramesh | Ash W3 | 01-Nov-2026 16:46"
   },
   {
    "code": "T865",
