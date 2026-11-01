@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T11:41:02+05:30",
+ "generated": "2026-11-01T11:41:46+05:30",
  "names_updated": "2026-11-01T09:41:36+05:30",
  "limits": {
   "MC": [
@@ -3905,7 +3905,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 01-Nov-2026 11:03"
+   "last_entry": "Ramesh | Moisture W1 | 01-Nov-2026 11:41"
   }
  ],
  "awaiting_approval": []
