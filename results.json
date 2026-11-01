@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T17:05:28+05:30",
+ "generated": "2026-11-01T17:06:46+05:30",
  "names_updated": "2026-11-01T13:12:46+05:30",
  "limits": {
   "MC": [
@@ -3716,7 +3716,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 01-Nov-2026 17:05"
+   "last_entry": "Ramesh | Moisture W2 | 01-Nov-2026 17:06"
   },
   {
    "code": "T866",
