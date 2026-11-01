@@ -35112,6 +35112,38 @@
    "by": "Supervisor (timer)",
    "outAt": 1793524523585,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-01-O1-mvxm76qm": {
+   "rid": "2026-11-01-O1-mvxm76qm",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 20",
+     "code": "T862",
+     "w2": 43.7593
+    },
+    {
+     "h": "DISH 28",
+     "code": "T863",
+     "w2": 41.6253
+    },
+    {
+     "h": "DISH 22",
+     "code": "T864",
+     "w2": 43.4096
+    },
+    {
+     "h": "DISH 26",
+     "code": "T865",
+     "w2": 42.7502
+    }
+   ],
+   "bal": 2,
+   "start": 1793524533214,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
