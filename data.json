@@ -35109,7 +35109,9 @@
    "bal": 2,
    "start": 1793518502968,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793524523585,
+   "outBy": "Supervisor (timer)"
   }
  },
  "settings": {
