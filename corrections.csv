@@ -1,4 +1,6 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+01-Nov-2026 17:04,Girish,reset,T865,CH2/28,Moisture,W1,41.7474,,,Ramesh,01-Nov-2026 14:42,,1793532847873-rsc18y
+01-Nov-2026 17:04,Girish,reset,T865,CH2/28,Moisture,W2,42.7502,,,Ramesh,01-Nov-2026 14:43,,1793532847873-rsc18y
 01-Nov-2026 15:03,Girish,paper,T857,CH2/20,Moisture,W3,,44.8555,,,,,1793525628400-pp2kuc-0
 01-Nov-2026 12:54,Ramesh,overwrite,T858,CH2/21,Moisture,W2,40.293,40.299,,Ramesh,01-Nov-2026 12:48,,1793517864160-sy4iv
 31-Oct-2026 19:47,Girish,overwrite,T831,SUM/35 R3 (29/10),Ash,W3,14.7,14.6998,,Girish,31-Oct-2026 19:45,,1793456254984-bmeif
