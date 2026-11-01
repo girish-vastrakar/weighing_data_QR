@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T11:53:34+05:30",
+ "generated": "2026-11-01T11:53:51+05:30",
  "names_updated": "2026-11-01T09:41:36+05:30",
  "limits": {
   "MC": [
@@ -3751,12 +3751,11 @@
    "status": "incomplete",
    "pending": [
     "MC",
-    "VM",
     "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 16.87,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -3765,7 +3764,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 01-Nov-2026 10:54"
+   "last_entry": "Ramesh | Volatile Matter W3 | 01-Nov-2026 11:53"
   },
   {
    "code": "T849",
