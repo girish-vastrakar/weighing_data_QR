@@ -2302,6 +2302,37 @@
    "saved": null,
    "via": "results page, paper sheet",
    "weighedAt": "2026-11-01T15:03:00+05:30"
+  },
+  {
+   "id": "1793532847873-rsc18y",
+   "at": "2026-11-01T17:04:07+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T865",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    41.7474,
+    42.7502,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T14:42:25+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T14:43:59+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
