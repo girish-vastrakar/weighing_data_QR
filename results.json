@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T11:51:22+05:30",
+ "generated": "2026-11-01T11:51:40+05:30",
  "names_updated": "2026-11-01T09:41:36+05:30",
  "limits": {
   "MC": [
@@ -3596,12 +3596,11 @@
    "date": "2026-10-27",
    "status": "incomplete",
    "pending": [
-    "MC",
-    "VM"
+    "MC"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 17.28,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": 16.36,
@@ -3610,7 +3609,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 01-Nov-2026 11:46"
+   "last_entry": "Ramesh | Volatile Matter W3 | 01-Nov-2026 11:51"
   },
   {
    "code": "T842",
