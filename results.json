@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-01T12:19:43+05:30",
+ "generated": "2026-11-01T12:20:08+05:30",
  "names_updated": "2026-11-01T09:41:36+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 181,
  "counts": {
   "complete": 159,
-  "incomplete": 21,
-  "not started": 1,
+  "incomplete": 22,
+  "not started": 0,
   "awaiting approval": 0
  },
  "results": [
@@ -3934,7 +3934,7 @@
    "name": "CH2/19",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-27",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -3951,7 +3951,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 01-Nov-2026 12:19"
   }
  ],
  "awaiting_approval": []
