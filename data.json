@@ -167,7 +167,8 @@
   "T838",
   "T839",
   "T840",
-  "T841"
+  "T841",
+  "T842"
  ],
  "samples": {
   "T612": {
@@ -30145,6 +30146,33 @@
    "hb": {
     "MC": 2
    }
+  },
+  "T842": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
