@@ -231,7 +231,8 @@
   "T905",
   "T904",
   "T894",
-  "T895"
+  "T895",
+  "T906"
  ],
  "samples": {
   "T612": {
@@ -41504,6 +41505,33 @@
    "hb": {
     "MC": 1
    }
+  },
+  "T906": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
