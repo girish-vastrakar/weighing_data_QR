@@ -40546,7 +40546,9 @@
    "bal": 2,
    "start": 1793595706105,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793599335771,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-02-F1-mvysmva4": {
    "rid": "2026-11-02-F1-mvysmva4",
