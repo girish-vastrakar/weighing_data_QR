@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T17:47:01+05:30",
+ "generated": "2026-11-02T17:47:32+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4280,21 +4280,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
     "ASH"
    ],
    "moisture": 3.42,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 16.29,
+   "vm_ar": 12.87,
+   "vm_db": 13.33,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 02-Nov-2026 17:01"
+   "last_entry": "Ramesh | Volatile Matter W3 | 02-Nov-2026 17:47"
   },
   {
    "code": "T908",
