@@ -14780,7 +14780,7 @@
      15.1513
     ],
     "ASH": [
-     null,
+     14.0436,
      null,
      null
     ],
@@ -14791,7 +14791,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
+   "last": "Mohan | Ash W1 | 02-Nov-2026 09:03",
    "ev": [
     {
      "id": "1793168082105-llmeg",
@@ -14891,6 +14891,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "ASH",
+     "h": "ASH W1-2-1",
+     "b": 1
+    },
+    {
+     "id": "1793590439846-2uihn",
+     "t": 1793590439846,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 14.0436,
+     "o": null,
      "h": "ASH W1-2-1",
      "b": 1
     }
