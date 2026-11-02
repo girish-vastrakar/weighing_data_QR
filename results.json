@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T08:44:44+05:30",
+ "generated": "2026-11-02T09:04:09+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 171,
+ "count": 170,
  "counts": {
   "complete": 167,
-  "incomplete": 3,
+  "incomplete": 2,
   "not started": 1,
-  "awaiting approval": 20
+  "awaiting approval": 21
  },
  "results": [
   {
@@ -1377,32 +1377,6 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Ash W3 | 31-Oct-2026 10:56"
-  },
-  {
-   "code": "T728",
-   "name": "CH1/20",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
-   "moisture": 10.5,
-   "total_moisture": null,
-   "vm_loss": 22.57,
-   "vm_ar": 12.08,
-   "vm_db": 13.49,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [
-    "MC 10.50 % above 10 %"
-   ],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 (paper sheet) | 28-Oct-2026 20:41",
-   "approved_by": "girish",
-   "approved_at": "2026-10-28T20:51:32+05:30"
   },
   {
    "code": "T729",
@@ -3709,6 +3683,17 @@
   }
  ],
  "awaiting_approval": [
+  {
+   "code": "T728",
+   "name": "CH1/20",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "flags": [
+    "MC 10.50 % above 10 %"
+   ],
+   "checks": []
+  },
   {
    "code": "T838",
    "name": "CH2/01",
