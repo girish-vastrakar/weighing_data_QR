@@ -1,6 +1,6 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
 T728,CH1/20,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Moisture,10.5,12.08,8.9,,MC 10.50 % above 10 %,complete,yes
-T729,CH1/21,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,"Moisture, Ash",11.59,11.33,11.05,,MC 11.59 % above 10 %; ASH 12.50 % db above 12 % db,complete,yes
+T729,CH1/21,Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling,2026-10-27,Moisture,11.59,11.33,,,MC 11.59 % above 10 %,incomplete,yes
 T838,CH2/01,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-27,"Ash, Fixed carbon (check VM and Ash)",3.74,11.48,18.15,,ASH 18.86 % db above 12 % db; FC 69.20 % db below 72 % db,complete,
 T839,CH2/02,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-27,"Moisture, Ash, Fixed carbon (check VM and Ash)",12.55,10.27,15.24,,MC 12.55 % above 10 %; ASH 17.43 % db above 12 % db; FC 70.83 % db below 72 % db,complete,
 T840,CH2/03,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-27,"Ash, Fixed carbon (check VM and Ash)",4.67,11.06,31.84,,ASH 33.40 % db above 12 % db; FC 55.00 % db below 72 % db,complete,
