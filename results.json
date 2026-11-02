@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T15:32:20+05:30",
+ "generated": "2026-11-02T15:32:42+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -39,10 +39,10 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 207,
+ "count": 208,
  "counts": {
   "complete": 183,
-  "incomplete": 24,
+  "incomplete": 25,
   "not started": 0,
   "awaiting approval": 27
  },
@@ -4478,6 +4478,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Moisture W2 | 02-Nov-2026 14:59"
+  },
+  {
+   "code": "T911",
+   "name": "CH2/74",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-31",
+   "status": "incomplete",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Ramesh | Volatile Matter W1 | 02-Nov-2026 15:32"
   }
  ],
  "awaiting_approval": [
