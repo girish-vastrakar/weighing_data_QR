@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T14:33:22+05:30",
+ "generated": "2026-11-02T14:33:34+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4002,21 +4002,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.42,
    "total_moisture": null,
    "vm_loss": 13.74,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 10.32,
+   "vm_db": 10.68,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:02"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 14:33"
   },
   {
    "code": "T889",
