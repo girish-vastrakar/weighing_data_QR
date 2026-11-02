@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:46:12+05:30",
+ "generated": "2026-11-02T16:47:44+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 210,
  "counts": {
-  "complete": 189,
-  "incomplete": 21,
+  "complete": 191,
+  "incomplete": 19,
   "not started": 0,
   "awaiting approval": 29
  },
@@ -4276,44 +4276,40 @@
    "name": "CH2/67",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.38,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 17.15,
+   "vm_ar": 13.77,
+   "vm_db": 14.25,
    "ash_ar": 10.73,
    "ash_db": 11.11,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 72.12,
+   "fc_db": 74.64,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 02-Nov-2026 16:24"
+   "last_entry": "Ramesh | Volatile Matter W3 | 02-Nov-2026 16:46"
   },
   {
    "code": "T905",
    "name": "CH2/68",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.57,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 13.94,
+   "vm_ar": 11.37,
+   "vm_db": 11.67,
    "ash_ar": 2.62,
    "ash_db": 2.68,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 83.45,
+   "fc_db": 85.64,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 02-Nov-2026 16:24"
+   "last_entry": "Ramesh | Volatile Matter W3 | 02-Nov-2026 16:47"
   },
   {
    "code": "T906",
@@ -4415,12 +4411,11 @@
    "status": "incomplete",
    "pending": [
     "MC",
-    "VM",
     "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 13.55,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -4429,7 +4424,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W2 | 02-Nov-2026 16:26"
+   "last_entry": "Ramesh | Volatile Matter W3 | 02-Nov-2026 16:47"
   },
   {
    "code": "T912",
