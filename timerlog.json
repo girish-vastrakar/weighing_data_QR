@@ -89,12 +89,12 @@
    "started": "2026-11-02T14:15:58+05:30",
    "ready": "2026-11-02T14:30:58+05:30",
    "events": [],
-   "takenOut": null,
+   "takenOut": "2026-11-02T14:45:22+05:30",
    "stoppedEarly": false,
-   "actualMin": null,
+   "actualMin": 29.4,
    "cancelled": null,
    "device": "4uqwe4",
-   "updated": "2026-11-02T14:15:58+05:30"
+   "updated": "2026-11-02T14:45:22+05:30"
   }
  }
 }
