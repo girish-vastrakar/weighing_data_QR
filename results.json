@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T17:28:14+05:30",
+ "generated": "2026-11-02T17:28:28+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 210,
  "counts": {
-  "complete": 194,
-  "incomplete": 16,
+  "complete": 195,
+  "incomplete": 15,
   "not started": 0,
   "awaiting approval": 30
  },
@@ -4016,22 +4016,20 @@
    "name": "CH2/53",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.36,
    "total_moisture": null,
    "vm_loss": 18.08,
    "vm_ar": 15.72,
    "vm_db": 16.1,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 4.84,
+   "ash_db": 4.96,
+   "fc_ar": 77.08,
+   "fc_db": 78.95,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 02-Nov-2026 15:19"
+   "last_entry": "Ramesh | Ash W3 | 02-Nov-2026 17:28"
   },
   {
    "code": "T891",
