@@ -42624,7 +42624,16 @@
     72,
     100
    ]
-  }
+  },
+  "soundFiles": [
+   {
+    "key": "umvyz8n6u",
+    "name": "open oven",
+    "path": "sounds/umvyz8n6u.ogg",
+    "by": "Girish",
+    "at": 1793606903969
+   }
+  ]
  },
  "cards": {
   "ASH W3-1": {
