@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T12:25:31+05:30",
+ "generated": "2026-11-02T12:25:41+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -3770,21 +3770,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 7.15,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.27,
+   "ash_db": 4.6,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 11:30"
+   "last_entry": "Mohan | Ash W3 | 02-Nov-2026 12:25"
   },
   {
    "code": "T873",
