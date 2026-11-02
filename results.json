@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T09:44:22+05:30",
+ "generated": "2026-11-02T09:44:57+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 184,
  "counts": {
   "complete": 167,
-  "incomplete": 16,
-  "not started": 1,
+  "incomplete": 17,
+  "not started": 0,
   "awaiting approval": 22
  },
  "results": [
@@ -3996,7 +3996,7 @@
    "name": "CH2/46",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -4013,7 +4013,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 02-Nov-2026 09:44"
   }
  ],
  "awaiting_approval": [
