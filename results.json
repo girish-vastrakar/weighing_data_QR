@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T10:16:35+05:30",
+ "generated": "2026-11-02T10:17:04+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -3773,7 +3773,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 02-Nov-2026 09:36"
+   "last_entry": "Mohan | Ash W1 | 02-Nov-2026 10:16"
   },
   {
    "code": "T872",
@@ -4037,7 +4037,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W2 | 02-Nov-2026 09:43"
+   "last_entry": "Ramesh | Ash W1 | 02-Nov-2026 10:16"
   },
   {
    "code": "T883",
