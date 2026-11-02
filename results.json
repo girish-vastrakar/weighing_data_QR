@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T13:00:05+05:30",
+ "generated": "2026-11-02T13:00:27+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 203,
  "counts": {
-  "complete": 181,
-  "incomplete": 22,
+  "complete": 182,
+  "incomplete": 21,
   "not started": 0,
   "awaiting approval": 25
  },
@@ -3716,22 +3716,20 @@
    "name": "CH2/35",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 7.15,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 20.35,
+   "vm_ar": 13.21,
+   "vm_db": 14.22,
    "ash_ar": 4.27,
    "ash_db": 4.6,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 75.38,
+   "fc_db": 81.18,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W3 | 02-Nov-2026 12:25"
+   "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:00"
   },
   {
    "code": "T874",
