@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:32:17+05:30",
+ "generated": "2026-11-02T16:33:56+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4513,7 +4513,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 02-Nov-2026 16:31"
+   "last_entry": "Ramesh | Moisture W2 | 02-Nov-2026 16:33"
   },
   {
    "code": "T915",
