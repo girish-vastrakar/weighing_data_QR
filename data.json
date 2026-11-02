@@ -43513,34 +43513,6 @@
   }
  },
  "runs": {
-  "2026-10-30-F2-mvuugoh0": {
-   "rid": "2026-10-30-F2-mvuugoh0",
-   "place": "F2",
-   "test": "VM",
-   "tray": null,
-   "items": [],
-   "bal": 0,
-   "start": 1793357014500,
-   "mins": 7,
-   "by": "Supervisor (timer)",
-   "cancelled": {
-    "at": 1793357024814,
-    "by": "Supervisor (timer)"
-   }
-  },
-  "2026-10-30-F1-mvuuh1f2": {
-   "rid": "2026-10-30-F1-mvuuh1f2",
-   "place": "F1",
-   "test": "VM",
-   "tray": null,
-   "items": [],
-   "bal": 0,
-   "start": 1793357031278,
-   "mins": 7,
-   "by": "Supervisor (timer)",
-   "outAt": 1793357470900,
-   "outBy": "Supervisor (timer)"
-  },
   "2026-10-30-F2-mvuw656y": {
    "rid": "2026-10-30-F2-mvuw656y",
    "place": "F2",
@@ -45152,6 +45124,38 @@
    "by": "Supervisor (timer)",
    "outAt": 1793616942250,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-02-O1-mvz5tnpm": {
+   "rid": "2026-11-02-O1-mvz5tnpm",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 27",
+     "code": "T911",
+     "w2": 44.8567
+    },
+    {
+     "h": "DISH 18",
+     "code": "T912",
+     "w2": 39.8081
+    },
+    {
+     "h": "DISH 23",
+     "code": "T913",
+     "w2": 44.959
+    },
+    {
+     "h": "DISH 19",
+     "code": "T914",
+     "w2": 42.5698
+    }
+   ],
+   "bal": 2,
+   "start": 1793617960522,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
