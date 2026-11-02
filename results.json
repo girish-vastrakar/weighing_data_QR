@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:24:41+05:30",
+ "generated": "2026-11-02T16:25:08+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4112,11 +4112,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.09,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -4127,7 +4126,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 02-Nov-2026 15:27"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 16:24"
   },
   {
    "code": "T895",
