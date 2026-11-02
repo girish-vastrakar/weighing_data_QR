@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T14:36:31+05:30",
+ "generated": "2026-11-02T14:36:59+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4090,21 +4090,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 1.94,
    "total_moisture": null,
    "vm_loss": 16.84,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 14.9,
+   "vm_db": 15.19,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:04"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 14:36"
   },
   {
    "code": "T896",
