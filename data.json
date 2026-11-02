@@ -44595,7 +44595,9 @@
    "bal": 1,
    "start": 1793611940775,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793615560847,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-02-F1-mvz3iq0x": {
    "rid": "2026-11-02-F1-mvz3iq0x",
