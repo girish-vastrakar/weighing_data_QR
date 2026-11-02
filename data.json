@@ -39642,7 +39642,9 @@
    "bal": 1,
    "start": 1793593658999,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793597729270,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-02-F2-mvysko3d": {
    "rid": "2026-11-02-F2-mvysko3d",
