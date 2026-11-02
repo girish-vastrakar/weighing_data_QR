@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:47:44+05:30",
+ "generated": "2026-11-02T16:48:11+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4434,12 +4434,11 @@
    "status": "incomplete",
    "pending": [
     "MC",
-    "VM",
     "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 14.62,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -4448,7 +4447,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W2 | 02-Nov-2026 16:29"
+   "last_entry": "Ramesh | Volatile Matter W3 | 02-Nov-2026 16:47"
   },
   {
    "code": "T913",
