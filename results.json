@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T09:24:49+05:30",
+ "generated": "2026-11-02T09:26:07+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 170,
+ "count": 171,
  "counts": {
   "complete": 167,
   "incomplete": 3,
-  "not started": 0,
+  "not started": 1,
   "awaiting approval": 22
  },
  "results": [
@@ -3677,7 +3677,31 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W1 | 02-Nov-2026 09:24"
+   "last_entry": "Mohan | Moisture W2 | 02-Nov-2026 09:25"
+  },
+  {
+   "code": "T876",
+   "name": "CH2/39",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-31",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
   }
  ],
  "awaiting_approval": [
