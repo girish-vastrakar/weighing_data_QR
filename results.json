@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:22:08+05:30",
+ "generated": "2026-11-02T16:22:46+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 211,
+ "count": 210,
  "counts": {
   "complete": 183,
-  "incomplete": 28,
+  "incomplete": 27,
   "not started": 0,
-  "awaiting approval": 28
+  "awaiting approval": 29
  },
  "results": [
   {
@@ -4219,29 +4219,6 @@
    "last_entry": "Ramesh | Ash W3 | 02-Nov-2026 16:22"
   },
   {
-   "code": "T900",
-   "name": "CH2/63",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 2.98,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 02-Nov-2026 15:21"
-  },
-  {
    "code": "T901",
    "name": "CH2/64",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
@@ -4363,11 +4340,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.28,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -4378,7 +4354,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 02-Nov-2026 14:50"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 16:22"
   },
   {
    "code": "T907",
@@ -4894,6 +4870,17 @@
    "status": "incomplete",
    "flags": [
     "ASH 18.21 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T900",
+   "name": "CH2/63",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-31",
+   "status": "incomplete",
+   "flags": [
+    "ASH 14.34 % db above 12 % db"
    ],
    "checks": []
   }
