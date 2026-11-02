@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T11:25:26+05:30",
+ "generated": "2026-11-02T11:25:56+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -3877,11 +3877,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 5.78,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -3892,7 +3891,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 02-Nov-2026 10:52"
+   "last_entry": "Ramesh | Moisture W3 | 02-Nov-2026 11:25"
   },
   {
    "code": "T877",
@@ -4133,11 +4132,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.08,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -4148,7 +4146,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 02-Nov-2026 11:18"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 11:25"
   },
   {
    "code": "T888",
