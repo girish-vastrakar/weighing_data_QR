@@ -42486,7 +42486,9 @@
    "bal": 1,
    "start": 1793604316619,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793608859687,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-02-O2-mvyxs5si": {
    "rid": "2026-11-02-O2-mvyxs5si",
