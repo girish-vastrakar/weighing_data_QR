@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-02T17:30:10+05:30",
+ "generated": "2026-11-02T17:46:29+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -35,7 +35,7 @@
   "MC": 5,
   "VM": 4,
   "ASH": 24,
-  "FC": 16,
+  "FC": 17,
   "TM": 0
  },
  "samples": [
@@ -608,16 +608,18 @@
    "name": "CH2/58",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 33.62 % db above 12 % db"
+    "ASH 33.62 % db above 12 % db",
+    "FC 56.13 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
-    "ASH"
+    "ASH",
+    "FC"
    ],
    "moisture": 2.63,
-   "vm_ar": null,
+   "vm_ar": 9.98,
    "ash_ar": 32.74,
    "total_moisture": null,
    "approval_outdated": false
