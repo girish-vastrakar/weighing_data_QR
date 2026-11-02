@@ -45376,19 +45376,11 @@
     100
    ]
   },
-  "soundFiles": [
-   {
-    "key": "umvyz8n6u",
-    "name": "open oven",
-    "path": "sounds/umvyz8n6u.ogg",
-    "by": "Girish",
-    "at": 1793606903969
-   }
-  ],
+  "soundFiles": [],
   "sounds": {
-   "MC": "umvyz8n6u",
-   "VM": "umvyz8n6u",
-   "ASH": "umvyz8n6u"
+   "MC": "",
+   "VM": "",
+   "ASH": ""
   }
  },
  "cards": {
