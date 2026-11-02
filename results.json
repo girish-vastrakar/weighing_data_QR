@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T16:21:41+05:30",
+ "generated": "2026-11-02T16:22:08+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -4203,21 +4203,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.87,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 6.91,
+   "ash_db": 7.12,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 02-Nov-2026 15:18"
+   "last_entry": "Ramesh | Ash W3 | 02-Nov-2026 16:22"
   },
   {
    "code": "T900",
@@ -4412,11 +4411,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 2.38,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -4427,7 +4425,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 02-Nov-2026 14:56"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 16:21"
   },
   {
    "code": "T909",
