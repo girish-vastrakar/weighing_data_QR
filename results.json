@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T11:31:57+05:30",
+ "generated": "2026-11-02T11:38:30+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 193,
  "counts": {
   "complete": 167,
-  "incomplete": 24,
-  "not started": 2,
+  "incomplete": 25,
+  "not started": 1,
   "awaiting approval": 22
  },
  "results": [
@@ -4166,7 +4166,7 @@
    "name": "CH2/52",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -4183,7 +4183,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Volatile Matter W1 | 02-Nov-2026 11:38"
   },
   {
    "code": "T896",
