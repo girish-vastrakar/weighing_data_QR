@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-02T14:33:34+05:30",
+ "generated": "2026-11-02T14:34:39+05:30",
  "names_updated": "2026-11-02T08:44:35+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 202,
+ "count": 201,
  "counts": {
   "complete": 183,
-  "incomplete": 19,
+  "incomplete": 18,
   "not started": 0,
-  "awaiting approval": 26
+  "awaiting approval": 27
  },
  "results": [
   {
@@ -4070,21 +4070,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.73,
    "total_moisture": null,
    "vm_loss": 17.39,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 13.67,
+   "vm_db": 14.19,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:03"
+   "last_entry": "Mohan | Moisture W3 | 02-Nov-2026 14:34"
   },
   {
    "code": "T892",
@@ -4108,29 +4107,6 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:04"
-  },
-  {
-   "code": "T893",
-   "name": "CH2/56",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "MC",
-    "ASH"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": 21.7,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 02-Nov-2026 13:05"
   },
   {
    "code": "T896",
@@ -4673,6 +4649,17 @@
    "status": "complete",
    "flags": [
     "VM 18.00 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T893",
+   "name": "CH2/56",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-31",
+   "status": "incomplete",
+   "flags": [
+    "VM 19.22 % db above 17.5 % db"
    ],
    "checks": []
   }
