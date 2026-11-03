@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-03T09:21:08+05:30",
+ "updated": "2026-11-03T12:02:16+05:30",
  "source": "sample_code / Name Tags",
- "count": 992,
+ "count": 1007,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -5429,6 +5429,81 @@
    "name": "CH2/160",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31"
+  },
+  "T998": {
+   "name": "GOR/32",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T999": {
+   "name": "GOR/33",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1000": {
+   "name": "GOR/34",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1001": {
+   "name": "GOR/35",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1002": {
+   "name": "GOR/36",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1003": {
+   "name": "GOR/37",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1004": {
+   "name": "GOR/38",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1005": {
+   "name": "GOR/39",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1006": {
+   "name": "GOR/40",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1007": {
+   "name": "GOR/41",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1008": {
+   "name": "GOR/42",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1009": {
+   "name": "GOR/43",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1010": {
+   "name": "GOR/44",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1011": {
+   "name": "GOR/45",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
+  },
+  "T1012": {
+   "name": "GOR/46",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-02"
   }
  }
 }
