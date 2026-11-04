@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-04T17:54:24+05:30",
+ "generated": "2026-11-04T17:54:51+05:30",
  "names_updated": "2026-11-04T15:32:14+05:30",
  "limits": {
   "MC": [
@@ -4547,11 +4547,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 4.33,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -4562,7 +4561,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 04-Nov-2026 16:55"
+   "last_entry": "Mohan | Moisture W3 | 04-Nov-2026 17:54"
   },
   {
    "code": "T939",
