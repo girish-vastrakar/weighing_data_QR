@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-04T18:34:25+05:30",
+ "generated": "2026-11-04T18:34:43+05:30",
  "names_updated": "2026-11-04T15:32:14+05:30",
  "limits": {
   "MC": [
@@ -4733,12 +4733,11 @@
    "status": "incomplete",
    "pending": [
     "MC",
-    "VM",
     "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 17.44,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -4747,7 +4746,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 04-Nov-2026 17:28"
+   "last_entry": "Mohan | Volatile Matter W3 | 04-Nov-2026 18:34"
   },
   {
    "code": "T952",
