@@ -253,7 +253,8 @@
   "T940",
   "T941",
   "T942",
-  "T943"
+  "T943",
+  "T944"
  ],
  "samples": {
   "T612": {
@@ -45922,6 +45923,33 @@
    "hb": {
     "MC": 1
    }
+  },
+  "T944": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
