@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-04T18:06:54+05:30",
+ "generated": "2026-11-04T18:07:13+05:30",
  "names_updated": "2026-11-04T15:32:14+05:30",
  "limits": {
   "MC": [
@@ -4679,21 +4679,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.74,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 6.59,
+   "ash_db": 6.77,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 04-Nov-2026 17:58"
+   "last_entry": "Mohan | Ash W3 | 04-Nov-2026 18:06"
   },
   {
    "code": "T946",
