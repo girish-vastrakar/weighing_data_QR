@@ -47834,8 +47834,8 @@
      null
     ],
     "VM": [
-     14.5232,
-     15.5256,
+     null,
+     null,
      null
     ],
     "ASH": [
@@ -47850,7 +47850,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W2 | 04-Nov-2026 17:33",
+   "last": "Girish | Volatile Matter reset (results page) | 04-Nov-2026 19:03",
    "ev": [
     {
      "id": "1793793641231-7z8yp",
@@ -47884,6 +47884,20 @@
      "o": null,
      "h": "VM W1-20-16",
      "b": 1
+    },
+    {
+     "id": "1793799216545-rsaeji",
+     "t": 1793799216545,
+     "by": "Girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      14.5232,
+      15.5256,
+      null
+     ],
+     "h": "VM W1-20-16",
+     "via": "results"
     }
    ],
    "h": {
