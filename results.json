@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-04T18:27:03+05:30",
+ "generated": "2026-11-04T18:29:16+05:30",
  "names_updated": "2026-11-04T15:32:14+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 230,
  "counts": {
-  "complete": 208,
-  "incomplete": 22,
+  "complete": 209,
+  "incomplete": 21,
   "not started": 0,
   "awaiting approval": 34
  },
@@ -4545,22 +4545,20 @@
    "name": "CH2/101",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.33,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 15.13,
+   "vm_ar": 10.79,
+   "vm_db": 11.28,
    "ash_ar": 8.23,
    "ash_db": 8.6,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 76.64,
+   "fc_db": 80.12,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W3 | 04-Nov-2026 18:04"
+   "last_entry": "Mohan | Volatile Matter W3 | 04-Nov-2026 18:29"
   },
   {
    "code": "T939",
