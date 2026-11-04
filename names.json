@@ -1,6 +1,6 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-03T15:47:15+05:30",
+ "updated": "2026-11-04T15:32:14+05:30",
  "source": "sample_code / Name Tags",
  "count": 1019,
  "names": {
@@ -5133,42 +5133,50 @@
   "T938": {
    "name": "CH2/101",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T939": {
    "name": "CH2/102",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T940": {
    "name": "CH2/103",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T941": {
    "name": "CH2/104",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T942": {
    "name": "CH2/105",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T943": {
    "name": "CH2/106",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T944": {
    "name": "CH2/107",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T945": {
    "name": "CH2/108",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31"
+   "date": "2026-10-31",
+   "machine": "W1"
   },
   "T946": {
    "name": "CH2/109",
@@ -5508,62 +5516,74 @@
   "T1013": {
    "name": "K6-261021-LOG",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1014": {
    "name": "K6-261021-P01",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1015": {
    "name": "K6-261021-P02",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1016": {
    "name": "K6-261021-P03",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1017": {
    "name": "K6-261021-P04",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1018": {
    "name": "K6-261021-P05",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1019": {
    "name": "K6-261021-P06",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1020": {
    "name": "K6-261021-P07",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1021": {
    "name": "K6-261021-P08",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1022": {
    "name": "K6-261021-P09",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1023": {
    "name": "K6-261021-P10",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   },
   "T1024": {
    "name": "K6-261021-P11",
    "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24"
+   "date": "2026-10-24",
+   "machine": "W1"
   }
  }
 }
