@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-04T18:33:23+05:30",
+ "generated": "2026-11-04T18:34:04+05:30",
  "names_updated": "2026-11-04T15:32:14+05:30",
  "limits": {
   "MC": [
@@ -4687,21 +4687,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
     "ASH"
    ],
    "moisture": 3.7,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 14.43,
+   "vm_ar": 10.72,
+   "vm_db": 11.14,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 04-Nov-2026 17:53"
+   "last_entry": "Mohan | Volatile Matter W3 | 04-Nov-2026 18:33"
   },
   {
    "code": "T950",
