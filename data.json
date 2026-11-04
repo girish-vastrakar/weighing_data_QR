@@ -48588,7 +48588,9 @@
    "bal": 1,
    "start": 1793791141937,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793794810415,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-04-O1-mw226kxm": {
    "rid": "2026-11-04-O1-mw226kxm",
