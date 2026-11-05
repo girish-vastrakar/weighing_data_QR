@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T13:41:51+05:30",
+ "generated": "2026-11-05T14:21:07+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -4938,21 +4938,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 3.52,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 7.81,
+   "ash_db": 8.09,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 05-Nov-2026 12:20"
+   "last_entry": "Ramesh | Ash W3 | 05-Nov-2026 13:40"
   },
   {
    "code": "T961",
@@ -4961,21 +4960,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 4.98,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 7.04,
+   "ash_db": 7.41,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 05-Nov-2026 12:21"
+   "last_entry": "Ramesh | Ash W3 | 05-Nov-2026 13:40"
   },
   {
    "code": "T962",
@@ -4984,21 +4982,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 4.32,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 7.25,
+   "ash_db": 7.57,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 05-Nov-2026 12:24"
+   "last_entry": "Ramesh | Ash W3 | 05-Nov-2026 13:40"
   },
   {
    "code": "T963",
@@ -5007,21 +5004,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.82,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 2.03,
+   "ash_db": 2.09,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 05-Nov-2026 12:26"
+   "last_entry": "Ramesh | Ash W3 | 05-Nov-2026 13:41"
   },
   {
    "code": "T1013",
@@ -5122,21 +5118,20 @@
    "date": "2026-10-24",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 7.96,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 2.15,
+   "ash_db": 2.33,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 05-Nov-2026 12:30"
+   "last_entry": "Ramesh | Ash W3 | 05-Nov-2026 13:41"
   }
  ],
  "awaiting_approval": [
