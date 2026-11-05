@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T15:18:42+05:30",
+ "generated": "2026-11-05T15:19:10+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 240,
+ "count": 239,
  "counts": {
   "complete": 223,
-  "incomplete": 16,
+  "incomplete": 15,
   "not started": 1,
-  "awaiting approval": 44
+  "awaiting approval": 45
  },
  "results": [
   {
@@ -5094,28 +5094,6 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Ash W2 | 05-Nov-2026 14:53"
-  },
-  {
-   "code": "T1024",
-   "name": "K6-261021-P11",
-   "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
-   "moisture": 7.96,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 2.15,
-   "ash_db": 2.33,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 05-Nov-2026 14:41"
   }
  ],
  "awaiting_approval": [
@@ -5622,6 +5600,17 @@
     "MC 12.82 % above 10 %",
     "VM 23.53 % db above 17.5 % db",
     "FC 70.17 % db below 72 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1024",
+   "name": "K6-261021-P11",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "complete",
+   "flags": [
+    "VM 19.14 % db above 17.5 % db"
    ],
    "checks": []
   }
