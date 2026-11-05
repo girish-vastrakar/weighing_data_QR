@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T12:37:09+05:30",
+ "generated": "2026-11-05T12:38:28+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 241,
+ "count": 240,
  "counts": {
   "complete": 215,
-  "incomplete": 25,
+  "incomplete": 24,
   "not started": 1,
-  "awaiting approval": 43
+  "awaiting approval": 44
  },
  "results": [
   {
@@ -5051,30 +5051,6 @@
    "last_entry": "Mohan | Moisture W3 | 05-Nov-2026 12:33"
   },
   {
-   "code": "T1014",
-   "name": "K6-261021-P01",
-   "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24",
-   "status": "incomplete",
-   "pending": [
-    "MC",
-    "VM",
-    "ASH"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 05-Nov-2026 10:27"
-  },
-  {
    "code": "T1017",
    "name": "K6-261021-P04",
    "supplier": "K6 Experiment 2 @ Satapar",
@@ -5592,6 +5568,17 @@
    "status": "incomplete",
    "flags": [
     "VM 26.24 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1014",
+   "name": "K6-261021-P01",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "incomplete",
+   "flags": [
+    "MC 18.61 % above 10 %"
    ],
    "checks": []
   },
