@@ -50521,7 +50521,9 @@
    "bal": 2,
    "start": 1793854903754,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1793859166564,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-05-O2-mw33ogca": {
    "rid": "2026-11-05-O2-mw33ogca",
