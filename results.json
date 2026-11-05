@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T10:20:29+05:30",
+ "generated": "2026-11-05T10:22:20+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 236,
  "counts": {
   "complete": 215,
-  "incomplete": 19,
-  "not started": 2,
+  "incomplete": 20,
+  "not started": 1,
   "awaiting approval": 37
  },
  "results": [
@@ -5040,7 +5040,7 @@
    "name": "K6-261021-P10",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -5057,7 +5057,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 05-Nov-2026 10:22"
   }
  ],
  "awaiting_approval": [
