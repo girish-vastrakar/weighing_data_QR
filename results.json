@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T10:43:29+05:30",
+ "generated": "2026-11-05T10:43:47+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 246,
+ "count": 247,
  "counts": {
   "complete": 215,
   "incomplete": 30,
-  "not started": 1,
+  "not started": 2,
   "awaiting approval": 37
  },
  "results": [
@@ -5250,6 +5250,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Moisture W2 | 05-Nov-2026 10:43"
+  },
+  {
+   "code": "T1022",
+   "name": "K6-261021-P09",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
   },
   {
    "code": "T1023",
