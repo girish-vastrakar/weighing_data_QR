@@ -2524,6 +2524,37 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1793876607006-rsnd6q",
+   "at": "2026-11-05T16:33:27+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T1013",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    23.3485,
+    24.3524,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-05T14:23:00+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-11-05T14:24:16+05:30",
+     "by": "Mohan"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
