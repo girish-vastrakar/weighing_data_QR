@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-05T12:34:06+05:30",
+ "generated": "2026-11-05T12:37:09+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,9 +30,9 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 42,
+ "count": 43,
  "by_test": {
-  "MC": 10,
+  "MC": 11,
   "VM": 8,
   "ASH": 26,
   "FC": 18,
@@ -834,6 +834,25 @@
     "MC"
    ],
    "moisture": 18.98,
+   "vm_ar": null,
+   "ash_ar": null,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1020",
+   "name": "K6-261021-P07",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "incomplete",
+   "flags": [
+    "MC 20.54 % above 10 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 20.54,
    "vm_ar": null,
    "ash_ar": null,
    "total_moisture": null,
