@@ -50954,204 +50954,6 @@
   }
  },
  "runs": {
-  "2026-11-02-O1-mvyxp80b": {
-   "rid": "2026-11-02-O1-mvyxp80b",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 1",
-     "code": "T888",
-     "w2": 42.6932
-    },
-    {
-     "h": "DISH 2",
-     "code": "T889",
-     "w2": 43.8494
-    },
-    {
-     "h": "DISH 3",
-     "code": "T890",
-     "w2": 46.2318
-    },
-    {
-     "h": "DISH 4",
-     "code": "T891",
-     "w2": 46.1446
-    },
-    {
-     "h": "DISH 5",
-     "code": "T892",
-     "w2": 43.3763
-    },
-    {
-     "h": "DISH 6",
-     "code": "T893",
-     "w2": 43.7492
-    }
-   ],
-   "bal": 1,
-   "start": 1793604316619,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793608859687,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-O2-mvyxs5si": {
-   "rid": "2026-11-02-O2-mvyxs5si",
-   "place": "O2",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 29",
-     "code": "T896",
-     "w2": 40.2975
-    },
-    {
-     "h": "DISH 31",
-     "code": "T897",
-     "w2": 43.83
-    },
-    {
-     "h": "DISH 20",
-     "code": "T898",
-     "w2": 43.7612
-    },
-    {
-     "h": "DISH 26",
-     "code": "T899",
-     "w2": 42.7486
-    },
-    {
-     "h": "DISH 16",
-     "code": "T900",
-     "w2": 45.4088
-    },
-    {
-     "h": "DISH 18",
-     "code": "T901",
-     "w2": 44.9558
-    },
-    {
-     "h": "DISH 19",
-     "code": "T902",
-     "w2": 39.8031
-    },
-    {
-     "h": "DISH 27",
-     "code": "T903",
-     "w2": 41.9481
-    },
-    {
-     "h": "DISH 24",
-     "code": "T904",
-     "w2": 42.5782
-    },
-    {
-     "h": "DISH 23",
-     "code": "T905",
-     "w2": 44.8573
-    }
-   ],
-   "bal": 2,
-   "start": 1793604453714,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793608860940,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-O1-mvz0fo8p": {
-   "rid": "2026-11-02-O1-mvz0fo8p",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [],
-   "bal": 1,
-   "start": 1793608909945,
-   "mins": 1,
-   "by": "Supervisor (timer)",
-   "outAt": 1793609142691,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-O2-mvz0jp4c": {
-   "rid": "2026-11-02-O2-mvz0jp4c",
-   "place": "O2",
-   "test": "MC",
-   "tray": null,
-   "items": [],
-   "bal": 0,
-   "start": 1793609097708,
-   "mins": 15,
-   "by": "Supervisor (timer)",
-   "outAt": 1793612543259,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-F2-mvz1sboq": {
-   "rid": "2026-11-02-F2-mvz1sboq",
-   "place": "F2",
-   "test": "ASH",
-   "tray": "ASH W2-11",
-   "items": [
-    {
-     "h": "ASH W2-11-1",
-     "code": "T896",
-     "w2": 15.3454
-    },
-    {
-     "h": "ASH W2-11-2",
-     "code": "T897",
-     "w2": 14.9456
-    },
-    {
-     "h": "ASH W2-11-3",
-     "code": "T898",
-     "w2": 14.8604
-    },
-    {
-     "h": "ASH W2-11-4",
-     "code": "T899",
-     "w2": 15.528
-    },
-    {
-     "h": "ASH W2-11-5",
-     "code": "T900",
-     "w2": 15.6094
-    },
-    {
-     "h": "ASH W2-11-6",
-     "code": "T901",
-     "w2": 23.5371
-    },
-    {
-     "h": "ASH W2-11-7",
-     "code": "T902",
-     "w2": 23.8776
-    },
-    {
-     "h": "ASH W2-11-8",
-     "code": "T903",
-     "w2": 23.4547
-    },
-    {
-     "h": "ASH W2-11-9",
-     "code": "T904",
-     "w2": 26.1003
-    },
-    {
-     "h": "ASH W2-11-10",
-     "code": "T905",
-     "w2": 15.9127
-    }
-   ],
-   "bal": 2,
-   "start": 1793611179818,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793614845295,
-   "outBy": "Supervisor (timer)"
-  },
   "2026-11-02-O1-mvz28muf": {
    "rid": "2026-11-02-O1-mvz28muf",
    "place": "O1",
@@ -51800,6 +51602,68 @@
    "bal": 2,
    "start": 1793862330426,
    "mins": 60,
+   "by": "Supervisor (timer)"
+  },
+  "2026-11-05-F2-mw3c4otw": {
+   "rid": "2026-11-05-F2-mw3c4otw",
+   "place": "F2",
+   "test": "VM",
+   "tray": "VM W2-14",
+   "items": [
+    {
+     "h": "VM W2-14-1",
+     "code": "T956",
+     "w2": 17.7929
+    },
+    {
+     "h": "VM W2-14-2",
+     "code": "T957",
+     "w2": 17.4603
+    },
+    {
+     "h": "VM W2-14-3",
+     "code": "T958",
+     "w2": 15.3192
+    },
+    {
+     "h": "VM W2-14-4",
+     "code": "T959",
+     "w2": 17.3488
+    },
+    {
+     "h": "VM W2-14-5",
+     "code": "T960",
+     "w2": 15.0924
+    },
+    {
+     "h": "VM W2-14-6",
+     "code": "T961",
+     "w2": 14.8751
+    },
+    {
+     "h": "VM W2-14-7",
+     "code": "T962",
+     "w2": 17.1938
+    },
+    {
+     "h": "VM W2-14-8",
+     "code": "T963",
+     "w2": 17.7253
+    },
+    {
+     "h": "VM W2-14-9",
+     "code": "T1023",
+     "w2": 17.3738
+    },
+    {
+     "h": "VM W2-14-10",
+     "code": "T1024",
+     "w2": 15.3169
+    }
+   ],
+   "bal": 2,
+   "start": 1793870417588,
+   "mins": 7,
    "by": "Supervisor (timer)"
   }
  },
