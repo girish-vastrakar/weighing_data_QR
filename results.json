@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T10:35:18+05:30",
+ "generated": "2026-11-05T10:35:33+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 243,
  "counts": {
   "complete": 215,
-  "incomplete": 26,
-  "not started": 2,
+  "incomplete": 27,
+  "not started": 1,
   "awaiting approval": 37
  },
  "results": [
@@ -5160,7 +5160,7 @@
    "name": "K6-261021-P05",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -5177,7 +5177,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W1 | 05-Nov-2026 10:35"
   },
   {
    "code": "T1023",
