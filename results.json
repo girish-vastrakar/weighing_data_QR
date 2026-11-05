@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T16:33:38+05:30",
+ "generated": "2026-11-05T16:34:33+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -5563,7 +5563,8 @@
    "date": "2026-10-24",
    "status": "incomplete",
    "flags": [
-    "MC 21.22 % above 10 %"
+    "MC 21.22 % above 10 %",
+    "VM 22.43 % db above 17.5 % db"
    ],
    "checks": []
   },

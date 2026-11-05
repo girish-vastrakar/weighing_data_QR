@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-05T16:34:12+05:30",
+ "generated": "2026-11-05T16:34:33+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -33,7 +33,7 @@
  "count": 47,
  "by_test": {
   "MC": 12,
-  "VM": 14,
+  "VM": 15,
   "ASH": 26,
   "FC": 19,
   "TM": 0
@@ -926,14 +926,16 @@
    "date": "2026-10-24",
    "status": "incomplete",
    "flags": [
-    "MC 21.22 % above 10 %"
+    "MC 21.22 % above 10 %",
+    "VM 22.43 % db above 17.5 % db"
    ],
    "checks": [],
    "retest": [
-    "MC"
+    "MC",
+    "VM"
    ],
    "moisture": 21.22,
-   "vm_ar": null,
+   "vm_ar": 17.67,
    "ash_ar": null,
    "total_moisture": null,
    "approval_outdated": false
