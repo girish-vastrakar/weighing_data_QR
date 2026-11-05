@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T15:18:22+05:30",
+ "generated": "2026-11-05T15:18:42+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -5617,9 +5617,11 @@
    "name": "K6-261021-P10",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "MC 12.82 % above 10 %"
+    "MC 12.82 % above 10 %",
+    "VM 23.53 % db above 17.5 % db",
+    "FC 70.17 % db below 72 % db"
    ],
    "checks": []
   }

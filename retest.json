@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-05T14:21:07+05:30",
+ "generated": "2026-11-05T15:18:42+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -33,9 +33,9 @@
  "count": 44,
  "by_test": {
   "MC": 12,
-  "VM": 8,
+  "VM": 9,
   "ASH": 26,
-  "FC": 18,
+  "FC": 19,
   "TM": 0
  },
  "samples": [
@@ -901,16 +901,20 @@
    "name": "K6-261021-P10",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "MC 12.82 % above 10 %"
+    "MC 12.82 % above 10 %",
+    "VM 23.53 % db above 17.5 % db",
+    "FC 70.17 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
-    "MC"
+    "MC",
+    "VM",
+    "FC"
    ],
    "moisture": 12.82,
-   "vm_ar": null,
+   "vm_ar": 20.51,
    "ash_ar": 5.49,
    "total_moisture": null,
    "approval_outdated": false
