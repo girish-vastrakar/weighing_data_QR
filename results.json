@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T16:34:33+05:30",
+ "generated": "2026-11-05T16:35:04+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 237,
+ "count": 236,
  "counts": {
   "complete": 223,
-  "incomplete": 13,
+  "incomplete": 12,
   "not started": 1,
-  "awaiting approval": 47
+  "awaiting approval": 48
  },
  "results": [
   {
@@ -5024,29 +5024,6 @@
    "flags": [],
    "checks": [],
    "last_entry": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:31"
-  },
-  {
-   "code": "T1022",
-   "name": "K6-261021-P09",
-   "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 8.24,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 05-Nov-2026 15:38"
   }
  ],
  "awaiting_approval": [
@@ -5565,6 +5542,17 @@
    "flags": [
     "MC 21.22 % above 10 %",
     "VM 22.43 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1022",
+   "name": "K6-261021-P09",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "incomplete",
+   "flags": [
+    "VM 25.15 % db above 17.5 % db"
    ],
    "checks": []
   },
