@@ -49118,155 +49118,6 @@
   }
  },
  "runs": {
-  "2026-11-01-O2-mvxtij9y": {
-   "rid": "2026-11-01-O2-mvxtij9y",
-   "place": "O2",
-   "test": "MC",
-   "tray": null,
-   "items": [],
-   "bal": 1,
-   "start": 1793536819990,
-   "mins": 60,
-   "by": "Supervisor (timer)"
-  },
-  "2026-11-02-O1-mvyrbovu": {
-   "rid": "2026-11-02-O1-mvyrbovu",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 17",
-     "code": "T876",
-     "w2": 42.5614
-    },
-    {
-     "h": "DISH 15",
-     "code": "T877",
-     "w2": 45.6696
-    },
-    {
-     "h": "DISH 19",
-     "code": "T878",
-     "w2": 39.8035
-    },
-    {
-     "h": "DISH 23",
-     "code": "T879",
-     "w2": 44.8565
-    },
-    {
-     "h": "DISH 28",
-     "code": "T880",
-     "w2": 41.6245
-    },
-    {
-     "h": "DISH 24",
-     "code": "T881",
-     "w2": 42.5688
-    },
-    {
-     "h": "DISH 27",
-     "code": "T882",
-     "w2": 41.9458
-    },
-    {
-     "h": "DISH 22",
-     "code": "T883",
-     "w2": 43.4054
-    },
-    {
-     "h": "DISH 25",
-     "code": "T884",
-     "w2": 38.4302
-    },
-    {
-     "h": "DISH 21",
-     "code": "T885",
-     "w2": 40.8195
-    }
-   ],
-   "bal": 2,
-   "start": 1793593607610,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793597395104,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-O2-mvyrcsjb": {
-   "rid": "2026-11-02-O2-mvyrcsjb",
-   "place": "O2",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 1",
-     "code": "T866",
-     "w2": 42.6861
-    },
-    {
-     "h": "DISH 2",
-     "code": "T867",
-     "w2": 43.8465
-    },
-    {
-     "h": "DISH 3",
-     "code": "T868",
-     "w2": 46.2292
-    },
-    {
-     "h": "DISH 5",
-     "code": "T869",
-     "w2": 43.3861
-    },
-    {
-     "h": "DISH 4",
-     "code": "T870",
-     "w2": 46.14
-    },
-    {
-     "h": "DISH 6",
-     "code": "T871",
-     "w2": 43.7473
-    },
-    {
-     "h": "DISH 7",
-     "code": "T872",
-     "w2": 42.87
-    },
-    {
-     "h": "DISH 8",
-     "code": "T873",
-     "w2": 39.9371
-    },
-    {
-     "h": "DISH 10",
-     "code": "T874",
-     "w2": 42.0684
-    },
-    {
-     "h": "DISH 12",
-     "code": "T875",
-     "w2": 38.0231
-    },
-    {
-     "h": "DISH 13",
-     "code": "T886",
-     "w2": 44.9178
-    },
-    {
-     "h": "DISH 14",
-     "code": "T887",
-     "w2": 41.845
-    }
-   ],
-   "bal": 1,
-   "start": 1793593658999,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793597729270,
-   "outBy": "Supervisor (timer)"
-  },
   "2026-11-02-F2-mvysko3d": {
    "rid": "2026-11-02-F2-mvysko3d",
    "place": "F2",
@@ -50182,6 +50033,68 @@
    "by": "Supervisor (timer)",
    "outAt": 1793795503281,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-05-O1-mw32w6a2": {
+   "rid": "2026-11-05-O1-mw32w6a2",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 26",
+     "code": "T956",
+     "w2": 42.7475
+    },
+    {
+     "h": "DISH 28",
+     "code": "T957",
+     "w2": 43.7553
+    },
+    {
+     "h": "DISH 21",
+     "code": "T958",
+     "w2": 42.5691
+    },
+    {
+     "h": "DISH 27",
+     "code": "T959",
+     "w2": 40.8193
+    },
+    {
+     "h": "DISH 17",
+     "code": "T960",
+     "w2": 44.9554
+    },
+    {
+     "h": "DISH 20",
+     "code": "T961",
+     "w2": 43.8323
+    },
+    {
+     "h": "DISH 31",
+     "code": "T962",
+     "w2": 41.6208
+    },
+    {
+     "h": "DISH 22",
+     "code": "T963",
+     "w2": 43.4081
+    },
+    {
+     "h": "DISH 24",
+     "code": "T1023",
+     "w2": 41.9465
+    },
+    {
+     "h": "DISH 18",
+     "code": "T1024",
+     "w2": 39.8011
+    }
+   ],
+   "bal": 2,
+   "start": 1793854903754,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
