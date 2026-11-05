@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-05T09:34:08+05:30",
+ "generated": "2026-11-05T09:36:26+05:30",
  "names_updated": "2026-11-05T08:54:43+05:30",
  "limits": {
   "MC": [
@@ -4889,7 +4889,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W1 | 05-Nov-2026 09:33"
+   "last_entry": "Ramesh | Moisture W2 | 05-Nov-2026 09:36"
   }
  ],
  "awaiting_approval": [
