@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-05T16:33:50+05:30",
+ "generated": "2026-11-05T16:34:12+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -914,7 +914,7 @@
     "MC"
    ],
    "moisture": 20.54,
-   "vm_ar": null,
+   "vm_ar": 10.12,
    "ash_ar": null,
    "total_moisture": null,
    "approval_outdated": false

@@ -42,7 +42,7 @@ T1015,K6-261021-P02,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM",20.2,18.
 T1016,K6-261021-P03,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,15.45,13.47,,,MC 15.45 % above 10 %,incomplete,
 T1017,K6-261021-P04,K6 Experiment 2 @ Satapar,2026-10-24,VM,5.23,19.44,,,VM 20.51 % db above 17.5 % db,incomplete,
 T1019,K6-261021-P06,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,18.98,12.55,,,MC 18.98 % above 10 %,incomplete,
-T1020,K6-261021-P07,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,20.54,,,,MC 20.54 % above 10 %,incomplete,
+T1020,K6-261021-P07,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,20.54,10.12,,,MC 20.54 % above 10 %,incomplete,
 T1021,K6-261021-P08,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,21.22,,,,MC 21.22 % above 10 %,incomplete,
 T1023,K6-261021-P10,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM, Fixed carbon (check VM and Ash)",12.82,20.51,5.49,,MC 12.82 % above 10 %; VM 23.53 % db above 17.5 % db; FC 70.17 % db below 72 % db,complete,
 T1024,K6-261021-P11,K6 Experiment 2 @ Satapar,2026-10-24,VM,7.96,17.62,2.15,,VM 19.14 % db above 17.5 % db,complete,
