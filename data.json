@@ -274,7 +274,8 @@
   "T961",
   "T962",
   "T963",
-  "T1023"
+  "T1023",
+  "T1013"
  ],
  "samples": {
   "T612": {
@@ -48699,6 +48700,33 @@
    "hb": {
     "MC": 2
    }
+  },
+  "T1013": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
