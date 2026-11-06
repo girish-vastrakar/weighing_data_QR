@@ -51627,224 +51627,6 @@
   }
  },
  "runs": {
-  "2026-11-02-F1-mvz414fv": {
-   "rid": "2026-11-02-F1-mvz414fv",
-   "place": "F1",
-   "test": "ASH",
-   "tray": "ASH W1-5",
-   "items": [
-    {
-     "h": "ASH W1-5-1",
-     "code": "T886",
-     "w2": 13.6097
-    },
-    {
-     "h": "ASH W1-5-2",
-     "code": "T887",
-     "w2": 13.0623
-    },
-    {
-     "h": "ASH W1-5-3",
-     "code": "T888",
-     "w2": 13.1759
-    },
-    {
-     "h": "ASH W1-5-4",
-     "code": "T889",
-     "w2": 14.4166
-    },
-    {
-     "h": "ASH W1-5-5",
-     "code": "T890",
-     "w2": 12.4773
-    },
-    {
-     "h": "ASH W1-5-6",
-     "code": "T891",
-     "w2": 13.0386
-    },
-    {
-     "h": "ASH W1-5-7",
-     "code": "T892",
-     "w2": 12.2769
-    },
-    {
-     "h": "ASH W1-5-8",
-     "code": "T893",
-     "w2": 12.9374
-    },
-    {
-     "h": "ASH W1-5-9",
-     "code": "T894",
-     "w2": 12.2287
-    },
-    {
-     "h": "ASH W1-5-10",
-     "code": "T895",
-     "w2": 24.3166
-    }
-   ],
-   "bal": 1,
-   "start": 1793614949563,
-   "mins": 46,
-   "by": "Supervisor (timer)",
-   "outAt": 1793617858726,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-F2-mvz4ottt": {
-   "rid": "2026-11-02-F2-mvz4ottt",
-   "place": "F2",
-   "test": "VM",
-   "tray": null,
-   "items": [],
-   "bal": 1,
-   "start": 1793616055553,
-   "mins": 7,
-   "by": "Supervisor (timer)",
-   "outAt": 1793616942250,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-O1-mvz5tnpm": {
-   "rid": "2026-11-02-O1-mvz5tnpm",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 27",
-     "code": "T911",
-     "w2": 44.8567
-    },
-    {
-     "h": "DISH 18",
-     "code": "T912",
-     "w2": 39.8081
-    },
-    {
-     "h": "DISH 23",
-     "code": "T913",
-     "w2": 44.959
-    },
-    {
-     "h": "DISH 19",
-     "code": "T914",
-     "w2": 42.5698
-    }
-   ],
-   "bal": 2,
-   "start": 1793617960522,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793621574292,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-02-F1-mvz70pab": {
-   "rid": "2026-11-02-F1-mvz70pab",
-   "place": "F1",
-   "test": "VM",
-   "tray": "VM W1-5",
-   "items": [
-    {
-     "h": "VM W1-5-1",
-     "code": "T894",
-     "w2": 14.9146
-    },
-    {
-     "h": "VM W1-5-2",
-     "code": "T895",
-     "w2": 15.9696
-    },
-    {
-     "h": "VM W1-5-3",
-     "code": "T906",
-     "w2": 16.5409
-    },
-    {
-     "h": "VM W1-5-4",
-     "code": "T907",
-     "w2": 16.1892
-    },
-    {
-     "h": "VM W1-5-5",
-     "code": "T908",
-     "w2": 17.2246
-    },
-    {
-     "h": "VM W1-5-6",
-     "code": "T909",
-     "w2": 16.4456
-    },
-    {
-     "h": "VM W1-5-7",
-     "code": "T910",
-     "w2": 18.5411
-    }
-   ],
-   "bal": 1,
-   "start": 1793619968771,
-   "mins": 7,
-   "by": "Supervisor (timer)",
-   "outAt": 1793620604346,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-03-O1-mw0gxnib": {
-   "rid": "2026-11-03-O1-mw0gxnib",
-   "place": "O1",
-   "test": "MC",
-   "tray": null,
-   "items": [
-    {
-     "h": "DISH 25",
-     "code": "T915",
-     "w2": 45.6666
-    }
-   ],
-   "bal": 2,
-   "start": 1793697088835,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793702905852,
-   "outBy": "Supervisor (timer)"
-  },
-  "2026-11-03-F1-mw0gy80w": {
-   "rid": "2026-11-03-F1-mw0gy80w",
-   "place": "F1",
-   "test": "ASH",
-   "tray": "ASH W2-12",
-   "items": [
-    {
-     "h": "ASH W2-12-1",
-     "code": "T911",
-     "w2": 14.3746
-    },
-    {
-     "h": "ASH W2-12-2",
-     "code": "T912",
-     "w2": 15.586
-    },
-    {
-     "h": "ASH W2-12-3",
-     "code": "T913",
-     "w2": 15.0382
-    },
-    {
-     "h": "ASH W2-12-4",
-     "code": "T914",
-     "w2": 14.4391
-    },
-    {
-     "h": "ASH W2-12-5",
-     "code": "T915",
-     "w2": 15.6074
-    }
-   ],
-   "bal": 2,
-   "start": 1793697115424,
-   "mins": 60,
-   "by": "Supervisor (timer)",
-   "outAt": 1793702918656,
-   "outBy": "Supervisor (timer)"
-  },
   "2026-11-03-O1-mw0kxt8u": {
    "rid": "2026-11-03-O1-mw0kxt8u",
    "place": "O1",
@@ -52358,6 +52140,17 @@
    "by": "Supervisor (timer)",
    "outAt": 1793874307003,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-06-O1-mw4rvhvj": {
+   "rid": "2026-11-06-O1-mw4rvhvj",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [],
+   "bal": 1,
+   "start": 1793957328703,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
