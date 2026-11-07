@@ -5527,6 +5527,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794070282444-rsqb2z",
+   "at": "2026-11-07T22:21:22+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T856",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    25.1015,
+    26.106,
+    25.343
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T12:19:57+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T12:21:05+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-01T14:59:09+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
