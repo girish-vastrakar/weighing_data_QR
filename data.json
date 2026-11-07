@@ -50082,7 +50082,7 @@
     "ASH": [
      22.3889,
      23.3926,
-     null
+     22.4452
     ],
     "TM": [
      null,
@@ -50091,7 +50091,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:29",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793854514875-p4577",
@@ -50215,6 +50215,20 @@
      "o": null,
      "h": "VM W1-21-2",
      "b": 1
+    },
+    {
+     "id": "1794057614221-ppn4m2-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.4452,
+     "o": null,
+     "h": "ASH W1-21-2",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -50416,7 +50430,7 @@
     "ASH": [
      12.205,
      13.2055,
-     null
+     12.2366
     ],
     "TM": [
      null,
@@ -50425,7 +50439,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:30",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793854887793-6rgr3",
@@ -50549,6 +50563,20 @@
      "o": null,
      "h": "VM W1-21-4",
      "b": 1
+    },
+    {
+     "id": "1794057614221-pp3qgb-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.2366,
+     "o": null,
+     "h": "ASH W1-21-4",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -50583,7 +50611,7 @@
     "ASH": [
      11.5897,
      12.5908,
-     null
+     11.6064
     ],
     "TM": [
      null,
@@ -50592,7 +50620,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:31",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855003342-7qo1y",
@@ -50716,6 +50744,20 @@
      "o": null,
      "h": "VM W1-21-5",
      "b": 1
+    },
+    {
+     "id": "1794057614221-pp59jb-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.6064,
+     "o": null,
+     "h": "ASH W1-21-5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -50750,7 +50792,7 @@
     "ASH": [
      11.7691,
      12.7713,
-     null
+     11.7945
     ],
     "TM": [
      null,
@@ -50759,7 +50801,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:31",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855110248-offo1",
@@ -50883,6 +50925,20 @@
      "o": null,
      "h": "VM W1-21-6",
      "b": 1
+    },
+    {
+     "id": "1794057614221-ppuzh8-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.7945,
+     "o": null,
+     "h": "ASH W1-21-6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -50917,7 +50973,7 @@
     "ASH": [
      11.224,
      12.2249,
-     null
+     11.2703
     ],
     "TM": [
      null,
@@ -50926,7 +50982,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:33",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855271431-ngqop",
@@ -51050,6 +51106,20 @@
      "o": null,
      "h": "VM W1-21-7",
      "b": 1
+    },
+    {
+     "id": "1794057614221-ppbb7e-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.2703,
+     "o": null,
+     "h": "ASH W1-21-7",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -51084,7 +51154,7 @@
     "ASH": [
      12.0117,
      13.0154,
-     null
+     12.0445
     ],
     "TM": [
      null,
@@ -51093,7 +51163,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:33",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855387270-doqr3",
@@ -51217,6 +51287,20 @@
      "o": null,
      "h": "VM W1-21-8",
      "b": 1
+    },
+    {
+     "id": "1794057614221-pp8f38-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.0445,
+     "o": null,
+     "h": "ASH W1-21-8",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -51251,7 +51335,7 @@
     "ASH": [
      11.267,
      12.2687,
-     null
+     11.2766
     ],
     "TM": [
      null,
@@ -51260,7 +51344,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:34",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855496405-nvkcw",
@@ -51384,6 +51468,20 @@
      "o": null,
      "h": "VM W1-21-9",
      "b": 1
+    },
+    {
+     "id": "1794057614221-pp9847-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.2766,
+     "o": null,
+     "h": "ASH W1-21-9",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
@@ -51418,7 +51516,7 @@
     "ASH": [
      11.6101,
      12.6118,
-     null
+     11.6334
     ],
     "TM": [
      null,
@@ -51427,7 +51525,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 05-Nov-2026 16:34",
+   "last": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
    "ev": [
     {
      "id": "1793855620177-xg6le",
@@ -51551,6 +51649,20 @@
      "o": null,
      "h": "VM W1-21-10",
      "b": 1
+    },
+    {
+     "id": "1794057614221-pp2yoi-0",
+     "t": 1794057614221,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.6334,
+     "o": null,
+     "h": "ASH W1-21-10",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
+     "wt": 1794057600000
     }
    ],
    "h": {
