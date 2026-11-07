@@ -4862,6 +4862,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794069499034-rsxms8",
+   "at": "2026-11-07T22:08:19+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T728",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    89.5874,
+    90.5878,
+    90.4828
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-10-28T11:45:00+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-10-28T11:46:51+05:30",
+     "by": "Mohan"
+    },
+    "W3": {
+     "at": "2026-10-28T13:29:39+05:30",
+     "by": "Mohan"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
