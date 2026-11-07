@@ -5704,6 +5704,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794070435207-rsq0cc",
+   "at": "2026-11-07T22:23:55+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T898",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    13.8574,
+    14.8604,
+    14.0354
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-02T14:27:53+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-02T14:29:38+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-02T16:21:29+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
