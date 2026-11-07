@@ -5037,6 +5037,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794069814077-rsdlor",
+   "at": "2026-11-07T22:13:34+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T840",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.0869,
+    15.093,
+    14.4072
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T10:16:56+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T10:17:44+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-01T11:46:02+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
