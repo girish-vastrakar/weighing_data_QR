@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-07T22:02:22+05:30",
+ "generated": "2026-11-07T22:07:02+05:30",
  "names_updated": "2026-11-07T22:02:14+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 255,
+ "count": 256,
  "counts": {
   "complete": 235,
-  "incomplete": 19,
+  "incomplete": 20,
   "not started": 1,
-  "awaiting approval": 41
+  "awaiting approval": 40
  },
  "results": [
   {
@@ -1377,6 +1377,28 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Ash W3 | 31-Oct-2026 10:56"
+  },
+  {
+   "code": "T729",
+   "name": "CH1/21",
+   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "incomplete",
+   "pending": [
+    "MC"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": 22.93,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": 11.05,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Moisture reset (results page) | 07-Nov-2026 22:06"
   },
   {
    "code": "T730",
@@ -5436,18 +5458,6 @@
    "status": "complete",
    "flags": [
     "MC 10.50 % above 10 %"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T729",
-   "name": "CH1/21",
-   "supplier": "Tata 500 PO dMRV · Charanka 1 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "MC 11.59 % above 10 %",
-    "ASH 12.50 % db above 12 % db"
    ],
    "checks": []
   },

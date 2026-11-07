@@ -1,4 +1,7 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+07-Nov-2026 22:06,Girish,reset,T729,CH1/21,Moisture,W1,83.6326,,,Mohan,28-Oct-2026 11:48,,1794069410965-rsk29s
+07-Nov-2026 22:06,Girish,reset,T729,CH1/21,Moisture,W2,84.6366,,,Mohan,28-Oct-2026 11:49,,1794069410965-rsk29s
+07-Nov-2026 22:06,Girish,reset,T729,CH1/21,Moisture,W3,84.5202,,,Mohan,28-Oct-2026 13:27,,1794069410965-rsk29s
 07-Nov-2026 21:58,Girish,reset,T839,CH2/02,Ash,W1,13.5589,,,Ramesh,01-Nov-2026 10:14,,1794068901945-rsz1us
 07-Nov-2026 21:58,Girish,reset,T839,CH2/02,Ash,W2,14.5591,,,Ramesh,01-Nov-2026 10:16,,1794068901945-rsz1us
 07-Nov-2026 21:58,Girish,reset,T839,CH2/02,Ash,W3,13.7113,,,Ramesh,01-Nov-2026 11:45,,1794068901945-rsz1us
