@@ -35441,9 +35441,9 @@
    "tm": false,
    "w": {
     "MC": [
-     40.6207,
-     41.6253,
-     41.4863
+     null,
+     null,
+     null
     ],
     "VM": [
      15.8813,
@@ -35462,7 +35462,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 01-Nov-2026 17:32",
+   "last": "Girish | Moisture reset (results page) | 07-Nov-2026 22:22",
    "ev": [
     {
      "id": "1793524053707-kt1ie",
@@ -35598,6 +35598,20 @@
      "o": null,
      "h": "VM W2-8-10",
      "b": 2
+    },
+    {
+     "id": "1794070375204-rs97w2",
+     "t": 1794070375204,
+     "by": "Girish",
+     "a": "reset",
+     "k": "MC",
+     "o": [
+      40.6207,
+      41.6253,
+      41.4863
+     ],
+     "h": "DISH 28",
+     "via": "results"
     }
    ],
    "h": {
