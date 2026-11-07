@@ -30387,9 +30387,9 @@
      16.6269
     ],
     "ASH": [
-     13.5589,
-     14.5591,
-     13.7113
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -30398,7 +30398,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture reset (results page) | 07-Nov-2026 21:57",
+   "last": "Girish | Ash reset (results page) | 07-Nov-2026 21:58",
    "ev": [
     {
      "id": "1793506548463-sz21t",
@@ -30547,6 +30547,20 @@
       43.631
      ],
      "h": "DISH 28",
+     "via": "results"
+    },
+    {
+     "id": "1794068901945-rsz1us",
+     "t": 1794068901945,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      13.5589,
+      14.5591,
+      13.7113
+     ],
+     "h": "ASH W2-1-2",
      "via": "results"
     }
    ],
