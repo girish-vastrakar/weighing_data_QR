@@ -51853,9 +51853,9 @@
      43.8171
     ],
     "VM": [
-     16.2099,
-     17.2109,
-     16.9976
+     null,
+     null,
+     null
     ],
     "ASH": [
      12.205,
@@ -51869,7 +51869,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 07-Nov-2026 18:06",
+   "last": "Girish | Volatile Matter reset (results page) | 07-Nov-2026 21:37",
    "ev": [
     {
      "id": "1794054983670-ppnq8d-0",
@@ -51996,6 +51996,20 @@
      "via": "paper",
      "wb": "Ramesh",
      "wt": 1794054840000
+    },
+    {
+     "id": "1794067641046-rsrnsj",
+     "t": 1794067641046,
+     "by": "Girish",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      16.2099,
+      17.2109,
+      16.9976
+     ],
+     "h": "",
+     "via": "results"
     }
    ]
   },
