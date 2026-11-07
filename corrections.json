@@ -4500,6 +4500,47 @@
    "note": "typed in by Claude from Girish's handwritten Ash W3 sheet (T1013-T1022)",
    "weighedAt": "2026-11-07T18:50:00+05:30",
    "weighedBy": "Mohan"
+  },
+  {
+   "id": "1794067605938-rsbibi",
+   "at": "2026-11-07T21:36:45+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T921",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    11.1341,
+    12.1362,
+    11.3078
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-07T18:42:00+05:30",
+     "by": "Ramesh",
+     "via": "paper",
+     "entered": "Girish"
+    },
+    "W2": {
+     "at": "2026-11-07T18:42:00+05:30",
+     "by": "Ramesh",
+     "via": "paper",
+     "entered": "Girish"
+    },
+    "W3": {
+     "at": "2026-11-07T18:42:00+05:30",
+     "by": "Ramesh",
+     "via": "paper",
+     "entered": "Girish"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
