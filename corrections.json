@@ -4967,6 +4967,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794069753611-rsrcr3",
+   "at": "2026-11-07T22:12:33+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T845",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.2613,
+    15.2663,
+    14.436
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T10:24:22+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T10:25:23+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-01T11:48:37+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
