@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-07T21:58:08+05:30",
+ "generated": "2026-11-07T21:58:31+05:30",
  "names_updated": "2026-11-07T21:32:16+05:30",
  "limits": {
   "MC": [
@@ -3478,20 +3478,21 @@
    "date": "2026-10-27",
    "status": "incomplete",
    "pending": [
-    "MC"
+    "MC",
+    "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
    "vm_loss": 22.82,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": 15.24,
+   "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Girish | Moisture reset (results page) | 07-Nov-2026 21:57"
+   "last_entry": "Girish | Ash reset (results page) | 07-Nov-2026 21:58"
   },
   {
    "code": "T841",
