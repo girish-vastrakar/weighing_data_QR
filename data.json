@@ -52496,9 +52496,9 @@
      15.9882
     ],
     "ASH": [
-     11.1341,
-     12.1362,
-     11.3078
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -52507,7 +52507,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "last": "Girish | Ash reset (results page) | 07-Nov-2026 21:36",
    "ev": [
     {
      "id": "1794057149525-ppg4qg-0",
@@ -52643,6 +52643,20 @@
      "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
      "wb": "Ramesh",
      "wt": 1794057120000
+    },
+    {
+     "id": "1794067605938-rsbibi",
+     "t": 1794067605938,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      11.1341,
+      12.1362,
+      11.3078
+     ],
+     "h": "",
+     "via": "results"
     }
    ]
   },
