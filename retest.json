@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-07T18:42:38+05:30",
+ "generated": "2026-11-07T18:50:23+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -34,8 +34,8 @@
  "by_test": {
   "MC": 12,
   "VM": 17,
-  "ASH": 27,
-  "FC": 20,
+  "ASH": 28,
+  "FC": 21,
   "TM": 0
  },
  "samples": [
@@ -846,19 +846,21 @@
    "name": "K6-261021-P01",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 18.61 % above 10 %",
-    "VM 21.67 % db above 17.5 % db"
+    "VM 21.67 % db above 17.5 % db",
+    "FC 71.44 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
     "MC",
-    "VM"
+    "VM",
+    "FC"
    ],
    "moisture": 18.61,
    "vm_ar": 17.65,
-   "ash_ar": null,
+   "ash_ar": 5.61,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -888,7 +890,7 @@
    "name": "K6-261021-P03",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 15.45 % above 10 %"
    ],
@@ -898,7 +900,7 @@
    ],
    "moisture": 15.45,
    "vm_ar": 13.47,
-   "ash_ar": null,
+   "ash_ar": 3.16,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -907,7 +909,7 @@
    "name": "K6-261021-P04",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "VM 20.51 % db above 17.5 % db"
    ],
@@ -917,7 +919,7 @@
    ],
    "moisture": 5.23,
    "vm_ar": 19.44,
-   "ash_ar": null,
+   "ash_ar": 1.67,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -926,7 +928,7 @@
    "name": "K6-261021-P06",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 18.98 % above 10 %"
    ],
@@ -936,7 +938,7 @@
    ],
    "moisture": 18.98,
    "vm_ar": 12.55,
-   "ash_ar": null,
+   "ash_ar": 4.63,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -945,7 +947,7 @@
    "name": "K6-261021-P07",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 20.54 % above 10 %"
    ],
@@ -955,7 +957,7 @@
    ],
    "moisture": 20.54,
    "vm_ar": 10.12,
-   "ash_ar": null,
+   "ash_ar": 3.27,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -964,19 +966,21 @@
    "name": "K6-261021-P08",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "MC 21.22 % above 10 %",
-    "VM 22.43 % db above 17.5 % db"
+    "VM 22.43 % db above 17.5 % db",
+    "ASH 1.22 % db below 1.5 % db"
    ],
    "checks": [],
    "retest": [
     "MC",
-    "VM"
+    "VM",
+    "ASH"
    ],
    "moisture": 21.22,
    "vm_ar": 17.67,
-   "ash_ar": null,
+   "ash_ar": 0.96,
    "total_moisture": null,
    "approval_outdated": false
   },
@@ -985,7 +989,7 @@
    "name": "K6-261021-P09",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
     "VM 25.15 % db above 17.5 % db"
    ],
@@ -995,7 +999,7 @@
    ],
    "moisture": 8.24,
    "vm_ar": 23.08,
-   "ash_ar": null,
+   "ash_ar": 2.33,
    "total_moisture": null,
    "approval_outdated": false
   },
