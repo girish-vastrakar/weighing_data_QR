@@ -12232,5 +12232,67 @@
     "by": "Mohan"
    }
   }
+ },
+ "T916": {
+  "Moisture": {
+   "W1": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W2": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W3": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   }
+  },
+  "VM": {
+   "W1": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W2": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W3": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   }
+  },
+  "Ash": {
+   "W1": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W2": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W3": {
+    "at": "2026-11-07T17:30:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   }
+  }
  }
 }
