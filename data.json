@@ -52038,19 +52038,19 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     42.3828,
+     43.3883,
+     43.3683
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.1806,
+     16.188,
+     16.0451
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.4712,
+     12.4731,
+     11.5767
     ],
     "TM": [
      null,
@@ -52059,25 +52059,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-pp1ab7-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.3828,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.3883,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.3683,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.1806,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.188,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.0451,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.4712,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.4731,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp1ab7-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.5767,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T920": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     42.7447,
+     43.7481,
+     43.7233
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.4168,
+     16.4175,
+     16.2725
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.0029,
+     13.0079,
+     12.0517
     ],
     "TM": [
      null,
@@ -52086,25 +52223,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppmc9i-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.7447,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.7481,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.7233,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.4168,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.4175,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.2725,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 12.0029,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 13.0079,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppmc9i-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.0517,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T921": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     41.8693,
+     42.8705,
+     42.843
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.15,
+     16.1516,
+     15.9882
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.1341,
+     12.1362,
+     11.3078
     ],
     "TM": [
      null,
@@ -52113,25 +52387,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppg4qg-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 41.8693,
+     "o": null,
+     "h": "DISH 7",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 42.8705,
+     "o": null,
+     "h": "DISH 7",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 42.843,
+     "o": null,
+     "h": "DISH 7",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.15,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.1516,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 15.9882,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.1341,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.1362,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppg4qg-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.3078,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T922": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     38.9382,
+     39.9424,
+     39.915
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.2043,
+     14.205,
+     14.0456
     ],
     "ASH": [
-     null,
-     null,
-     null
+     22.8115,
+     23.814,
+     22.8592
     ],
     "TM": [
      null,
@@ -52140,25 +52551,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppsxlv-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 38.9382,
+     "o": null,
+     "h": "DISH 8",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 39.9424,
+     "o": null,
+     "h": "DISH 8",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 39.915,
+     "o": null,
+     "h": "DISH 8",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 13.2043,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.205,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 14.0456,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 22.8115,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 23.814,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppsxlv-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.8592,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T923": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     41.0695,
+     42.0712,
+     42.0449
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.1447,
+     14.1474,
+     13.9844
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.0487,
+     13.0503,
+     12.1328
     ],
     "TM": [
      null,
@@ -52167,25 +52715,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-pp6fql-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 41.0695,
+     "o": null,
+     "h": "DISH 10",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 42.0712,
+     "o": null,
+     "h": "DISH 10",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 42.0449,
+     "o": null,
+     "h": "DISH 10",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 13.1447,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927); W1 handwriting had a gap ('13. 1447'), read as 13.1447",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.1474,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 13.9844,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 12.0487,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 13.0503,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp6fql-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.1328,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T924": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     37.0224,
+     38.0264,
+     38.0087
     ],
     "VM": [
-     null,
-     null,
-     null
+     13.7768,
+     14.7784,
+     14.5991
     ],
     "ASH": [
-     null,
-     null,
-     null
+     11.2564,
+     12.2577,
+     11.2974
     ],
     "TM": [
      null,
@@ -52194,25 +52879,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppv6hd-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 37.0224,
+     "o": null,
+     "h": "DISH 12",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 38.0264,
+     "o": null,
+     "h": "DISH 12",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 38.0087,
+     "o": null,
+     "h": "DISH 12",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 13.7768,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.7784,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 14.5991,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.2564,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.2577,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppv6hd-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.2974,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T925": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     43.9129,
+     44.918,
+     44.8932
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.4848,
+     16.4889,
+     16.323
     ],
     "ASH": [
-     null,
-     null,
-     null
+     12.5458,
+     13.5504,
+     12.5822
     ],
     "TM": [
      null,
@@ -52221,25 +53043,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-pp9qrc-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 43.9129,
+     "o": null,
+     "h": "DISH 13",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 44.918,
+     "o": null,
+     "h": "DISH 13",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 44.8932,
+     "o": null,
+     "h": "DISH 13",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.4848,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.4889,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.323,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 12.5458,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 13.5504,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-pp9qrc-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 12.5822,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T926": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     40.8418,
+     41.8439,
+     41.813
     ],
     "VM": [
-     null,
-     null,
-     null
+     20.8959,
+     21.9,
+     21.7345
     ],
     "ASH": [
-     null,
-     null,
-     null
+     13.4419,
+     14.4445,
+     13.4594
     ],
     "TM": [
      null,
@@ -52248,25 +53207,162 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppd2ha-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 40.8418,
+     "o": null,
+     "h": "DISH 14",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 41.8439,
+     "o": null,
+     "h": "DISH 14",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 41.813,
+     "o": null,
+     "h": "DISH 14",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 20.8959,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 21.9,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 21.7345,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 13.4419,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 14.4445,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppd2ha-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 13.4594,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   },
   "T927": {
    "tm": false,
    "w": {
     "MC": [
-     null,
-     null,
-     null
+     42.2674,
+     43.2732,
+     43.2561
     ],
     "VM": [
-     null,
-     null,
-     null
+     14.1961,
+     15.1982,
+     15.0399
     ],
     "ASH": [
-     null,
-     null,
-     null
+     22.4506,
+     23.4542,
+     22.4718
     ],
     "TM": [
      null,
@@ -52275,7 +53371,144 @@
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 07-Nov-2026 18:42",
+   "ev": [
+    {
+     "id": "1794057149525-ppchjo-0",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.2674,
+     "o": null,
+     "h": "DISH 48",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-1",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.2732,
+     "o": null,
+     "h": "DISH 48",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-2",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.2561,
+     "o": null,
+     "h": "DISH 48",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-3",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 14.1961,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-4",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 15.1982,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-5",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 15.0399,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-6",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 22.4506,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-7",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 23.4542,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    },
+    {
+     "id": "1794057149525-ppchjo-8",
+     "t": 1794057149525,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.4718,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
+     "wb": "Ramesh",
+     "wt": 1794057120000
+    }
+   ]
   }
  },
  "batches": {
