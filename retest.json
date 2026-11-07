@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-07T22:25:52+05:30",
+ "generated": "2026-11-07T22:26:19+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,36 +30,15 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 12,
+ "count": 11,
  "by_test": {
   "MC": 7,
   "VM": 8,
-  "ASH": 2,
-  "FC": 3,
+  "ASH": 1,
+  "FC": 2,
   "TM": 0
  },
  "samples": [
-  {
-   "code": "T873",
-   "name": "CH2/36",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-31",
-   "status": "complete",
-   "flags": [
-    "ASH 30.92 % db above 12 % db",
-    "FC 58.24 % db below 72 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "ASH",
-    "FC"
-   ],
-   "moisture": 3.03,
-   "vm_ar": 10.51,
-   "ash_ar": 29.98,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
   {
    "code": "T1013",
    "name": "K6-261021-LOG",
