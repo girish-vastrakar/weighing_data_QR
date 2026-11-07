@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-07T18:06:33+05:30",
+ "generated": "2026-11-07T18:12:53+05:30",
  "names_updated": "2026-11-07T11:47:14+05:30",
  "limits": {
   "MC": [
@@ -41,9 +41,9 @@
  },
  "count": 247,
  "counts": {
-  "complete": 224,
+  "complete": 225,
   "incomplete": 12,
-  "not started": 11,
+  "not started": 10,
   "awaiting approval": 49
  },
  "results": [
@@ -4445,24 +4445,20 @@
    "name": "CH2/81",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "not started",
-   "pending": [
-    "MC",
-    "VM",
-    "ASH"
-   ],
-   "moisture": null,
+   "status": "complete",
+   "pending": [],
+   "moisture": 5.18,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "vm_loss": 20.22,
+   "vm_ar": 15.04,
+   "vm_db": 15.86,
+   "ash_ar": 7.96,
+   "ash_db": 8.39,
+   "fc_ar": 71.83,
+   "fc_db": 75.75,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 07-Nov-2026 18:12"
   },
   {
    "code": "T919",
