@@ -1,4 +1,85 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Ash,W3,,22.4718,,,,,1794057149525-ppchjo-8
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Ash,W2,,23.4542,,,,,1794057149525-ppchjo-7
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Ash,W1,,22.4506,,,,,1794057149525-ppchjo-6
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Volatile Matter,W3,,15.0399,,,,,1794057149525-ppchjo-5
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Volatile Matter,W2,,15.1982,,,,,1794057149525-ppchjo-4
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Volatile Matter,W1,,14.1961,,,,,1794057149525-ppchjo-3
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Moisture,W3,,43.2561,,,,,1794057149525-ppchjo-2
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Moisture,W2,,43.2732,,,,,1794057149525-ppchjo-1
+07-Nov-2026 18:42,Girish,paper,T927,CH2/90,Moisture,W1,,42.2674,,,,,1794057149525-ppchjo-0
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Ash,W3,,13.4594,,,,,1794057149525-ppd2ha-8
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Ash,W2,,14.4445,,,,,1794057149525-ppd2ha-7
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Ash,W1,,13.4419,,,,,1794057149525-ppd2ha-6
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Volatile Matter,W3,,21.7345,,,,,1794057149525-ppd2ha-5
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Volatile Matter,W2,,21.9,,,,,1794057149525-ppd2ha-4
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Volatile Matter,W1,,20.8959,,,,,1794057149525-ppd2ha-3
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Moisture,W3,,41.813,,,,,1794057149525-ppd2ha-2
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Moisture,W2,,41.8439,,,,,1794057149525-ppd2ha-1
+07-Nov-2026 18:42,Girish,paper,T926,CH2/89,Moisture,W1,,40.8418,,,,,1794057149525-ppd2ha-0
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Ash,W3,,12.5822,,,,,1794057149525-pp9qrc-8
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Ash,W2,,13.5504,,,,,1794057149525-pp9qrc-7
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Ash,W1,,12.5458,,,,,1794057149525-pp9qrc-6
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Volatile Matter,W3,,16.323,,,,,1794057149525-pp9qrc-5
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Volatile Matter,W2,,16.4889,,,,,1794057149525-pp9qrc-4
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Volatile Matter,W1,,15.4848,,,,,1794057149525-pp9qrc-3
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Moisture,W3,,44.8932,,,,,1794057149525-pp9qrc-2
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Moisture,W2,,44.918,,,,,1794057149525-pp9qrc-1
+07-Nov-2026 18:42,Girish,paper,T925,CH2/88,Moisture,W1,,43.9129,,,,,1794057149525-pp9qrc-0
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Ash,W3,,11.2974,,,,,1794057149525-ppv6hd-8
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Ash,W2,,12.2577,,,,,1794057149525-ppv6hd-7
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Ash,W1,,11.2564,,,,,1794057149525-ppv6hd-6
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Volatile Matter,W3,,14.5991,,,,,1794057149525-ppv6hd-5
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Volatile Matter,W2,,14.7784,,,,,1794057149525-ppv6hd-4
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Volatile Matter,W1,,13.7768,,,,,1794057149525-ppv6hd-3
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Moisture,W3,,38.0087,,,,,1794057149525-ppv6hd-2
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Moisture,W2,,38.0264,,,,,1794057149525-ppv6hd-1
+07-Nov-2026 18:42,Girish,paper,T924,CH2/87,Moisture,W1,,37.0224,,,,,1794057149525-ppv6hd-0
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Ash,W3,,12.1328,,,,,1794057149525-pp6fql-8
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Ash,W2,,13.0503,,,,,1794057149525-pp6fql-7
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Ash,W1,,12.0487,,,,,1794057149525-pp6fql-6
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Volatile Matter,W3,,13.9844,,,,,1794057149525-pp6fql-5
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Volatile Matter,W2,,14.1474,,,,,1794057149525-pp6fql-4
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Volatile Matter,W1,,13.1447,,,,,1794057149525-pp6fql-3
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Moisture,W3,,42.0449,,,,,1794057149525-pp6fql-2
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Moisture,W2,,42.0712,,,,,1794057149525-pp6fql-1
+07-Nov-2026 18:42,Girish,paper,T923,CH2/86,Moisture,W1,,41.0695,,,,,1794057149525-pp6fql-0
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Ash,W3,,22.8592,,,,,1794057149525-ppsxlv-8
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Ash,W2,,23.814,,,,,1794057149525-ppsxlv-7
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Ash,W1,,22.8115,,,,,1794057149525-ppsxlv-6
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Volatile Matter,W3,,14.0456,,,,,1794057149525-ppsxlv-5
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Volatile Matter,W2,,14.205,,,,,1794057149525-ppsxlv-4
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Volatile Matter,W1,,13.2043,,,,,1794057149525-ppsxlv-3
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Moisture,W3,,39.915,,,,,1794057149525-ppsxlv-2
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Moisture,W2,,39.9424,,,,,1794057149525-ppsxlv-1
+07-Nov-2026 18:42,Girish,paper,T922,CH2/85,Moisture,W1,,38.9382,,,,,1794057149525-ppsxlv-0
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Ash,W3,,11.3078,,,,,1794057149525-ppg4qg-8
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Ash,W2,,12.1362,,,,,1794057149525-ppg4qg-7
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Ash,W1,,11.1341,,,,,1794057149525-ppg4qg-6
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Volatile Matter,W3,,15.9882,,,,,1794057149525-ppg4qg-5
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Volatile Matter,W2,,16.1516,,,,,1794057149525-ppg4qg-4
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Volatile Matter,W1,,15.15,,,,,1794057149525-ppg4qg-3
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Moisture,W3,,42.843,,,,,1794057149525-ppg4qg-2
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Moisture,W2,,42.8705,,,,,1794057149525-ppg4qg-1
+07-Nov-2026 18:42,Girish,paper,T921,CH2/84,Moisture,W1,,41.8693,,,,,1794057149525-ppg4qg-0
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Ash,W3,,12.0517,,,,,1794057149525-ppmc9i-8
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Ash,W2,,13.0079,,,,,1794057149525-ppmc9i-7
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Ash,W1,,12.0029,,,,,1794057149525-ppmc9i-6
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Volatile Matter,W3,,16.2725,,,,,1794057149525-ppmc9i-5
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Volatile Matter,W2,,16.4175,,,,,1794057149525-ppmc9i-4
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Volatile Matter,W1,,15.4168,,,,,1794057149525-ppmc9i-3
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Moisture,W3,,43.7233,,,,,1794057149525-ppmc9i-2
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Moisture,W2,,43.7481,,,,,1794057149525-ppmc9i-1
+07-Nov-2026 18:42,Girish,paper,T920,CH2/83,Moisture,W1,,42.7447,,,,,1794057149525-ppmc9i-0
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Ash,W3,,11.5767,,,,,1794057149525-pp1ab7-8
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Ash,W2,,12.4731,,,,,1794057149525-pp1ab7-7
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Ash,W1,,11.4712,,,,,1794057149525-pp1ab7-6
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Volatile Matter,W3,,16.0451,,,,,1794057149525-pp1ab7-5
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Volatile Matter,W2,,16.188,,,,,1794057149525-pp1ab7-4
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Volatile Matter,W1,,15.1806,,,,,1794057149525-pp1ab7-3
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Moisture,W3,,43.3683,,,,,1794057149525-pp1ab7-2
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Moisture,W2,,43.3883,,,,,1794057149525-pp1ab7-1
+07-Nov-2026 18:42,Girish,paper,T919,CH2/82,Moisture,W1,,42.3828,,,,,1794057149525-pp1ab7-0
 07-Nov-2026 18:12,Girish,paper,T918,CH2/81,Ash,W3,,11.9797,,,,,1794055362027-pp0d93-8
 07-Nov-2026 18:12,Girish,paper,T918,CH2/81,Ash,W2,,12.9051,,,,,1794055362027-pp0d93-7
 07-Nov-2026 18:12,Girish,paper,T918,CH2/81,Ash,W1,,11.8997,,,,,1794055362027-pp0d93-6

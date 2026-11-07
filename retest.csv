@@ -33,6 +33,7 @@ T900,CH2/63,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,"Ash
 T909,CH2/72,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,VM,2.04,17.85,,,VM 18.22 % db above 17.5 % db,incomplete,
 T914,CH2/77,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,Ash,4.1,10.9,0.45,,ASH 0.47 % db below 1.5 % db,complete,
 T917,CH2/80,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,VM,2.85,18.46,3.01,,VM 19.00 % db above 17.5 % db,complete,
+T921,CH2/84,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,"Ash, Fixed carbon (check VM and Ash)",2.75,13.57,17.33,,ASH 17.82 % db above 12 % db; FC 68.24 % db below 72 % db,complete,
 T941,CH2/104,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,"Ash, Fixed carbon (check VM and Ash)",3.77,10.93,22.59,,ASH 23.48 % db above 12 % db; FC 65.16 % db below 72 % db,complete,
 T942,CH2/105,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,VM,4.3,18.91,4.13,,VM 19.76 % db above 17.5 % db,complete,
 T943,CH2/106,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,VM,2.82,21.93,4.18,,VM 22.57 % db above 17.5 % db,complete,
