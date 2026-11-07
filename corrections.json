@@ -5352,6 +5352,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794070096953-rswmgx",
+   "at": "2026-11-07T22:18:16+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T850",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    11.4759,
+    12.4785,
+    11.8241
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T12:10:02+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T12:11:12+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-01T14:56:13+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
