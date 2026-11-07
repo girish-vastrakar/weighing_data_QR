@@ -4722,6 +4722,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1794068877061-rsqd6l",
+   "at": "2026-11-07T21:57:57+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T839",
+   "test": "Moisture",
+   "key": "MC",
+   "step": null,
+   "old": [
+    42.7542,
+    43.7568,
+    43.631
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-01T09:46:21+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-01T09:47:46+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-01T12:26:10+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
