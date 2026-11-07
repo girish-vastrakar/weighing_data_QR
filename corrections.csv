@@ -1,4 +1,7 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+07-Nov-2026 22:25,Girish,reset,T875,CH2/38,Volatile Matter,W1,16.6587,,,Mohan,02-Nov-2026 11:10,,1794070502896-rsunh1
+07-Nov-2026 22:25,Girish,reset,T875,CH2/38,Volatile Matter,W2,17.6644,,,Mohan,02-Nov-2026 11:13,,1794070502896-rsunh1
+07-Nov-2026 22:25,Girish,reset,T875,CH2/38,Volatile Matter,W3,17.4182,,,Mohan,02-Nov-2026 13:01,,1794070502896-rsunh1
 07-Nov-2026 22:24,Girish,reset,T867,CH2/30,Volatile Matter,W1,16.2199,,,Mohan,02-Nov-2026 10:46,,1794070474610-rspck2
 07-Nov-2026 22:24,Girish,reset,T867,CH2/30,Volatile Matter,W2,17.2212,,,Mohan,02-Nov-2026 10:48,,1794070474610-rspck2
 07-Nov-2026 22:24,Girish,reset,T867,CH2/30,Volatile Matter,W3,17.0192,,,Mohan,02-Nov-2026 12:58,,1794070474610-rspck2
