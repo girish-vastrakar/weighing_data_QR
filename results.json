@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T17:14:26+05:30",
+ "generated": "2026-11-13T17:14:54+05:30",
  "names_updated": "2026-11-13T16:02:50+05:30",
  "limits": {
   "MC": [
@@ -6237,11 +6237,10 @@
    "date": "2026-11-05",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 2.54,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -6252,7 +6251,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 13-Nov-2026 17:00"
+   "last_entry": "Ramesh | Moisture W3 | 13-Nov-2026 17:14"
   }
  ],
  "awaiting_approval": [
