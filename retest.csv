@@ -15,3 +15,7 @@ T1021,K6-261021-P08,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM, Ash",21.
 T1022,K6-261021-P09,K6 Experiment 2 @ Satapar,2026-10-24,VM,8.24,23.08,2.33,,VM 25.15 % db above 17.5 % db,complete,
 T1023,K6-261021-P10,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM, Fixed carbon (check VM and Ash)",12.82,20.51,5.49,,MC 12.82 % above 10 %; VM 23.53 % db above 17.5 % db; FC 70.17 % db below 72 % db,complete,
 T1024,K6-261021-P11,K6 Experiment 2 @ Satapar,2026-10-24,VM,7.96,17.62,2.15,,VM 19.14 % db above 17.5 % db,complete,
+T1026,NAL/102 R1 (29/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-29,Moisture,1.11,16.28,3.28,,MC 1.11 % below 1.5 %,complete,
+T1031,NAL/139 R1 (29/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-29,Moisture,1.25,15.58,6.51,,MC 1.25 % below 1.5 %,complete,
+T1035,NAL/162,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,Moisture,1.42,16.39,5.15,,MC 1.42 % below 1.5 %,complete,
+T1042,NAL/169,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,Moisture,1.31,15.98,6.17,,MC 1.31 % below 1.5 %,complete,

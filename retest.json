@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-13T14:43:19+05:30",
+ "generated": "2026-11-13T14:48:46+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,9 +30,9 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 16,
+ "count": 20,
  "by_test": {
-  "MC": 9,
+  "MC": 13,
   "VM": 13,
   "ASH": 2,
   "FC": 4,
@@ -366,6 +366,82 @@
    "moisture": 7.96,
    "vm_ar": 17.62,
    "ash_ar": 2.15,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1026",
+   "name": "NAL/102 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "MC 1.11 % below 1.5 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 1.11,
+   "vm_ar": 16.28,
+   "ash_ar": 3.28,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1031",
+   "name": "NAL/139 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "MC 1.25 % below 1.5 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 1.25,
+   "vm_ar": 15.58,
+   "ash_ar": 6.51,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1035",
+   "name": "NAL/162",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-30",
+   "status": "complete",
+   "flags": [
+    "MC 1.42 % below 1.5 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 1.42,
+   "vm_ar": 16.39,
+   "ash_ar": 5.15,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1042",
+   "name": "NAL/169",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
+   "date": "2026-10-30",
+   "status": "complete",
+   "flags": [
+    "MC 1.31 % below 1.5 %"
+   ],
+   "checks": [],
+   "retest": [
+    "MC"
+   ],
+   "moisture": 1.31,
+   "vm_ar": 15.98,
+   "ash_ar": 6.17,
    "total_moisture": null,
    "approval_outdated": false
   }
