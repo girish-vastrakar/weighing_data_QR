@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T17:41:45+05:30",
+ "generated": "2026-11-13T17:44:53+05:30",
  "names_updated": "2026-11-13T16:02:50+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 291,
+ "count": 290,
  "counts": {
   "complete": 252,
-  "incomplete": 39,
+  "incomplete": 38,
   "not started": 0,
-  "awaiting approval": 45
+  "awaiting approval": 46
  },
  "results": [
   {
@@ -6148,29 +6148,6 @@
    "last_entry": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:41"
   },
   {
-   "code": "T1065",
-   "name": "GorChuri10",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "incomplete",
-   "pending": [
-    "VM",
-    "ASH"
-   ],
-   "moisture": 4.47,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Moisture W3 | 13-Nov-2026 17:13"
-  },
-  {
    "code": "T1067",
    "name": "sumchu4",
    "supplier": "Climitra Lab Portal",
@@ -6730,6 +6707,17 @@
    "status": "complete",
    "flags": [
     "MC 1.31 % below 1.5 %"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1065",
+   "name": "GorChuri10",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "incomplete",
+   "flags": [
+    "VM 100.00 % db above 17.5 % db"
    ],
    "checks": []
   },
