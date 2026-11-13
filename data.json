@@ -297,7 +297,12 @@
   "T924",
   "T925",
   "T926",
-  "T927"
+  "T927",
+  "T449",
+  "T450",
+  "T451",
+  "T452",
+  "T454"
  ],
  "samples": {
   "T612": {
@@ -54207,6 +54212,781 @@
      "n": "typed in by Claude from Girish's handwritten sheet (batch T916-T927)",
      "wb": "Ramesh",
      "wt": 1794057120000
+    }
+   ]
+  },
+  "T449": {
+   "tm": false,
+   "w": {
+    "MC": [
+     41.6864,
+     42.6866,
+     42.6361
+    ],
+    "VM": [
+     15.9329,
+     16.9348,
+     16.7016
+    ],
+    "ASH": [
+     11.1158,
+     12.1175,
+     11.2985
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "ev": [
+    {
+     "id": "1794561191474-pp5yty-0",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 41.6864,
+     "o": null,
+     "h": "DISH 1",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written); W1 corrected from 42.6864 on the sheet (dish 1 empty = 41.69), approved by Girish",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-1",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 42.6866,
+     "o": null,
+     "h": "DISH 1",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-2",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 42.6361,
+     "o": null,
+     "h": "DISH 1",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-3",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.9329,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-4",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.9348,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-5",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.7016,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-6",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.1158,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-7",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.1175,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pp5yty-8",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.2985,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    }
+   ]
+  },
+  "T450": {
+   "tm": false,
+   "w": {
+    "MC": [
+     42.8452,
+     43.8494,
+     43.8208
+    ],
+    "VM": [
+     13.7994,
+     14.8034,
+     14.5548
+    ],
+    "ASH": [
+     11.9274,
+     12.9293,
+     11.9632
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "ev": [
+    {
+     "id": "1794561191474-ppkt1j-0",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.8452,
+     "o": null,
+     "h": "DISH 2",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-1",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.8494,
+     "o": null,
+     "h": "DISH 2",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-2",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.8208,
+     "o": null,
+     "h": "DISH 2",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-3",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 13.7994,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-4",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.8034,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-5",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 14.5548,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-6",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.9274,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-7",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.9293,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppkt1j-8",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.9632,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    }
+   ]
+  },
+  "T451": {
+   "tm": false,
+   "w": {
+    "MC": [
+     45.2271,
+     46.2289,
+     46.0497
+    ],
+    "VM": [
+     14.0265,
+     15.0271,
+     14.6583
+    ],
+    "ASH": [
+     10.9792,
+     11.9819,
+     11.0085
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "ev": [
+    {
+     "id": "1794561191474-pphzt5-0",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 45.2271,
+     "o": null,
+     "h": "DISH 3",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-1",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 46.2289,
+     "o": null,
+     "h": "DISH 3",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-2",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 46.0497,
+     "o": null,
+     "h": "DISH 3",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-3",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 14.0265,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-4",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 15.0271,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-5",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 14.6583,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-6",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 10.9792,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-7",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 11.9819,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-pphzt5-8",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.0085,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    }
+   ]
+  },
+  "T452": {
+   "tm": false,
+   "w": {
+    "MC": [
+     42.3825,
+     43.3839,
+     43.3414
+    ],
+    "VM": [
+     15.4632,
+     16.4658,
+     16.2266
+    ],
+    "ASH": [
+     11.6601,
+     12.6606,
+     11.6885
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "ev": [
+    {
+     "id": "1794561191474-ppxh6k-0",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.3825,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-1",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.3839,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-2",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.3414,
+     "o": null,
+     "h": "DISH 5",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-3",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.4632,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-4",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.4658,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-5",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.2266,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-6",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.6601,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-7",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.6606,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppxh6k-8",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.6885,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    }
+   ]
+  },
+  "T454": {
+   "tm": false,
+   "w": {
+    "MC": [
+     42.7439,
+     43.7453,
+     43.0752
+    ],
+    "VM": [
+     16.1476,
+     17.1498,
+     16.3837
+    ],
+    "ASH": [
+     11.5876,
+     12.5881,
+     11.6181
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "ev": [
+    {
+     "id": "1794561191474-ppvur5-0",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.7439,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-1",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 43.7453,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-2",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 43.0752,
+     "o": null,
+     "h": "DISH 6",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-3",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 16.1476,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-4",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 17.1498,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-5",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.3837,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-6",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.5876,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-7",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 12.5881,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
+    },
+    {
+     "id": "1794561191474-ppvur5-8",
+     "t": 1794561191474,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.6181,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "typed in by Claude from Girish's handwritten sheet dated 06-11-2026 (time of day not written)",
+     "wt": 1793946600000
     }
    ]
   }
