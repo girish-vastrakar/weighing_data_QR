@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:41:09+05:30",
+ "generated": "2026-11-13T15:42:14+05:30",
  "names_updated": "2026-11-13T15:40:59+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 284,
+ "count": 286,
  "counts": {
   "complete": 252,
   "incomplete": 27,
-  "not started": 5,
+  "not started": 7,
   "awaiting approval": 44
  },
  "results": [
@@ -5898,6 +5898,30 @@
    "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
   },
   {
+   "code": "T1054",
+   "name": "GOR/47",
+   "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
+   "date": "2026-11-03",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
+  },
+  {
    "code": "T1055",
    "name": "GOR/48",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
@@ -6044,6 +6068,30 @@
   {
    "code": "T1063",
    "name": "GorChuri8",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
+  },
+  {
+   "code": "T1067",
+   "name": "sumchu4",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
    "status": "not started",
