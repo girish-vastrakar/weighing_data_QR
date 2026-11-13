@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:30:06+05:30",
+ "generated": "2026-11-13T15:30:43+05:30",
  "names_updated": "2026-11-13T15:02:36+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 283,
+ "count": 284,
  "counts": {
   "complete": 252,
   "incomplete": 25,
-  "not started": 6,
+  "not started": 7,
   "awaiting approval": 44
  },
  "results": [
@@ -5972,6 +5972,30 @@
   {
    "code": "T1058",
    "name": "GorChuri3",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
+  },
+  {
+   "code": "T1059",
+   "name": "Gorchuri4",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
    "status": "not started",
