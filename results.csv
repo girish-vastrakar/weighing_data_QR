@@ -277,7 +277,7 @@ T1041,NAL/168,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomp
 T1043,NAL/170,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,2.28,,18.36,16.08,16.46,5.96,6.1,75.68,77.44,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1044,NAL/171,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,2.24,,19.14,16.89,17.28,5.0,5.11,75.87,77.61,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1054,GOR/47,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-11-03,incomplete,"Moisture, Ash",,,17.49,,,,,,,,,,,Ramesh | Volatile Matter W3 | 13-Nov-2026 17:37
-T1055,GOR/48,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-11-03,incomplete,"Moisture, Ash",,,17.48,,,,,,,,,,,Ramesh | Volatile Matter W3 | 13-Nov-2026 17:38
+T1055,GOR/48,Tata 500 PO dMRV · Gorewali · Jumbo bag sampling,2026-11-03,incomplete,Ash,3.09,,17.48,14.39,14.85,,,,,,,,,Mohan | Moisture W3 | 13-Nov-2026 17:57
 T1056,Gorchuri1,Climitra Lab Portal,2026-11-05,incomplete,"Moisture, Ash",,,20.85,,,,,,,,,,,Ramesh | Volatile Matter W3 | 13-Nov-2026 17:38
 T1057,GorChuri2,Climitra Lab Portal,2026-11-05,incomplete,Ash,3.43,,19.45,16.02,16.59,,,,,,,,,Mohan | Moisture W3 | 13-Nov-2026 17:55
 T1058,GorChuri3,Climitra Lab Portal,2026-11-05,incomplete,Ash,3.4,,19.41,16.01,16.57,,,,,,,,,Mohan | Moisture W3 | 13-Nov-2026 17:56
