@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-13T13:17:18+05:30",
+ "updated": "2026-11-13T14:17:14+05:30",
  "source": "sample_code / Name Tags",
- "count": 1050,
+ "count": 1061,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -5848,6 +5848,61 @@
    "name": "GOR/48",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-03"
+  },
+  "T1056": {
+   "name": "Gorchuri1",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1057": {
+   "name": "GorChuri2",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1058": {
+   "name": "GorChuri3",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1059": {
+   "name": "Gorchuri4",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1060": {
+   "name": "gorchuri5",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1061": {
+   "name": "Gorchuri6",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1062": {
+   "name": "Gorchuri7",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1063": {
+   "name": "GorChuri8",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1064": {
+   "name": "GorChuri9",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1065": {
+   "name": "GorChuri10",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1066": {
+   "name": "GorChuri11",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
   }
  }
 }
