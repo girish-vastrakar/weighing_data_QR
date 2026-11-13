@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:53:11+05:30",
+ "generated": "2026-11-13T15:53:30+05:30",
  "names_updated": "2026-11-13T15:40:59+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 290,
  "counts": {
   "complete": 252,
-  "incomplete": 37,
-  "not started": 1,
+  "incomplete": 38,
+  "not started": 0,
   "awaiting approval": 44
  },
  "results": [
@@ -6046,7 +6046,7 @@
    "name": "gorchuri5",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -6063,7 +6063,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W1 | 13-Nov-2026 15:53"
   },
   {
    "code": "T1062",
