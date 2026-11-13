@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:36:45+05:30",
+ "generated": "2026-11-13T15:37:55+05:30",
  "names_updated": "2026-11-13T15:32:23+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 284,
  "counts": {
   "complete": 252,
-  "incomplete": 26,
-  "not started": 6,
+  "incomplete": 27,
+  "not started": 5,
   "awaiting approval": 44
  },
  "results": [
@@ -5926,7 +5926,7 @@
    "name": "Gorchuri1",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -5943,7 +5943,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 13-Nov-2026 15:37"
   },
   {
    "code": "T1057",
