@@ -62559,7 +62559,9 @@
    ],
    "at": 1794563369873,
    "by": "labels page"
-  },
+  }
+ },
+ "cardsDeleted": {
   "MC W1-29": {
    "test": "MC",
    "bal": 1,
@@ -62581,7 +62583,9 @@
     "T165"
    ],
    "at": 1794563405907,
-   "by": "labels page"
+   "by": "labels page",
+   "delAt": 1794565456088,
+   "delBy": "labels page"
   },
   "ASH W1-29": {
    "test": "ASH",
@@ -62602,7 +62606,9 @@
     "T163"
    ],
    "at": 1794563405907,
-   "by": "labels page"
+   "by": "labels page",
+   "delAt": 1794565456088,
+   "delBy": "labels page"
   },
   "VM W1-29": {
    "test": "VM",
@@ -62628,7 +62634,9 @@
     "T168"
    ],
    "at": 1794563405907,
-   "by": "labels page"
+   "by": "labels page",
+   "delAt": 1794565456088,
+   "delBy": "labels page"
   }
  }
 }
