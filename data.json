@@ -60153,7 +60153,7 @@
      null
     ],
     "ASH": [
-     null,
+     22.5292,
      null,
      null
     ],
@@ -60164,7 +60164,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W2 | 13-Nov-2026 16:09",
+   "last": "Mohan | Ash W1 | 13-Nov-2026 16:43",
    "ev": [
     {
      "id": "1794564982935-njxjg",
@@ -60238,6 +60238,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "ASH",
+     "h": "ASH W1-30-10",
+     "b": 1
+    },
+    {
+     "id": "1794568387985-wbyhe",
+     "t": 1794568387986,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 22.5292,
+     "o": null,
      "h": "ASH W1-30-10",
      "b": 1
     }
