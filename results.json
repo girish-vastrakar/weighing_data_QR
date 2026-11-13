@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:28:45+05:30",
+ "generated": "2026-11-13T15:29:41+05:30",
  "names_updated": "2026-11-13T15:02:36+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 278,
+ "count": 279,
  "counts": {
   "complete": 252,
   "incomplete": 25,
-  "not started": 1,
+  "not started": 2,
   "awaiting approval": 44
  },
  "results": [
@@ -5902,6 +5902,30 @@
    "name": "GOR/48",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-03",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
+  },
+  {
+   "code": "T1056",
+   "name": "Gorchuri1",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
    "status": "not started",
    "pending": [
     "MC",
