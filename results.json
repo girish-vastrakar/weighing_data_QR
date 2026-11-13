@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T17:54:18+05:30",
+ "generated": "2026-11-13T17:55:52+05:30",
  "names_updated": "2026-11-13T16:02:50+05:30",
  "limits": {
   "MC": [
@@ -5973,21 +5973,20 @@
    "date": "2026-11-05",
    "status": "incomplete",
    "pending": [
-    "MC",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 3.43,
    "total_moisture": null,
    "vm_loss": 19.45,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 16.02,
+   "vm_db": 16.59,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:39"
+   "last_entry": "Mohan | Moisture W3 | 13-Nov-2026 17:55"
   },
   {
    "code": "T1058",
