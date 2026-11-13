@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:54:16+05:30",
+ "generated": "2026-11-13T15:54:46+05:30",
  "names_updated": "2026-11-13T15:40:59+05:30",
  "limits": {
   "MC": [
@@ -6063,7 +6063,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W1 | 13-Nov-2026 15:53"
+   "last_entry": "Mohan | Moisture W2 | 13-Nov-2026 15:54"
   },
   {
    "code": "T1062",
