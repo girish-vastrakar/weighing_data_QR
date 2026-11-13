@@ -61800,7 +61800,9 @@
    "bal": 1,
    "start": 1794565803786,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1794569590847,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-13-O2-mweu68r3": {
    "rid": "2026-11-13-O2-mweu68r3",
