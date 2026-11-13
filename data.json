@@ -60440,7 +60440,7 @@
      null
     ],
     "VM": [
-     null,
+     14.7836,
      null,
      null
     ],
@@ -60456,7 +60456,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Moisture W2 | 13-Nov-2026 15:50",
+   "last": "Ramesh | Volatile Matter W1 | 13-Nov-2026 16:11",
    "ev": [
     {
      "id": "1794565144535-racqu",
@@ -60497,6 +60497,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "VM",
+     "h": "VM W1-27-12",
+     "b": 1
+    },
+    {
+     "id": "1794566479763-mqui6",
+     "t": 1794566479763,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 14.7836,
+     "o": null,
      "h": "VM W1-27-12",
      "b": 1
     }
