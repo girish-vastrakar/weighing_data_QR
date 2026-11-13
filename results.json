@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:52:26+05:30",
+ "generated": "2026-11-13T15:53:01+05:30",
  "names_updated": "2026-11-13T15:40:59+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 289,
  "counts": {
   "complete": 252,
-  "incomplete": 36,
-  "not started": 1,
+  "incomplete": 37,
+  "not started": 0,
   "awaiting approval": 44
  },
  "results": [
@@ -6166,7 +6166,7 @@
    "name": "sumchu4",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -6183,7 +6183,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 13-Nov-2026 15:52"
   }
  ],
  "awaiting_approval": [
