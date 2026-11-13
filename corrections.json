@@ -10871,6 +10871,22 @@
    "via": "results page, paper sheet",
    "note": "retest, typed in by Claude from Girish's handwritten sheet dated 11-11-2026 (time of day not written)",
    "weighedAt": "2026-11-11T12:00:00+05:30"
+  },
+  {
+   "id": "1794564501207-t4i66",
+   "at": "2026-11-13T15:38:21+05:30",
+   "by": "Ramesh",
+   "action": "overwrite",
+   "code": "T1056",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 1,
+   "old": 38.3981,
+   "new": 35.9375,
+   "saved": {
+    "at": "2026-11-13T15:37:44+05:30",
+    "by": "Ramesh"
+   }
   }
  ]
 }
