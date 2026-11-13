@@ -1,8 +1,8 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:57:27+05:30",
- "names_updated": "2026-11-13T15:40:59+05:30",
+ "generated": "2026-11-13T16:02:59+05:30",
+ "names_updated": "2026-11-13T16:02:50+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -6615,7 +6615,7 @@
   },
   {
    "code": "T1014",
-   "name": "K6-261021-P01",
+   "name": "K6-261021-P01-U",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
    "status": "complete",
@@ -6628,7 +6628,7 @@
   },
   {
    "code": "T1015",
-   "name": "K6-261021-P02",
+   "name": "K6-261021-P02-U",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
    "status": "incomplete",
