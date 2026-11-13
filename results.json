@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T15:32:40+05:30",
+ "generated": "2026-11-13T15:33:44+05:30",
  "names_updated": "2026-11-13T15:32:23+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 284,
  "counts": {
   "complete": 252,
-  "incomplete": 25,
-  "not started": 7,
+  "incomplete": 26,
+  "not started": 6,
   "awaiting approval": 44
  },
  "results": [
@@ -5902,7 +5902,7 @@
    "name": "GOR/48",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-03",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -5919,7 +5919,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W1 | 13-Nov-2026 15:33"
   },
   {
    "code": "T1056",
