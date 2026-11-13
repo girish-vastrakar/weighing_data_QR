@@ -1,6 +1,6 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-13T15:40:59+05:30",
+ "updated": "2026-11-13T16:02:50+05:30",
  "source": "sample_code / Name Tags",
  "count": 1063,
  "names": {
@@ -5622,14 +5622,14 @@
    "machine": "W1"
   },
   "T1014": {
-   "name": "K6-261021-P01",
+   "name": "K6-261021-P01-U",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
    "machine": "W1",
    "batch": 21
   },
   "T1015": {
-   "name": "K6-261021-P02",
+   "name": "K6-261021-P02-U",
    "supplier": "K6 Experiment 2 @ Satapar",
    "date": "2026-10-24",
    "machine": "W1",
