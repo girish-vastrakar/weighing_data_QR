@@ -1,4 +1,112 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+13-Nov-2026 14:51,Girish,paper,T909,CH2/72,Volatile Matter,W3,,14.7648,,,,,1794561715820-pp5141-2
+13-Nov-2026 14:51,Girish,paper,T909,CH2/72,Volatile Matter,W2,,14.977,,,,,1794561715820-pp5141-1
+13-Nov-2026 14:51,Girish,paper,T909,CH2/72,Volatile Matter,W1,,13.9723,,,,,1794561715820-pp5141-0
+13-Nov-2026 14:51,Girish,paper,T893,CH2/56,Volatile Matter,W3,,15.9635,,,,,1794561715820-ppuhxl-2
+13-Nov-2026 14:51,Girish,paper,T893,CH2/56,Volatile Matter,W2,,16.1885,,,,,1794561715820-ppuhxl-1
+13-Nov-2026 14:51,Girish,paper,T893,CH2/56,Volatile Matter,W1,,15.1859,,,,,1794561715820-ppuhxl-0
+13-Nov-2026 14:51,Girish,paper,T870,CH2/33,Volatile Matter,W3,,17.1832,,,,,1794561715820-pp7cmz-2
+13-Nov-2026 14:51,Girish,paper,T870,CH2/33,Volatile Matter,W2,,17.4396,,,,,1794561715820-pp7cmz-1
+13-Nov-2026 14:51,Girish,paper,T870,CH2/33,Volatile Matter,W1,,16.4372,,,,,1794561715820-pp7cmz-0
+13-Nov-2026 14:51,Girish,paper,T867,CH2/30,Volatile Matter,W3,,20.4797,,,,,1794561715820-ppyet5-2
+13-Nov-2026 14:51,Girish,paper,T867,CH2/30,Volatile Matter,W2,,20.6922,,,,,1794561715820-ppyet5-1
+13-Nov-2026 14:51,Girish,paper,T867,CH2/30,Volatile Matter,W1,,19.6921,,,,,1794561715820-ppyet5-0
+13-Nov-2026 14:51,Girish,paper,T953,CH2/116,Volatile Matter,W3,,16.648,,,,,1794561715820-pp4kl5-2
+13-Nov-2026 14:51,Girish,paper,T953,CH2/116,Volatile Matter,W2,,16.7887,,,,,1794561715820-pp4kl5-1
+13-Nov-2026 14:51,Girish,paper,T953,CH2/116,Volatile Matter,W1,,15.785,,,,,1794561715820-pp4kl5-0
+13-Nov-2026 14:51,Girish,paper,T948,CH2/111,Volatile Matter,W3,,17.2501,,,,,1794561715820-ppb4s6-2
+13-Nov-2026 14:51,Girish,paper,T948,CH2/111,Volatile Matter,W2,,17.4074,,,,,1794561715820-ppb4s6-1
+13-Nov-2026 14:51,Girish,paper,T948,CH2/111,Volatile Matter,W1,,16.4057,,,,,1794561715820-ppb4s6-0
+13-Nov-2026 14:51,Girish,paper,T943,CH2/106,Volatile Matter,W3,,14.6127,,,,,1794561715820-pp70kn-2
+13-Nov-2026 14:51,Girish,paper,T943,CH2/106,Volatile Matter,W2,,14.871,,,,,1794561715820-pp70kn-1
+13-Nov-2026 14:51,Girish,paper,T943,CH2/106,Volatile Matter,W1,,13.8679,,,,,1794561715820-pp70kn-0
+13-Nov-2026 14:51,Girish,paper,T942,CH2/105,Volatile Matter,W3,,16.3225,,,,,1794561715820-ppa5tz-2
+13-Nov-2026 14:51,Girish,paper,T942,CH2/105,Volatile Matter,W2,,16.5567,,,,,1794561715820-ppa5tz-1
+13-Nov-2026 14:51,Girish,paper,T942,CH2/105,Volatile Matter,W1,,15.5558,,,,,1794561715820-ppa5tz-0
+13-Nov-2026 14:51,Girish,paper,T917,CH2/80,Volatile Matter,W3,,14.2032,,,,,1794561715820-pp0b2o-2
+13-Nov-2026 14:51,Girish,paper,T917,CH2/80,Volatile Matter,W2,,14.4264,,,,,1794561715820-pp0b2o-1
+13-Nov-2026 14:51,Girish,paper,T917,CH2/80,Volatile Matter,W1,,13.4231,,,,,1794561715820-pp0b2o-0
+13-Nov-2026 14:51,Girish,paper,T921,CH2/84,Ash,W3,,12.1298,,,,,1794561715820-ppuo80-2
+13-Nov-2026 14:51,Girish,paper,T921,CH2/84,Ash,W2,,13.0787,,,,,1794561715820-ppuo80-1
+13-Nov-2026 14:51,Girish,paper,T921,CH2/84,Ash,W1,,12.0759,,,,,1794561715820-ppuo80-0
+13-Nov-2026 14:51,Girish,paper,T900,CH2/63,Ash,W3,,11.529,,,,,1794561715820-ppz0pg-2
+13-Nov-2026 14:51,Girish,paper,T900,CH2/63,Ash,W2,,12.3986,,,,,1794561715820-ppz0pg-1
+13-Nov-2026 14:51,Girish,paper,T900,CH2/63,Ash,W1,,11.3944,,,,,1794561715820-ppz0pg-0
+13-Nov-2026 14:51,Girish,paper,T865,CH2/28,Ash,W3,,11.1469,,,,,1794561715820-pp2bti-2
+13-Nov-2026 14:51,Girish,paper,T865,CH2/28,Ash,W2,,11.952,,,,,1794561715820-pp2bti-1
+13-Nov-2026 14:51,Girish,paper,T865,CH2/28,Ash,W1,,10.9498,,,,,1794561715820-pp2bti-0
+13-Nov-2026 14:51,Girish,paper,T858,CH2/21,Ash,W3,,11.7571,,,,,1794561715820-pph5ka-2
+13-Nov-2026 14:51,Girish,paper,T858,CH2/21,Ash,W2,,12.6299,,,,,1794561715820-pph5ka-1
+13-Nov-2026 14:51,Girish,paper,T858,CH2/21,Ash,W1,,11.6282,,,,,1794561715820-pph5ka-0
+13-Nov-2026 14:51,Girish,paper,T844,CH2/07,Ash,W3,,25.225,,,,,1794561715820-pp0ssz-2
+13-Nov-2026 14:51,Girish,paper,T844,CH2/07,Ash,W2,,26.1001,,,,,1794561715820-pp0ssz-1
+13-Nov-2026 14:51,Girish,paper,T844,CH2/07,Ash,W1,,25.0975,,,,,1794561715820-pp0ssz-0
+13-Nov-2026 14:51,Girish,paper,T843,CH2/06,Ash,W3,,22.7173,,,,,1794561715820-pptyyu-2
+13-Nov-2026 14:51,Girish,paper,T843,CH2/06,Ash,W2,,23.5377,,,,,1794561715820-pptyyu-1
+13-Nov-2026 14:51,Girish,paper,T843,CH2/06,Ash,W1,,22.5367,,,,,1794561715820-pptyyu-0
+13-Nov-2026 14:51,Girish,paper,T842,CH2/05,Ash,W3,,11.7314,,,,,1794561715820-ppdfjb-2
+13-Nov-2026 14:51,Girish,paper,T842,CH2/05,Ash,W2,,12.5709,,,,,1794561715820-ppdfjb-1
+13-Nov-2026 14:51,Girish,paper,T842,CH2/05,Ash,W1,,11.5676,,,,,1794561715820-ppdfjb-0
+13-Nov-2026 14:51,Girish,paper,T841,CH2/04,Ash,W3,,11.819,,,,,1794561715820-ppbt51-2
+13-Nov-2026 14:51,Girish,paper,T841,CH2/04,Ash,W2,,12.6384,,,,,1794561715820-ppbt51-1
+13-Nov-2026 14:51,Girish,paper,T841,CH2/04,Ash,W1,,11.6345,,,,,1794561715820-ppbt51-0
+13-Nov-2026 14:51,Girish,paper,T840,CH2/03,Ash,W3,,13.6435,,,,,1794561715820-ppc0j0-2
+13-Nov-2026 14:51,Girish,paper,T840,CH2/03,Ash,W2,,14.3301,,,,,1794561715820-ppc0j0-1
+13-Nov-2026 14:51,Girish,paper,T840,CH2/03,Ash,W1,,13.3283,,,,,1794561715820-ppc0j0-0
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Ash,W3,,14.1046,,,,,1794561715820-ppmhpt-2
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Ash,W2,,14.9499,,,,,1794561715820-ppmhpt-1
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Ash,W1,,13.9476,,,,,1794561715820-ppmhpt-0
+13-Nov-2026 14:51,Girish,paper,T838,CH2/01,Ash,W3,,14.2579,,,,,1794561715820-ppnrc9-2
+13-Nov-2026 14:51,Girish,paper,T838,CH2/01,Ash,W2,,15.0684,,,,,1794561715820-ppnrc9-1
+13-Nov-2026 14:51,Girish,paper,T838,CH2/01,Ash,W1,,14.0623,,,,,1794561715820-ppnrc9-0
+13-Nov-2026 14:51,Girish,paper,T729,CH1/21,Ash,W3,,11.9707,,,,,1794561715820-ppde3o-2
+13-Nov-2026 14:51,Girish,paper,T729,CH1/21,Ash,W2,,12.8781,,,,,1794561715820-ppde3o-1
+13-Nov-2026 14:51,Girish,paper,T729,CH1/21,Ash,W1,,11.8714,,,,,1794561715820-ppde3o-0
+13-Nov-2026 14:51,Girish,paper,T1013,K6-261021-LOG,Ash,W3,,11.1162,,,,,1794561715820-ppooqr-2
+13-Nov-2026 14:51,Girish,paper,T1013,K6-261021-LOG,Ash,W2,,12.0984,,,,,1794561715820-ppooqr-1
+13-Nov-2026 14:51,Girish,paper,T1013,K6-261021-LOG,Ash,W1,,11.0935,,,,,1794561715820-ppooqr-0
+13-Nov-2026 14:51,Girish,paper,T895,CH2/58,Ash,W3,,14.8742,,,,,1794561715820-ppjs8g-2
+13-Nov-2026 14:51,Girish,paper,T895,CH2/58,Ash,W2,,15.5287,,,,,1794561715820-ppjs8g-1
+13-Nov-2026 14:51,Girish,paper,T895,CH2/58,Ash,W1,,14.5237,,,,,1794561715820-ppjs8g-0
+13-Nov-2026 14:51,Girish,paper,T886,CH2/49,Ash,W3,,13.4836,,,,,1794561715820-ppe24y-2
+13-Nov-2026 14:51,Girish,paper,T886,CH2/49,Ash,W2,,14.3498,,,,,1794561715820-ppe24y-1
+13-Nov-2026 14:51,Girish,paper,T886,CH2/49,Ash,W1,,13.3487,,,,,1794561715820-ppe24y-0
+13-Nov-2026 14:51,Girish,paper,T873,CH2/36,Ash,W3,,14.3474,,,,,1794561715820-pp6ir3-2
+13-Nov-2026 14:51,Girish,paper,T873,CH2/36,Ash,W2,,15.0502,,,,,1794561715820-pp6ir3-1
+13-Nov-2026 14:51,Girish,paper,T873,CH2/36,Ash,W1,,14.0464,,,,,1794561715820-pp6ir3-0
+13-Nov-2026 14:51,Girish,paper,T898,CH2/61,Ash,W3,,14.5189,,,,,1794561715820-pp6uvp-2
+13-Nov-2026 14:51,Girish,paper,T898,CH2/61,Ash,W2,,15.3497,,,,,1794561715820-pp6uvp-1
+13-Nov-2026 14:51,Girish,paper,T898,CH2/61,Ash,W1,,14.3475,,,,,1794561715820-pp6uvp-0
+13-Nov-2026 14:51,Girish,paper,T856,CH2/19,Ash,W3,,14.7403,,,,,1794561715820-ppvkwj-2
+13-Nov-2026 14:51,Girish,paper,T856,CH2/19,Ash,W2,,15.4973,,,,,1794561715820-ppvkwj-1
+13-Nov-2026 14:51,Girish,paper,T856,CH2/19,Ash,W1,,14.4927,,,,,1794561715820-ppvkwj-0
+13-Nov-2026 14:51,Girish,paper,T852,CH2/15,Ash,W3,,13.9879,,,,,1794561715820-ppitxc-2
+13-Nov-2026 14:51,Girish,paper,T852,CH2/15,Ash,W2,,14.8598,,,,,1794561715820-ppitxc-1
+13-Nov-2026 14:51,Girish,paper,T852,CH2/15,Ash,W1,,13.8598,,,,,1794561715820-ppitxc-0
+13-Nov-2026 14:51,Girish,paper,T851,CH2/14,Ash,W3,,14.7626,,,,,1794561715820-pp3ycz-2
+13-Nov-2026 14:51,Girish,paper,T851,CH2/14,Ash,W2,,15.5493,,,,,1794561715820-pp3ycz-1
+13-Nov-2026 14:51,Girish,paper,T851,CH2/14,Ash,W1,,14.5451,,,,,1794561715820-pp3ycz-0
+13-Nov-2026 14:51,Girish,paper,T850,CH2/13,Ash,W3,,14.3633,,,,,1794561715820-ppsvff-2
+13-Nov-2026 14:51,Girish,paper,T850,CH2/13,Ash,W2,,15.0071,,,,,1794561715820-ppsvff-1
+13-Nov-2026 14:51,Girish,paper,T850,CH2/13,Ash,W1,,14.0054,,,,,1794561715820-ppsvff-0
+13-Nov-2026 14:51,Girish,paper,T848,CH2/11,Ash,W3,,14.7807,,,,,1794561715820-ppgcwq-2
+13-Nov-2026 14:51,Girish,paper,T848,CH2/11,Ash,W2,,15.5388,,,,,1794561715820-ppgcwq-1
+13-Nov-2026 14:51,Girish,paper,T848,CH2/11,Ash,W1,,14.535,,,,,1794561715820-ppgcwq-0
+13-Nov-2026 14:51,Girish,paper,T846,CH2/09,Ash,W3,,14.5886,,,,,1794561715820-ppjhcj-2
+13-Nov-2026 14:51,Girish,paper,T846,CH2/09,Ash,W2,,15.4535,,,,,1794561715820-ppjhcj-1
+13-Nov-2026 14:51,Girish,paper,T846,CH2/09,Ash,W1,,14.4501,,,,,1794561715820-ppjhcj-0
+13-Nov-2026 14:51,Girish,paper,T845,CH2/08,Ash,W3,,15.0275,,,,,1794561715820-pptgtt-2
+13-Nov-2026 14:51,Girish,paper,T845,CH2/08,Ash,W2,,15.8628,,,,,1794561715820-pptgtt-1
+13-Nov-2026 14:51,Girish,paper,T845,CH2/08,Ash,W1,,14.8609,,,,,1794561715820-pptgtt-0
+13-Nov-2026 14:51,Girish,paper,T863,CH2/26,Moisture,W3,,42.7902,,,,,1794561715820-ppgils-2
+13-Nov-2026 14:51,Girish,paper,T863,CH2/26,Moisture,W2,,42.8712,,,,,1794561715820-ppgils-1
+13-Nov-2026 14:51,Girish,paper,T863,CH2/26,Moisture,W1,,41.8698,,,,,1794561715820-ppgils-0
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Moisture,W3,,38.3254,,,,,1794561715820-pp1fjt-2
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Moisture,W2,,38.4272,,,,,1794561715820-pp1fjt-1
+13-Nov-2026 14:51,Girish,paper,T839,CH2/02,Moisture,W1,,37.4225,,,,,1794561715820-pp1fjt-0
+13-Nov-2026 14:51,Girish,paper,T857,CH2/20,Moisture,W3,,42.4814,,,,,1794561715820-ppdvvv-2
+13-Nov-2026 14:51,Girish,paper,T857,CH2/20,Moisture,W2,,42.5602,,,,,1794561715820-ppdvvv-1
+13-Nov-2026 14:51,Girish,paper,T857,CH2/20,Moisture,W1,,41.5591,,,,,1794561715820-ppdvvv-0
 13-Nov-2026 14:48,Girish,paper,T1044,NAL/171,Ash,W3,,14.5935,,,,,1794561518473-ppr1g4-8
 13-Nov-2026 14:48,Girish,paper,T1044,NAL/171,Ash,W2,,15.5497,,,,,1794561518473-ppr1g4-7
 13-Nov-2026 14:48,Girish,paper,T1044,NAL/171,Ash,W1,,14.5432,,,,,1794561518473-ppr1g4-6
