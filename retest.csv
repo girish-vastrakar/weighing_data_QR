@@ -1,4 +1,9 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
+T449,AP-PMD/07-09-26/A,Climitra Lab Portal · Anjanelu,2026-10-02,"VM, Ash, Fixed carbon (check VM and Ash)",5.05,18.23,18.24,,VM 19.20 % db above 17.5 % db; ASH 19.21 % db above 12 % db; FC 61.59 % db below 72 % db,complete,
+T450,AP-ANY/09-09-26/A,Climitra Lab Portal · Venkat Reddy,2026-10-02,VM,2.85,21.91,3.57,,VM 22.55 % db above 17.5 % db,complete,
+T451,AP-PMD/24-09-26/A,Climitra Lab Portal · Suresh,2026-10-02,"Moisture, VM",17.89,18.97,2.92,,MC 17.89 % above 10 %; VM 23.10 % db above 17.5 % db,complete,
+T452,AP-PMD/24-09-26/B,Climitra Lab Portal · Narayana Swami,2026-10-02,VM,4.24,19.61,2.84,,VM 20.49 % db above 17.5 % db,complete,
+T454,MDK/PCS/01-10-26/A,Climitra Lab Portal · Prithvi Carbon Solution,2026-10-02,"Moisture, VM, Fixed carbon (check VM and Ash)",66.92,9.53,3.05,,MC 66.92 % above 10 %; VM 28.78 % db above 17.5 % db; FC 62.00 % db below 72 % db,complete,
 T1013,K6-261021-LOG,K6 Experiment 2 @ Satapar,2026-10-24,VM,2.31,29.37,,,VM 30.06 % db above 17.5 % db,incomplete,
 T1014,K6-261021-P01,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM, Fixed carbon (check VM and Ash)",18.61,17.65,5.61,,MC 18.61 % above 10 %; VM 21.67 % db above 17.5 % db; FC 71.44 % db below 72 % db,complete,
 T1015,K6-261021-P02,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM",20.2,18.5,,,MC 20.20 % above 10 %; VM 23.20 % db above 17.5 % db,incomplete,

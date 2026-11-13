@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-07T22:26:19+05:30",
+ "generated": "2026-11-13T14:43:19+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,15 +30,122 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 11,
+ "count": 16,
  "by_test": {
-  "MC": 7,
-  "VM": 8,
-  "ASH": 1,
-  "FC": 2,
+  "MC": 9,
+  "VM": 13,
+  "ASH": 2,
+  "FC": 4,
   "TM": 0
  },
  "samples": [
+  {
+   "code": "T449",
+   "name": "AP-PMD/07-09-26/A",
+   "supplier": "Climitra Lab Portal · Anjanelu",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 19.20 % db above 17.5 % db",
+    "ASH 19.21 % db above 12 % db",
+    "FC 61.59 % db below 72 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM",
+    "ASH",
+    "FC"
+   ],
+   "moisture": 5.05,
+   "vm_ar": 18.23,
+   "ash_ar": 18.24,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T450",
+   "name": "AP-ANY/09-09-26/A",
+   "supplier": "Climitra Lab Portal · Venkat Reddy",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 22.55 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 2.85,
+   "vm_ar": 21.91,
+   "ash_ar": 3.57,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T451",
+   "name": "AP-PMD/24-09-26/A",
+   "supplier": "Climitra Lab Portal · Suresh",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "MC 17.89 % above 10 %",
+    "VM 23.10 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "MC",
+    "VM"
+   ],
+   "moisture": 17.89,
+   "vm_ar": 18.97,
+   "ash_ar": 2.92,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T452",
+   "name": "AP-PMD/24-09-26/B",
+   "supplier": "Climitra Lab Portal · Narayana Swami",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 20.49 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 4.24,
+   "vm_ar": 19.61,
+   "ash_ar": 2.84,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T454",
+   "name": "MDK/PCS/01-10-26/A",
+   "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "MC 66.92 % above 10 %",
+    "VM 28.78 % db above 17.5 % db",
+    "FC 62.00 % db below 72 % db"
+   ],
+   "checks": [
+    "moisture > 50 %"
+   ],
+   "retest": [
+    "MC",
+    "VM",
+    "FC"
+   ],
+   "moisture": 66.92,
+   "vm_ar": 9.53,
+   "ash_ar": 3.05,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
   {
    "code": "T1013",
    "name": "K6-261021-LOG",

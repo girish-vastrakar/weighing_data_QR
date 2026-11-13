@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-13T14:17:23+05:30",
+ "generated": "2026-11-13T14:43:19+05:30",
  "names_updated": "2026-11-13T14:17:14+05:30",
  "limits": {
   "MC": [
@@ -44,7 +44,7 @@
   "complete": 235,
   "incomplete": 49,
   "not started": 1,
-  "awaiting approval": 11
+  "awaiting approval": 16
  },
  "results": [
   {
@@ -6090,6 +6090,68 @@
   }
  ],
  "awaiting_approval": [
+  {
+   "code": "T449",
+   "name": "AP-PMD/07-09-26/A",
+   "supplier": "Climitra Lab Portal · Anjanelu",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 19.20 % db above 17.5 % db",
+    "ASH 19.21 % db above 12 % db",
+    "FC 61.59 % db below 72 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T450",
+   "name": "AP-ANY/09-09-26/A",
+   "supplier": "Climitra Lab Portal · Venkat Reddy",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 22.55 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T451",
+   "name": "AP-PMD/24-09-26/A",
+   "supplier": "Climitra Lab Portal · Suresh",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "MC 17.89 % above 10 %",
+    "VM 23.10 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T452",
+   "name": "AP-PMD/24-09-26/B",
+   "supplier": "Climitra Lab Portal · Narayana Swami",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "VM 20.49 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T454",
+   "name": "MDK/PCS/01-10-26/A",
+   "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
+   "date": "2026-10-02",
+   "status": "complete",
+   "flags": [
+    "MC 66.92 % above 10 %",
+    "VM 28.78 % db above 17.5 % db",
+    "FC 62.00 % db below 72 % db"
+   ],
+   "checks": [
+    "moisture > 50 %"
+   ]
+  },
   {
    "code": "T1013",
    "name": "K6-261021-LOG",
