@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-13T14:17:14+05:30",
+ "updated": "2026-11-13T14:47:22+05:30",
  "source": "sample_code / Name Tags",
- "count": 1061,
+ "count": 1063,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -5901,6 +5901,16 @@
   },
   "T1066": {
    "name": "GorChuri11",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1067": {
+   "name": "sumchu4",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05"
+  },
+  "T1068": {
+   "name": "sumchu5",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05"
   }
