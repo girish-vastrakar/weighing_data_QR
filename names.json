@@ -1,6 +1,6 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-13T15:32:23+05:30",
+ "updated": "2026-11-13T15:40:59+05:30",
  "source": "sample_code / Name Tags",
  "count": 1063,
  "names": {
@@ -5862,7 +5862,7 @@
    "name": "GOR/47",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-03",
-   "machine": "W2"
+   "machine": "W1"
   },
   "T1055": {
    "name": "GOR/48",
@@ -5928,25 +5928,25 @@
    "name": "GorChuri10",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "machine": "W2"
+   "machine": "W1"
   },
   "T1066": {
    "name": "GorChuri11",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "machine": "W2"
+   "machine": "W1"
   },
   "T1067": {
    "name": "sumchu4",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "machine": "W2"
+   "machine": "W1"
   },
   "T1068": {
    "name": "sumchu5",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "machine": "W2"
+   "machine": "W1"
   }
  }
 }
