@@ -61346,9 +61346,9 @@
    "tm": false,
    "w": {
     "MC": [
-     41.7804,
-     42.7842,
-     42.6527
+     null,
+     null,
+     null
     ],
     "VM": [
      13.0463,
@@ -61367,7 +61367,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:45",
+   "last": "Deepak Pandey | Moisture reset (results page) | 14-Nov-2026 09:27",
    "ev": [
     {
      "id": "1794565241402-0woaw",
@@ -61503,6 +61503,20 @@
      "o": null,
      "h": "VM W1-27-13",
      "b": 1
+    },
+    {
+     "id": "1794628665201-rsv9z8",
+     "t": 1794628665201,
+     "by": "Deepak Pandey",
+     "a": "reset",
+     "k": "MC",
+     "o": [
+      41.7804,
+      42.7842,
+      42.6527
+     ],
+     "h": "DISH 20",
+     "via": "results"
     }
    ],
    "h": {
