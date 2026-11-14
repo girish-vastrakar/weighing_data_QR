@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-13T16:02:50+05:30",
+ "updated": "2026-11-14T09:47:15+05:30",
  "source": "sample_code / Name Tags",
- "count": 1063,
+ "count": 1077,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -5947,6 +5947,76 @@
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
    "machine": "W1"
+  },
+  "T1069": {
+   "name": "K7-261024-LOG",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1070": {
+   "name": "K7-261024-P01-L",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1071": {
+   "name": "K7-261024-P01-U",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1072": {
+   "name": "K7-261024-P02-L",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1073": {
+   "name": "K7-261024-P02-U",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1074": {
+   "name": "K7-261024-P03",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1075": {
+   "name": "K7-261024-P04",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1076": {
+   "name": "K7-261024-P05",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1077": {
+   "name": "K7-261024-P06",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1078": {
+   "name": "K7-261024-P07",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1079": {
+   "name": "K7-261024-P08",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1080": {
+   "name": "K7-261024-P09",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1081": {
+   "name": "K7-261024-P10",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
+  },
+  "T1082": {
+   "name": "K7-261024-P11",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04"
   }
  }
 }
