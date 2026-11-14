@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-14T09:27:58+05:30",
+ "generated": "2026-11-14T09:29:25+05:30",
  "names_updated": "2026-11-13T16:02:50+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 290,
+ "count": 291,
  "counts": {
   "complete": 252,
-  "incomplete": 38,
+  "incomplete": 39,
   "not started": 0,
-  "awaiting approval": 46
+  "awaiting approval": 45
  },
  "results": [
   {
@@ -6122,6 +6122,29 @@
    "last_entry": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:41"
   },
   {
+   "code": "T1065",
+   "name": "GorChuri10",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "incomplete",
+   "pending": [
+    "VM",
+    "ASH"
+   ],
+   "moisture": 4.47,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Deepak Pandey | Volatile Matter reset (results page) | 14-Nov-2026 09:29"
+  },
+  {
    "code": "T1066",
    "name": "GorChuri11",
    "supplier": "Climitra Lab Portal",
@@ -6713,17 +6736,6 @@
    "status": "incomplete",
    "flags": [
     "VM 18.24 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1065",
-   "name": "GorChuri10",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "incomplete",
-   "flags": [
-    "VM 100.00 % db above 17.5 % db"
    ],
    "checks": []
   }
