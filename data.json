@@ -61184,9 +61184,9 @@
      45.625
     ],
     "VM": [
-     14.7836,
-     15.7881,
-     14.7836
+     null,
+     null,
+     null
     ],
     "ASH": [
      13.7807,
@@ -61200,7 +61200,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:44",
+   "last": "Deepak Pandey | Volatile Matter reset (results page) | 14-Nov-2026 09:29",
    "ev": [
     {
      "id": "1794565144535-racqu",
@@ -61324,6 +61324,20 @@
      "o": null,
      "h": "VM W1-27-12",
      "b": 1
+    },
+    {
+     "id": "1794628753593-rs25w5",
+     "t": 1794628753593,
+     "by": "Deepak Pandey",
+     "a": "reset",
+     "k": "VM",
+     "o": [
+      14.7836,
+      15.7881,
+      14.7836
+     ],
+     "h": "VM W1-27-12",
+     "via": "results"
     }
    ],
    "h": {
