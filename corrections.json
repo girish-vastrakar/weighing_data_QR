@@ -11148,6 +11148,22 @@
    "via": "results page, paper sheet",
    "weighedBy": "mohan",
    "weighedAt": "2026-11-14T19:32:00+05:30"
+  },
+  {
+   "id": "1794665027016-ppvrss-0",
+   "at": "2026-11-14T19:33:47+05:30",
+   "by": "Deepak Pandey",
+   "action": "paper",
+   "code": "T1062",
+   "test": "Ash",
+   "key": "ASH",
+   "step": 3,
+   "old": null,
+   "new": 23.6715,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedBy": "mohan",
+   "weighedAt": "2026-11-14T19:33:00+05:30"
   }
  ]
 }
