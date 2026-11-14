@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-14T19:32:47+05:30",
+ "generated": "2026-11-14T19:34:01+05:30",
  "names_updated": "2026-11-14T09:47:15+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 288,
+ "count": 287,
  "counts": {
   "complete": 254,
-  "incomplete": 34,
+  "incomplete": 33,
   "not started": 0,
-  "awaiting approval": 48
+  "awaiting approval": 49
  },
  "results": [
   {
@@ -5990,28 +5990,6 @@
    "approved_at": "2026-11-14T09:25:08+05:30"
   },
   {
-   "code": "T1062",
-   "name": "Gorchuri7",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
-   "moisture": 4.94,
-   "total_moisture": null,
-   "vm_loss": 21.14,
-   "vm_ar": 16.21,
-   "vm_db": 17.05,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:40"
-  },
-  {
    "code": "T1063",
    "name": "GorChuri8",
    "supplier": "Climitra Lab Portal",
@@ -6707,6 +6685,18 @@
    "flags": [
     "ASH 27.34 % db above 12 % db",
     "FC 56.57 % db below 72 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1062",
+   "name": "Gorchuri7",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "flags": [
+    "ASH 34.73 % db above 12 % db",
+    "FC 48.23 % db below 72 % db"
    ],
    "checks": []
   }
