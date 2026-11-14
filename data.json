@@ -60342,7 +60342,7 @@
     "ASH": [
      22.5292,
      23.5333,
-     null
+     22.8098
     ],
     "TM": [
      null,
@@ -60351,7 +60351,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W3 | 13-Nov-2026 17:41",
+   "last": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:35",
    "ev": [
     {
      "id": "1794564982935-njxjg",
@@ -60475,6 +60475,20 @@
      "o": null,
      "h": "VM W1-27-10",
      "b": 1
+    },
+    {
+     "id": "1794665106454-ppuoq7-0",
+     "t": 1794665106454,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 22.8098,
+     "o": null,
+     "h": "ASH W1-30-10",
+     "via": "paper",
+     "wb": "mohan",
+     "wt": 1794665040000
     }
    ],
    "h": {
