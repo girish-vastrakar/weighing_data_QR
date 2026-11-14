@@ -1,4 +1,7 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+14-Nov-2026 09:27,Deepak Pandey,reset,T1066,GorChuri11,Moisture,W1,41.7804,,,Ramesh,13-Nov-2026 15:50,,1794628665201-rsv9z8
+14-Nov-2026 09:27,Deepak Pandey,reset,T1066,GorChuri11,Moisture,W2,42.7842,,,Ramesh,13-Nov-2026 15:51,,1794628665201-rsv9z8
+14-Nov-2026 09:27,Deepak Pandey,reset,T1066,GorChuri11,Moisture,W3,42.6527,,,Ramesh,13-Nov-2026 17:15,,1794628665201-rsv9z8
 13-Nov-2026 16:56,Mohan,overwrite,T1067,sumchu4,Ash,W1,13.8556,,,Mohan,13-Nov-2026 16:56,,1794569173652-0ojgp
 13-Nov-2026 16:53,Mohan,overwrite,T1066,GorChuri11,Ash,W1,14.1435,14.4135,,Mohan,13-Nov-2026 16:53,,1794569036166-mojwr
 13-Nov-2026 16:49,Mohan,overwrite,T1064,GorChuri9,Ash,W1,25.1263,14.0696,,Mohan,13-Nov-2026 16:20,,1794568749400-x60u2
