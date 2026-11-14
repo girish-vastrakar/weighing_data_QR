@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-14T12:06:16+05:30",
+ "generated": "2026-11-14T19:25:49+05:30",
  "names_updated": "2026-11-14T09:47:15+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 292,
  "counts": {
-  "complete": 252,
-  "incomplete": 40,
+  "complete": 253,
+  "incomplete": 39,
   "not started": 0,
   "awaiting approval": 44
  },
@@ -5902,22 +5902,20 @@
    "name": "GOR/47",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-03",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.67,
    "total_moisture": null,
    "vm_loss": 17.49,
    "vm_ar": 14.82,
    "vm_db": 15.23,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 5.06,
+   "ash_db": 5.2,
+   "fc_ar": 77.44,
+   "fc_db": 79.57,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 13-Nov-2026 18:00"
+   "last_entry": "Deepak Pandey | Ash corrected (results page) | 14-Nov-2026 19:25"
   },
   {
    "code": "T1055",
