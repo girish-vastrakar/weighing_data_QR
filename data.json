@@ -60631,7 +60631,7 @@
     "ASH": [
      11.2764,
      12.2797,
-     null
+     11.3272
     ],
     "TM": [
      null,
@@ -60640,7 +60640,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Moisture W3 | 13-Nov-2026 18:00",
+   "last": "Deepak Pandey | Ash corrected (results page) | 14-Nov-2026 19:25",
    "ev": [
     {
      "id": "1794564914619-ksm1g",
@@ -60786,6 +60786,19 @@
      "o": null,
      "h": "DISH 5",
      "b": 1
+    },
+    {
+     "id": "1794664534836-edrp95-0",
+     "t": 1794664534836,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.3272,
+     "o": null,
+     "h": "ASH W1-27-1",
+     "via": "edit",
+     "n": "QR related issue happened"
     }
    ],
    "h": {
