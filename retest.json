@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-14T12:06:16+05:30",
+ "generated": "2026-11-14T19:29:39+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,12 +30,12 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 44,
+ "count": 45,
  "by_test": {
   "MC": 14,
   "VM": 20,
-  "ASH": 19,
-  "FC": 20,
+  "ASH": 20,
+  "FC": 21,
   "TM": 0
  },
  "samples": [
@@ -932,6 +932,27 @@
    "moisture": 1.31,
    "vm_ar": 15.98,
    "ash_ar": 6.17,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1057",
+   "name": "GorChuri2",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "flags": [
+    "ASH 34.14 % db above 12 % db",
+    "FC 49.27 % db below 72 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "ASH",
+    "FC"
+   ],
+   "moisture": 3.43,
+   "vm_ar": 16.02,
+   "ash_ar": 32.97,
    "total_moisture": null,
    "approval_outdated": false
   }
