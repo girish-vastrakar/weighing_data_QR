@@ -11068,6 +11068,22 @@
    "saved": null,
    "via": "results page",
    "note": "QR related issue happened"
+  },
+  {
+   "id": "1794664688202-ppvpyw-0",
+   "at": "2026-11-14T19:28:08+05:30",
+   "by": "Deepak Pandey",
+   "action": "paper",
+   "code": "T1055",
+   "test": "Ash",
+   "key": "ASH",
+   "step": 3,
+   "old": null,
+   "new": 11.6475,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedBy": "mohan",
+   "weighedAt": "2026-11-14T19:27:00+05:30"
   }
  ]
 }
