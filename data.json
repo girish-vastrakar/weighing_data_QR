@@ -60495,7 +60495,7 @@
     "ASH": [
      11.0639,
      12.0649,
-     null
+     11.2632
     ],
     "TM": [
      null,
@@ -60504,7 +60504,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Moisture W3 | 13-Nov-2026 18:01",
+   "last": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:31",
    "ev": [
     {
      "id": "1794565276131-erc01",
@@ -60639,6 +60639,20 @@
      "o": null,
      "h": "DISH 13",
      "b": 1
+    },
+    {
+     "id": "1794664899018-pph5ir-0",
+     "t": 1794664899018,
+     "by": "Deepak Pandey",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 11.2632,
+     "o": null,
+     "h": "ASH W1-27-6",
+     "via": "paper",
+     "wb": "mohan",
+     "wt": 1794664860000
     }
    ],
    "h": {
